@@ -1,0 +1,15 @@
+# 1355 - Province1355
+
+# County Title
+title = c_province1355
+
+# Settlements
+max_settlements = 5
+b_barony1355` = tribal
+b_barony1355a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

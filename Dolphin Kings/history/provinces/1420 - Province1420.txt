@@ -1,0 +1,14 @@
+# 1420 - Province1420
+
+# County Title
+title = c_province1420
+
+# Settlements
+max_settlements = 2
+b_barony1420` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

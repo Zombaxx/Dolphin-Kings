@@ -1,0 +1,14 @@
+# 200 - Province0200
+
+# County Title
+title = c_province0200
+
+# Settlements
+max_settlements = 4
+b_barony0200` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

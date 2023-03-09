@@ -1,0 +1,15 @@
+# 1084 - Province1084
+
+# County Title
+title = c_province1084
+
+# Settlements
+max_settlements = 5
+b_barony1084` = tribal
+b_barony1084a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

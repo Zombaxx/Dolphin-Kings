@@ -1,0 +1,14 @@
+# 1508 - Province1508
+
+# County Title
+title = c_province1508
+
+# Settlements
+max_settlements = 2
+b_barony1508` = tribal
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History
