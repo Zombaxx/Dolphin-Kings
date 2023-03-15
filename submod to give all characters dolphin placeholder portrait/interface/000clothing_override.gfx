@@ -1,0 +1,79 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_dolphin"
+		texturefile = "gfx/characters/dolphin.dds"
+		noOfFrames = 1
+		norefcount = yes
+		can_be_lowres = yes
+	}
+	spriteType = {
+		name = "GFX_blue_tint"
+		texturefile = "gfx/characters/blue_tint.dds"
+		noOfFrames = 1
+		norefcount = yes
+		can_be_lowres = yes
+	}
+
+	portraitType = {
+		effectFile = "gfx/FX/portrait.lua"
+		name = "PORTRAIT_dolphin"
+		
+		weight = {
+			additive_modifier = {
+				value = 10000
+				#portrait_age > child
+				#portrait_is_female = no
+				#portrait_clothing = yes
+				#portrait_religion = catholic
+				#portrait_has_trait = catholic
+				#portrait_society = the_commission
+			}
+		}
+		
+		layer = { 
+			"GFX_dolphin:p37"
+		}
+		allow_property_values = {
+			37 = {
+				0 = { always = yes }
+			}
+		}
+	}
+
+#	portraitType = {
+#		effectFile = "gfx/FX/portrait.lua"
+#		name = "PORTRAIT_blue_tint"
+#		
+#		weight = {
+#			additive_modifier = {
+#				value = 10000
+#				portrait_age > child
+#				#portrait_is_female = yes
+#				portrait_clothing = yes
+#				#portrait_religion = catholic
+#				#portrait_has_trait = catholic
+#				#portrait_society = the_commission
+#			}
+#		}
+#		
+#		layer = { 
+#			"GFX_blue_tint:c5"
+#			"GFX_empty:c0"
+#			"GFX_empty:c1"
+#			"GFX_empty:c2"
+#			"GFX_empty:c3"
+#			"GFX_empty:c4"
+#			"GFX_empty:c6"
+#			"GFX_blue_tint:c7"
+#			
+#		}
+#		allow_property_values = {
+#			5 = {
+#				0 = { always = yes}
+#			}
+#			7 = {
+#				0 = { always = yes}
+#			}
+#		}
+#	}
+}
