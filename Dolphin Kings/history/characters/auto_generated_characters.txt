@@ -189760,7 +189760,7 @@
 113340 = {
 	name = "Adam"
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = brilliant_strategist
 	martial = 10
@@ -189778,7 +189778,7 @@
 113341 = {
 	name = "Adam"
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113340
 	680.1.1={
@@ -189791,7 +189791,7 @@
 113342 = {
 	name = "Adam"
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113341
 	708.1.1={
@@ -189807,7 +189807,7 @@
 113343 = {
 	name = "Adam"
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113341
 	710.1.1={
@@ -189820,7 +189820,7 @@
 113344 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	712.1.1={
 		birth="712.1.1"
@@ -189836,7 +189836,7 @@
 113345 = {
 	name = "Eve"
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113342
 	mother = 113344
@@ -189851,7 +189851,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113342
 	mother = 113344
@@ -189865,7 +189865,7 @@
 113347 = {
 	name = "Adam"
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113342
 	mother = 113344
@@ -189880,7 +189880,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113343
 	734.1.1={
@@ -189893,7 +189893,7 @@
 113349 = {
 	name = "Adam"
 	dynasty = 113340
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113343
 	735.1.1={
@@ -189906,7 +189906,7 @@
 113350 = {
 	name = "Adam"
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = grey_eminence
 	diplomacy = 10
@@ -189924,7 +189924,7 @@
 113351 = {
 	name = "Adam"
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113350
 	686.1.1={
@@ -189937,7 +189937,7 @@
 113352 = {
 	name = "Adam"
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113351
 	714.1.1={
@@ -189953,7 +189953,7 @@
 113353 = {
 	name = "Adam"
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113351
 	715.1.1={
@@ -189966,7 +189966,7 @@
 113354 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	724.1.1={
 		birth="724.1.1"
@@ -189982,7 +189982,7 @@
 113355 = {
 	name = "Adam"
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113352
 	mother = 113354
@@ -189996,7 +189996,7 @@
 113356 = {
 	name = "Adam"
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113352
 	mother = 113354
@@ -190011,7 +190011,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113352
 	mother = 113354
@@ -190025,7 +190025,7 @@
 113358 = {
 	name = "Adam"
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113353
 	735.1.1={
@@ -190039,7 +190039,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113350
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113353
 	739.1.1={
@@ -190779,7 +190779,7 @@
 113410 = {
 	name = "Adam"
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = grey_eminence
 	diplomacy = 10
@@ -190797,7 +190797,7 @@
 113411 = {
 	name = "Adam"
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113410
 	687.1.1={
@@ -190810,7 +190810,7 @@
 113412 = {
 	name = "Adam"
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113411
 	722.1.1={
@@ -190826,7 +190826,7 @@
 113413 = {
 	name = "Adam"
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113411
 	723.1.1={
@@ -190839,7 +190839,7 @@
 113414 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	717.1.1={
 		birth="717.1.1"
@@ -190855,7 +190855,7 @@
 113415 = {
 	name = "Adam"
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113412
 	mother = 113414
@@ -190870,7 +190870,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113412
 	mother = 113414
@@ -190884,7 +190884,7 @@
 113417 = {
 	name = "Adam"
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113412
 	mother = 113414
@@ -190899,7 +190899,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113413
 	746.1.1={
@@ -190912,7 +190912,7 @@
 113419 = {
 	name = "Adam"
 	dynasty = 113410
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113413
 	748.1.1={
@@ -191216,7 +191216,7 @@
 113440 = {
 	name = "Adam"
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = midas_touched
 	stewardship = 10
@@ -191233,7 +191233,7 @@
 113441 = {
 	name = "Adam"
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113440
 	683.1.1={
@@ -191246,7 +191246,7 @@
 113442 = {
 	name = "Adam"
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113441
 	716.1.1={
@@ -191262,7 +191262,7 @@
 113443 = {
 	name = "Adam"
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113441
 	719.1.1={
@@ -191275,7 +191275,7 @@
 113444 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	718.1.1={
 		birth="718.1.1"
@@ -191291,7 +191291,7 @@
 113445 = {
 	name = "Adam"
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113442
 	mother = 113444
@@ -191305,7 +191305,7 @@
 113446 = {
 	name = "Adam"
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113442
 	mother = 113444
@@ -191319,7 +191319,7 @@
 113447 = {
 	name = "Adam"
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113442
 	mother = 113444
@@ -191334,7 +191334,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113443
 	740.1.1={
@@ -191348,7 +191348,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113440
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113443
 	743.1.1={
@@ -192255,7 +192255,7 @@
 113530 = {
 	name = "Adam"
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = elusive_shadow
 	intrigue = 10
@@ -192273,7 +192273,7 @@
 113531 = {
 	name = "Adam"
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113530
 	687.1.1={
@@ -192286,7 +192286,7 @@
 113532 = {
 	name = "Adam"
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113531
 	718.1.1={
@@ -192302,7 +192302,7 @@
 113533 = {
 	name = "Adam"
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113531
 	722.1.1={
@@ -192315,7 +192315,7 @@
 113534 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	717.1.1={
 		birth="717.1.1"
@@ -192331,7 +192331,7 @@
 113535 = {
 	name = "Adam"
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113532
 	mother = 113534
@@ -192346,7 +192346,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113532
 	mother = 113534
@@ -192360,7 +192360,7 @@
 113537 = {
 	name = "Adam"
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113532
 	mother = 113534
@@ -192374,7 +192374,7 @@
 113538 = {
 	name = "Adam"
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113533
 	750.1.1={
@@ -192388,7 +192388,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113530
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113533
 	755.1.1={
@@ -193128,7 +193128,7 @@
 113590 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = mastermind_theologian
 	learning = 10
@@ -193146,7 +193146,7 @@
 113591 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113590
 	682.1.1={
@@ -193159,7 +193159,7 @@
 113592 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113591
 	716.1.1={
@@ -193175,7 +193175,7 @@
 113593 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113591
 	720.1.1={
@@ -193188,7 +193188,7 @@
 113594 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	729.1.1={
 		birth="729.1.1"
@@ -193204,7 +193204,7 @@
 113595 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113592
 	mother = 113594
@@ -193218,7 +193218,7 @@
 113596 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113592
 	mother = 113594
@@ -193233,7 +193233,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113592
 	mother = 113594
@@ -193247,7 +193247,7 @@
 113598 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113593
 	742.1.1={
@@ -193260,7 +193260,7 @@
 113599 = {
 	name = "Adam"
 	dynasty = 113590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113593
 	746.1.1={
@@ -193418,7 +193418,7 @@
 113610 = {
 	name = "Adam"
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = elusive_shadow
 	intrigue = 10
@@ -193436,7 +193436,7 @@
 113611 = {
 	name = "Adam"
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113610
 	692.1.1={
@@ -193449,7 +193449,7 @@
 113612 = {
 	name = "Adam"
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113611
 	713.1.1={
@@ -193465,7 +193465,7 @@
 113613 = {
 	name = "Adam"
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113611
 	718.1.1={
@@ -193478,7 +193478,7 @@
 113614 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	707.1.1={
 		birth="707.1.1"
@@ -193494,7 +193494,7 @@
 113615 = {
 	name = "Adam"
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113612
 	mother = 113614
@@ -193509,7 +193509,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113612
 	mother = 113614
@@ -193524,7 +193524,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113612
 	mother = 113614
@@ -193539,7 +193539,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113613
 	738.1.1={
@@ -193553,7 +193553,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113610
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113613
 	739.1.1={
@@ -194149,7 +194149,7 @@
 113660 = {
 	name = "Adam"
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = brilliant_strategist
 	martial = 10
@@ -194168,7 +194168,7 @@
 113661 = {
 	name = "Adam"
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113660
 	688.1.1={
@@ -194181,7 +194181,7 @@
 113662 = {
 	name = "Adam"
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113661
 	720.1.1={
@@ -194197,7 +194197,7 @@
 113663 = {
 	name = "Adam"
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113661
 	722.1.1={
@@ -194210,7 +194210,7 @@
 113664 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	726.1.1={
 		birth="726.1.1"
@@ -194226,7 +194226,7 @@
 113665 = {
 	name = "Adam"
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113662
 	mother = 113664
@@ -194241,7 +194241,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113662
 	mother = 113664
@@ -194256,7 +194256,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113662
 	mother = 113664
@@ -194271,7 +194271,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113663
 	745.1.1={
@@ -194284,7 +194284,7 @@
 113669 = {
 	name = "Adam"
 	dynasty = 113660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113663
 	750.1.1={
@@ -194599,7 +194599,7 @@
 113700 = {
 	name = "Adam"
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = midas_touched
 	stewardship = 10
@@ -194616,7 +194616,7 @@
 113701 = {
 	name = "Adam"
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113700
 	670.1.1={
@@ -194629,7 +194629,7 @@
 113702 = {
 	name = "Adam"
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113701
 	710.1.1={
@@ -194645,7 +194645,7 @@
 113703 = {
 	name = "Adam"
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113701
 	714.1.1={
@@ -194658,7 +194658,7 @@
 113704 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	715.1.1={
 		birth="715.1.1"
@@ -194674,7 +194674,7 @@
 113705 = {
 	name = "Adam"
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113702
 	mother = 113704
@@ -194689,7 +194689,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113702
 	mother = 113704
@@ -194704,7 +194704,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113702
 	mother = 113704
@@ -194718,7 +194718,7 @@
 113708 = {
 	name = "Adam"
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113703
 	743.1.1={
@@ -194732,7 +194732,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113700
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113703
 	745.1.1={
@@ -195038,7 +195038,7 @@
 113730 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = midas_touched
 	stewardship = 10
@@ -195055,7 +195055,7 @@
 113731 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113730
 	682.1.1={
@@ -195068,7 +195068,7 @@
 113732 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113731
 	707.1.1={
@@ -195084,7 +195084,7 @@
 113733 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113731
 	711.1.1={
@@ -195097,7 +195097,7 @@
 113734 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	714.1.1={
 		birth="714.1.1"
@@ -195113,7 +195113,7 @@
 113735 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113732
 	mother = 113734
@@ -195128,7 +195128,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113732
 	mother = 113734
@@ -195142,7 +195142,7 @@
 113737 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113732
 	mother = 113734
@@ -195156,7 +195156,7 @@
 113738 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113733
 	734.1.1={
@@ -195169,7 +195169,7 @@
 113739 = {
 	name = "Adam"
 	dynasty = 113730
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113733
 	737.1.1={
@@ -195329,7 +195329,7 @@
 113750 = {
 	name = "Adam"
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = brilliant_strategist
 	martial = 10
@@ -195347,7 +195347,7 @@
 113751 = {
 	name = "Adam"
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113750
 	691.1.1={
@@ -195360,7 +195360,7 @@
 113752 = {
 	name = "Adam"
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113751
 	716.1.1={
@@ -195376,7 +195376,7 @@
 113753 = {
 	name = "Adam"
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113751
 	717.1.1={
@@ -195389,7 +195389,7 @@
 113754 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	722.1.1={
 		birth="722.1.1"
@@ -195405,7 +195405,7 @@
 113755 = {
 	name = "Adam"
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113752
 	mother = 113754
@@ -195420,7 +195420,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113752
 	mother = 113754
@@ -195435,7 +195435,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113752
 	mother = 113754
@@ -195449,7 +195449,7 @@
 113758 = {
 	name = "Adam"
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113753
 	745.1.1={
@@ -195462,7 +195462,7 @@
 113759 = {
 	name = "Adam"
 	dynasty = 113750
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113753
 	746.1.1={
@@ -196362,7 +196362,7 @@
 113840 = {
 	name = "Adam"
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = midas_touched
 	stewardship = 10
@@ -196379,7 +196379,7 @@
 113841 = {
 	name = "Adam"
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113840
 	686.1.1={
@@ -196392,7 +196392,7 @@
 113842 = {
 	name = "Adam"
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113841
 	715.1.1={
@@ -196408,7 +196408,7 @@
 113843 = {
 	name = "Adam"
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113841
 	717.1.1={
@@ -196421,7 +196421,7 @@
 113844 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	715.1.1={
 		birth="715.1.1"
@@ -196437,7 +196437,7 @@
 113845 = {
 	name = "Adam"
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113842
 	mother = 113844
@@ -196451,7 +196451,7 @@
 113846 = {
 	name = "Adam"
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113842
 	mother = 113844
@@ -196466,7 +196466,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113842
 	mother = 113844
@@ -196481,7 +196481,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113843
 	739.1.1={
@@ -196494,7 +196494,7 @@
 113849 = {
 	name = "Adam"
 	dynasty = 113840
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113843
 	742.1.1={
@@ -196652,7 +196652,7 @@
 113860 = {
 	name = "Adam"
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -196670,7 +196670,7 @@
 113861 = {
 	name = "Adam"
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113860
 	674.1.1={
@@ -196683,7 +196683,7 @@
 113862 = {
 	name = "Adam"
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113861
 	706.1.1={
@@ -196699,7 +196699,7 @@
 113863 = {
 	name = "Adam"
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113861
 	709.1.1={
@@ -196712,7 +196712,7 @@
 113864 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	710.1.1={
 		birth="710.1.1"
@@ -196728,7 +196728,7 @@
 113865 = {
 	name = "Adam"
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113862
 	mother = 113864
@@ -196743,7 +196743,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113862
 	mother = 113864
@@ -196757,7 +196757,7 @@
 113867 = {
 	name = "Adam"
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113862
 	mother = 113864
@@ -196772,7 +196772,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113863
 	737.1.1={
@@ -196785,7 +196785,7 @@
 113869 = {
 	name = "Adam"
 	dynasty = 113860
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 113863
 	741.1.1={
@@ -197379,7 +197379,7 @@
 113910 = {
 	name = "Adam"
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = elusive_shadow
 	intrigue = 10
@@ -197397,7 +197397,7 @@
 113911 = {
 	name = "Adam"
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113910
 	685.1.1={
@@ -197410,7 +197410,7 @@
 113912 = {
 	name = "Adam"
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113911
 	708.1.1={
@@ -197426,7 +197426,7 @@
 113913 = {
 	name = "Adam"
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113911
 	713.1.1={
@@ -197439,7 +197439,7 @@
 113914 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	717.1.1={
 		birth="717.1.1"
@@ -197455,7 +197455,7 @@
 113915 = {
 	name = "Adam"
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113912
 	mother = 113914
@@ -197470,7 +197470,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113912
 	mother = 113914
@@ -197485,7 +197485,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113912
 	mother = 113914
@@ -197500,7 +197500,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113913
 	742.1.1={
@@ -197514,7 +197514,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 113910
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113913
 	744.1.1={
@@ -198552,7 +198552,7 @@
 113990 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = mastermind_theologian
 	learning = 10
@@ -198570,7 +198570,7 @@
 113991 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113990
 	664.1.1={
@@ -198583,7 +198583,7 @@
 113992 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113991
 	703.1.1={
@@ -198599,7 +198599,7 @@
 113993 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113991
 	707.1.1={
@@ -198612,7 +198612,7 @@
 113994 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	716.1.1={
 		birth="716.1.1"
@@ -198628,7 +198628,7 @@
 113995 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113992
 	mother = 113994
@@ -198642,7 +198642,7 @@
 113996 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113992
 	mother = 113994
@@ -198656,7 +198656,7 @@
 113997 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113992
 	mother = 113994
@@ -198670,7 +198670,7 @@
 113998 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113993
 	732.1.1={
@@ -198683,7 +198683,7 @@
 113999 = {
 	name = "Adam"
 	dynasty = 113990
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 113993
 	733.1.1={
@@ -199586,7 +199586,7 @@
 114070 = {
 	name = "Adam"
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = midas_touched
 	stewardship = 10
@@ -199603,7 +199603,7 @@
 114071 = {
 	name = "Adam"
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114070
 	671.1.1={
@@ -199616,7 +199616,7 @@
 114072 = {
 	name = "Adam"
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114071
 	700.1.1={
@@ -199632,7 +199632,7 @@
 114073 = {
 	name = "Adam"
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114071
 	703.1.1={
@@ -199645,7 +199645,7 @@
 114074 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	702.1.1={
 		birth="702.1.1"
@@ -199661,7 +199661,7 @@
 114075 = {
 	name = "Adam"
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114072
 	mother = 114074
@@ -199676,7 +199676,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114072
 	mother = 114074
@@ -199691,7 +199691,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114072
 	mother = 114074
@@ -199705,7 +199705,7 @@
 114078 = {
 	name = "Adam"
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114073
 	726.1.1={
@@ -199718,7 +199718,7 @@
 114079 = {
 	name = "Adam"
 	dynasty = 114070
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114073
 	730.1.1={
@@ -199731,7 +199731,7 @@
 114080 = {
 	name = "Adam"
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = brilliant_strategist
 	martial = 10
@@ -199749,7 +199749,7 @@
 114081 = {
 	name = "Adam"
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114080
 	677.1.1={
@@ -199762,7 +199762,7 @@
 114082 = {
 	name = "Adam"
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114081
 	715.1.1={
@@ -199778,7 +199778,7 @@
 114083 = {
 	name = "Adam"
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114081
 	719.1.1={
@@ -199791,7 +199791,7 @@
 114084 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	715.1.1={
 		birth="715.1.1"
@@ -199807,7 +199807,7 @@
 114085 = {
 	name = "Adam"
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114082
 	mother = 114084
@@ -199821,7 +199821,7 @@
 114086 = {
 	name = "Adam"
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114082
 	mother = 114084
@@ -199836,7 +199836,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114082
 	mother = 114084
@@ -199851,7 +199851,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114083
 	747.1.1={
@@ -199865,7 +199865,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114080
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114083
 	748.1.1={
@@ -200024,7 +200024,7 @@
 114100 = {
 	name = "Adam"
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = brilliant_strategist
 	martial = 10
@@ -200043,7 +200043,7 @@
 114101 = {
 	name = "Adam"
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114100
 	691.1.1={
@@ -200056,7 +200056,7 @@
 114102 = {
 	name = "Adam"
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114101
 	716.1.1={
@@ -200072,7 +200072,7 @@
 114103 = {
 	name = "Adam"
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114101
 	719.1.1={
@@ -200085,7 +200085,7 @@
 114104 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	729.1.1={
 		birth="729.1.1"
@@ -200101,7 +200101,7 @@
 114105 = {
 	name = "Adam"
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114102
 	mother = 114104
@@ -200116,7 +200116,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114102
 	mother = 114104
@@ -200130,7 +200130,7 @@
 114107 = {
 	name = "Adam"
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114102
 	mother = 114104
@@ -200145,7 +200145,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114103
 	742.1.1={
@@ -200158,7 +200158,7 @@
 114109 = {
 	name = "Adam"
 	dynasty = 114100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114103
 	743.1.1={
@@ -203376,7 +203376,7 @@
 114330 = {
 	name = "Adam"
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = mastermind_theologian
 	learning = 10
@@ -203394,7 +203394,7 @@
 114331 = {
 	name = "Adam"
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114330
 	687.1.1={
@@ -203407,7 +203407,7 @@
 114332 = {
 	name = "Adam"
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114331
 	722.1.1={
@@ -203423,7 +203423,7 @@
 114333 = {
 	name = "Adam"
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114331
 	727.1.1={
@@ -203436,7 +203436,7 @@
 114334 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	727.1.1={
 		birth="727.1.1"
@@ -203452,7 +203452,7 @@
 114335 = {
 	name = "Adam"
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114332
 	mother = 114334
@@ -203467,7 +203467,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114332
 	mother = 114334
@@ -203481,7 +203481,7 @@
 114337 = {
 	name = "Adam"
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114332
 	mother = 114334
@@ -203495,7 +203495,7 @@
 114338 = {
 	name = "Adam"
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114333
 	756.1.1={
@@ -203509,7 +203509,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114333
 	760.1.1={
@@ -205563,7 +205563,7 @@
 114480 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	trait = midas_touched
 	stewardship = 10
@@ -205580,7 +205580,7 @@
 114481 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114480
 	680.1.1={
@@ -205593,7 +205593,7 @@
 114482 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114481
 	715.1.1={
@@ -205609,7 +205609,7 @@
 114483 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114481
 	719.1.1={
@@ -205622,7 +205622,7 @@
 114484 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	726.1.1={
 		birth="726.1.1"
@@ -205638,7 +205638,7 @@
 114485 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114482
 	mother = 114484
@@ -205653,7 +205653,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114482
 	mother = 114484
@@ -205667,7 +205667,7 @@
 114487 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114482
 	mother = 114484
@@ -205681,7 +205681,7 @@
 114488 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114483
 	747.1.1={
@@ -205694,7 +205694,7 @@
 114489 = {
 	name = "Adam"
 	dynasty = 114480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "taoist"
 	father = 114483
 	752.1.1={
@@ -205853,7 +205853,7 @@
 114500 = {
 	name = "Adam"
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = midas_touched
 	stewardship = 10
@@ -205870,7 +205870,7 @@
 114501 = {
 	name = "Adam"
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114500
 	679.1.1={
@@ -205883,7 +205883,7 @@
 114502 = {
 	name = "Adam"
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114501
 	708.1.1={
@@ -205899,7 +205899,7 @@
 114503 = {
 	name = "Adam"
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114501
 	710.1.1={
@@ -205912,7 +205912,7 @@
 114504 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	702.1.1={
 		birth="702.1.1"
@@ -205928,7 +205928,7 @@
 114505 = {
 	name = "Adam"
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114502
 	mother = 114504
@@ -205942,7 +205942,7 @@
 114506 = {
 	name = "Adam"
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114502
 	mother = 114504
@@ -205957,7 +205957,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114502
 	mother = 114504
@@ -205971,7 +205971,7 @@
 114508 = {
 	name = "Adam"
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114503
 	739.1.1={
@@ -205985,7 +205985,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114500
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114502
 	mother = 114504
@@ -207746,7 +207746,7 @@
 114630 = {
 	name = "Adam"
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -207764,7 +207764,7 @@
 114631 = {
 	name = "Adam"
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114630
 	671.1.1={
@@ -207777,7 +207777,7 @@
 114632 = {
 	name = "Adam"
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114631
 	711.1.1={
@@ -207793,7 +207793,7 @@
 114633 = {
 	name = "Adam"
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114631
 	714.1.1={
@@ -207806,7 +207806,7 @@
 114634 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	720.1.1={
 		birth="720.1.1"
@@ -207822,7 +207822,7 @@
 114635 = {
 	name = "Adam"
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114632
 	mother = 114634
@@ -207837,7 +207837,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114632
 	mother = 114634
@@ -207852,7 +207852,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114632
 	mother = 114634
@@ -207866,7 +207866,7 @@
 114638 = {
 	name = "Adam"
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114633
 	736.1.1={
@@ -207879,7 +207879,7 @@
 114639 = {
 	name = "Adam"
 	dynasty = 114630
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114633
 	740.1.1={
@@ -208181,7 +208181,7 @@
 114660 = {
 	name = "Adam"
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -208200,7 +208200,7 @@
 114661 = {
 	name = "Adam"
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114660
 	679.1.1={
@@ -208213,7 +208213,7 @@
 114662 = {
 	name = "Adam"
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114661
 	717.1.1={
@@ -208229,7 +208229,7 @@
 114663 = {
 	name = "Adam"
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114661
 	718.1.1={
@@ -208242,7 +208242,7 @@
 114664 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	713.1.1={
 		birth="713.1.1"
@@ -208258,7 +208258,7 @@
 114665 = {
 	name = "Adam"
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114662
 	mother = 114664
@@ -208273,7 +208273,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114662
 	mother = 114664
@@ -208287,7 +208287,7 @@
 114667 = {
 	name = "Adam"
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114662
 	mother = 114664
@@ -208302,7 +208302,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114663
 	740.1.1={
@@ -208315,7 +208315,7 @@
 114669 = {
 	name = "Adam"
 	dynasty = 114660
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114663
 	743.1.1={
@@ -208475,7 +208475,7 @@
 114680 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = grey_eminence
 	diplomacy = 10
@@ -208493,7 +208493,7 @@
 114681 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114680
 	681.1.1={
@@ -208506,7 +208506,7 @@
 114682 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114681
 	720.1.1={
@@ -208522,7 +208522,7 @@
 114683 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114681
 	724.1.1={
@@ -208535,7 +208535,7 @@
 114684 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	724.1.1={
 		birth="724.1.1"
@@ -208551,7 +208551,7 @@
 114685 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114682
 	mother = 114684
@@ -208565,7 +208565,7 @@
 114686 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114682
 	mother = 114684
@@ -208579,7 +208579,7 @@
 114687 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114682
 	mother = 114684
@@ -208593,7 +208593,7 @@
 114688 = {
 	name = "Adam"
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114683
 	750.1.1={
@@ -208607,7 +208607,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114683
 	751.1.1={
@@ -211551,7 +211551,7 @@
 114890 = {
 	name = "Adam"
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -211570,7 +211570,7 @@
 114891 = {
 	name = "Adam"
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114890
 	691.1.1={
@@ -211583,7 +211583,7 @@
 114892 = {
 	name = "Adam"
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114891
 	712.1.1={
@@ -211599,7 +211599,7 @@
 114893 = {
 	name = "Adam"
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114891
 	717.1.1={
@@ -211612,7 +211612,7 @@
 114894 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	719.1.1={
 		birth="719.1.1"
@@ -211628,7 +211628,7 @@
 114895 = {
 	name = "Adam"
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114892
 	mother = 114894
@@ -211643,7 +211643,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114892
 	mother = 114894
@@ -211658,7 +211658,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114892
 	mother = 114894
@@ -211672,7 +211672,7 @@
 114898 = {
 	name = "Adam"
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114893
 	743.1.1={
@@ -211686,7 +211686,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114890
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114893
 	746.1.1={
@@ -211844,7 +211844,7 @@
 }
 114915 = {
 	name = "Adam"
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	739.1.1={
 		birth="739.1.1"
@@ -212425,7 +212425,7 @@
 114960 = {
 	name = "Adam"
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -212444,7 +212444,7 @@
 114961 = {
 	name = "Adam"
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114960
 	675.1.1={
@@ -212457,7 +212457,7 @@
 114962 = {
 	name = "Adam"
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114961
 	706.1.1={
@@ -212473,7 +212473,7 @@
 114963 = {
 	name = "Adam"
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114961
 	711.1.1={
@@ -212486,7 +212486,7 @@
 114964 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	708.1.1={
 		birth="708.1.1"
@@ -212502,7 +212502,7 @@
 114965 = {
 	name = "Adam"
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114962
 	mother = 114964
@@ -212517,7 +212517,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114962
 	mother = 114964
@@ -212532,7 +212532,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114962
 	mother = 114964
@@ -212547,7 +212547,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114963
 	740.1.1={
@@ -212561,7 +212561,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 114960
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 114963
 	741.1.1={
@@ -212865,7 +212865,7 @@
 }
 114995 = {
 	name = "Adam"
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	740.1.1={
 		birth="740.1.1"
@@ -214321,7 +214321,7 @@
 115100 = {
 	name = "Adam"
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = mastermind_theologian
 	learning = 10
@@ -214339,7 +214339,7 @@
 115101 = {
 	name = "Adam"
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115100
 	684.1.1={
@@ -214352,7 +214352,7 @@
 115102 = {
 	name = "Adam"
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115101
 	716.1.1={
@@ -214368,7 +214368,7 @@
 115103 = {
 	name = "Adam"
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115101
 	717.1.1={
@@ -214381,7 +214381,7 @@
 115104 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	721.1.1={
 		birth="721.1.1"
@@ -214397,7 +214397,7 @@
 115105 = {
 	name = "Adam"
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115102
 	mother = 115104
@@ -214412,7 +214412,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115102
 	mother = 115104
@@ -214427,7 +214427,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115102
 	mother = 115104
@@ -214441,7 +214441,7 @@
 115108 = {
 	name = "Adam"
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115103
 	744.1.1={
@@ -214454,7 +214454,7 @@
 115109 = {
 	name = "Adam"
 	dynasty = 115100
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115103
 	748.1.1={
@@ -214909,7 +214909,7 @@
 115140 = {
 	name = "Adam"
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -214928,7 +214928,7 @@
 115141 = {
 	name = "Adam"
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115140
 	690.1.1={
@@ -214941,7 +214941,7 @@
 115142 = {
 	name = "Adam"
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115141
 	729.1.1={
@@ -214957,7 +214957,7 @@
 115143 = {
 	name = "Adam"
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115141
 	733.1.1={
@@ -214970,7 +214970,7 @@
 115144 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	727.1.1={
 		birth="727.1.1"
@@ -214986,7 +214986,7 @@
 115145 = {
 	name = "Adam"
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115142
 	mother = 115144
@@ -215001,7 +215001,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115142
 	mother = 115144
@@ -215016,7 +215016,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115142
 	mother = 115144
@@ -215030,7 +215030,7 @@
 115148 = {
 	name = "Adam"
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115143
 	757.1.1={
@@ -215043,7 +215043,7 @@
 115149 = {
 	name = "Adam"
 	dynasty = 115140
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115143
 	759.1.1={
@@ -215056,7 +215056,7 @@
 115150 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -215074,7 +215074,7 @@
 115151 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115150
 	685.1.1={
@@ -215087,7 +215087,7 @@
 115152 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115151
 	724.1.1={
@@ -215103,7 +215103,7 @@
 115153 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115151
 	726.1.1={
@@ -215116,7 +215116,7 @@
 115154 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	719.1.1={
 		birth="719.1.1"
@@ -215132,7 +215132,7 @@
 115155 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115152
 	mother = 115154
@@ -215146,7 +215146,7 @@
 115156 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115152
 	mother = 115154
@@ -215161,7 +215161,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115152
 	mother = 115154
@@ -215175,7 +215175,7 @@
 115158 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115153
 	751.1.1={
@@ -215188,7 +215188,7 @@
 115159 = {
 	name = "Adam"
 	dynasty = 115150
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115153
 	755.1.1={
@@ -216077,7 +216077,7 @@
 }
 115225 = {
 	name = "Adam"
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	750.1.1={
 		birth="750.1.1"
@@ -216677,7 +216677,7 @@
 115270 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -216695,7 +216695,7 @@
 115271 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115270
 	666.1.1={
@@ -216708,7 +216708,7 @@
 115272 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115271
 	703.1.1={
@@ -216724,7 +216724,7 @@
 115273 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115271
 	705.1.1={
@@ -216737,7 +216737,7 @@
 115274 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	703.1.1={
 		birth="703.1.1"
@@ -216753,7 +216753,7 @@
 115275 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115272
 	mother = 115274
@@ -216767,7 +216767,7 @@
 115276 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115272
 	mother = 115274
@@ -216782,7 +216782,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115272
 	mother = 115274
@@ -216796,7 +216796,7 @@
 115278 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115273
 	725.1.1={
@@ -216809,7 +216809,7 @@
 115279 = {
 	name = "Adam"
 	dynasty = 115270
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115273
 	727.1.1={
@@ -217405,7 +217405,7 @@
 115320 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -217423,7 +217423,7 @@
 115321 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115320
 	687.1.1={
@@ -217436,7 +217436,7 @@
 115322 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115321
 	720.1.1={
@@ -217452,7 +217452,7 @@
 115323 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115321
 	721.1.1={
@@ -217465,7 +217465,7 @@
 115324 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	726.1.1={
 		birth="726.1.1"
@@ -217481,7 +217481,7 @@
 115325 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115322
 	mother = 115324
@@ -217496,7 +217496,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115322
 	mother = 115324
@@ -217510,7 +217510,7 @@
 115327 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115322
 	mother = 115324
@@ -217524,7 +217524,7 @@
 115328 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115323
 	743.1.1={
@@ -217537,7 +217537,7 @@
 115329 = {
 	name = "Adam"
 	dynasty = 115320
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115323
 	748.1.1={
@@ -217550,7 +217550,7 @@
 115330 = {
 	name = "Adam"
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -217568,7 +217568,7 @@
 115331 = {
 	name = "Adam"
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115330
 	690.1.1={
@@ -217581,7 +217581,7 @@
 115332 = {
 	name = "Adam"
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115331
 	717.1.1={
@@ -217597,7 +217597,7 @@
 115333 = {
 	name = "Adam"
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115331
 	720.1.1={
@@ -217610,7 +217610,7 @@
 115334 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	721.1.1={
 		birth="721.1.1"
@@ -217626,7 +217626,7 @@
 115335 = {
 	name = "Adam"
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115332
 	mother = 115334
@@ -217641,7 +217641,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115332
 	mother = 115334
@@ -217656,7 +217656,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115332
 	mother = 115334
@@ -217671,7 +217671,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115333
 	741.1.1={
@@ -217684,7 +217684,7 @@
 115339 = {
 	name = "Adam"
 	dynasty = 115330
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115333
 	742.1.1={
@@ -218278,7 +218278,7 @@
 115380 = {
 	name = "Adam"
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -218296,7 +218296,7 @@
 115381 = {
 	name = "Adam"
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115380
 	680.1.1={
@@ -218309,7 +218309,7 @@
 115382 = {
 	name = "Adam"
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115381
 	709.1.1={
@@ -218325,7 +218325,7 @@
 115383 = {
 	name = "Adam"
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115381
 	714.1.1={
@@ -218338,7 +218338,7 @@
 115384 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	720.1.1={
 		birth="720.1.1"
@@ -218354,7 +218354,7 @@
 115385 = {
 	name = "Adam"
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115382
 	mother = 115384
@@ -218369,7 +218369,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115382
 	mother = 115384
@@ -218384,7 +218384,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115382
 	mother = 115384
@@ -218398,7 +218398,7 @@
 115388 = {
 	name = "Adam"
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115383
 	742.1.1={
@@ -218412,7 +218412,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115380
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115383
 	745.1.1={
@@ -219549,7 +219549,7 @@
 115470 = {
 	name = "Adam"
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -219568,7 +219568,7 @@
 115471 = {
 	name = "Adam"
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115470
 	689.1.1={
@@ -219581,7 +219581,7 @@
 115472 = {
 	name = "Adam"
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115471
 	723.1.1={
@@ -219597,7 +219597,7 @@
 115473 = {
 	name = "Adam"
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115471
 	728.1.1={
@@ -219610,7 +219610,7 @@
 115474 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	716.1.1={
 		birth="716.1.1"
@@ -219626,7 +219626,7 @@
 115475 = {
 	name = "Adam"
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115472
 	mother = 115474
@@ -219640,7 +219640,7 @@
 115476 = {
 	name = "Adam"
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115472
 	mother = 115474
@@ -219655,7 +219655,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115472
 	mother = 115474
@@ -219670,7 +219670,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115473
 	756.1.1={
@@ -219684,7 +219684,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115470
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115472
 	mother = 115474
@@ -219698,7 +219698,7 @@
 115480 = {
 	name = "Adam"
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = midas_touched
 	stewardship = 10
@@ -219715,7 +219715,7 @@
 115481 = {
 	name = "Adam"
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115480
 	680.1.1={
@@ -219728,7 +219728,7 @@
 115482 = {
 	name = "Adam"
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115481
 	712.1.1={
@@ -219744,7 +219744,7 @@
 115483 = {
 	name = "Adam"
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115481
 	716.1.1={
@@ -219757,7 +219757,7 @@
 115484 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	718.1.1={
 		birth="718.1.1"
@@ -219773,7 +219773,7 @@
 115485 = {
 	name = "Adam"
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115482
 	mother = 115484
@@ -219788,7 +219788,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115482
 	mother = 115484
@@ -219803,7 +219803,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115482
 	mother = 115484
@@ -219817,7 +219817,7 @@
 115488 = {
 	name = "Adam"
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115483
 	736.1.1={
@@ -219830,7 +219830,7 @@
 115489 = {
 	name = "Adam"
 	dynasty = 115480
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115483
 	737.1.1={
@@ -220132,7 +220132,7 @@
 115510 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = mastermind_theologian
 	learning = 10
@@ -220150,7 +220150,7 @@
 115511 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115510
 	670.1.1={
@@ -220163,7 +220163,7 @@
 115512 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115511
 	705.1.1={
@@ -220179,7 +220179,7 @@
 115513 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115511
 	710.1.1={
@@ -220192,7 +220192,7 @@
 115514 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	714.1.1={
 		birth="714.1.1"
@@ -220208,7 +220208,7 @@
 115515 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115512
 	mother = 115514
@@ -220223,7 +220223,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115512
 	mother = 115514
@@ -220237,7 +220237,7 @@
 115517 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115512
 	mother = 115514
@@ -220251,7 +220251,7 @@
 115518 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115513
 	735.1.1={
@@ -220264,7 +220264,7 @@
 115519 = {
 	name = "Adam"
 	dynasty = 115510
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115513
 	737.1.1={
@@ -221136,7 +221136,7 @@
 115580 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -221154,7 +221154,7 @@
 115581 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115580
 	675.1.1={
@@ -221167,7 +221167,7 @@
 115582 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115581
 	713.1.1={
@@ -221183,7 +221183,7 @@
 115583 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115581
 	715.1.1={
@@ -221196,7 +221196,7 @@
 115584 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	725.1.1={
 		birth="725.1.1"
@@ -221212,7 +221212,7 @@
 115585 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115582
 	mother = 115584
@@ -221226,7 +221226,7 @@
 115586 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115582
 	mother = 115584
@@ -221241,7 +221241,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115582
 	mother = 115584
@@ -221255,7 +221255,7 @@
 115588 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115583
 	735.1.1={
@@ -221268,7 +221268,7 @@
 115589 = {
 	name = "Adam"
 	dynasty = 115580
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115583
 	737.1.1={
@@ -221281,7 +221281,7 @@
 115590 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = midas_touched
 	stewardship = 10
@@ -221298,7 +221298,7 @@
 115591 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115590
 	681.1.1={
@@ -221311,7 +221311,7 @@
 115592 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115591
 	714.1.1={
@@ -221327,7 +221327,7 @@
 115593 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115591
 	716.1.1={
@@ -221340,7 +221340,7 @@
 115594 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	716.1.1={
 		birth="716.1.1"
@@ -221356,7 +221356,7 @@
 115595 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115592
 	mother = 115594
@@ -221371,7 +221371,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115592
 	mother = 115594
@@ -221385,7 +221385,7 @@
 115597 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115592
 	mother = 115594
@@ -221399,7 +221399,7 @@
 115598 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115593
 	742.1.1={
@@ -221412,7 +221412,7 @@
 115599 = {
 	name = "Adam"
 	dynasty = 115590
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115593
 	745.1.1={
@@ -222158,7 +222158,7 @@
 115650 = {
 	name = "Adam"
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -222177,7 +222177,7 @@
 115651 = {
 	name = "Adam"
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115650
 	673.1.1={
@@ -222190,7 +222190,7 @@
 115652 = {
 	name = "Adam"
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115651
 	707.1.1={
@@ -222206,7 +222206,7 @@
 115653 = {
 	name = "Adam"
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115651
 	712.1.1={
@@ -222219,7 +222219,7 @@
 115654 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	712.1.1={
 		birth="712.1.1"
@@ -222235,7 +222235,7 @@
 115655 = {
 	name = "Adam"
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115652
 	mother = 115654
@@ -222250,7 +222250,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115652
 	mother = 115654
@@ -222264,7 +222264,7 @@
 115657 = {
 	name = "Adam"
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115652
 	mother = 115654
@@ -222278,7 +222278,7 @@
 115658 = {
 	name = "Adam"
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115653
 	738.1.1={
@@ -222292,7 +222292,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115650
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115653
 	742.1.1={
@@ -222599,7 +222599,7 @@
 115680 = {
 	name = "Adam"
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = midas_touched
 	stewardship = 10
@@ -222616,7 +222616,7 @@
 115681 = {
 	name = "Adam"
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115680
 	691.1.1={
@@ -222629,7 +222629,7 @@
 115682 = {
 	name = "Adam"
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115681
 	713.1.1={
@@ -222645,7 +222645,7 @@
 115683 = {
 	name = "Adam"
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115681
 	715.1.1={
@@ -222658,7 +222658,7 @@
 115684 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	719.1.1={
 		birth="719.1.1"
@@ -222674,7 +222674,7 @@
 115685 = {
 	name = "Adam"
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115682
 	mother = 115684
@@ -222689,7 +222689,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115682
 	mother = 115684
@@ -222704,7 +222704,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115682
 	mother = 115684
@@ -222719,7 +222719,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115683
 	735.1.1={
@@ -222732,7 +222732,7 @@
 115689 = {
 	name = "Adam"
 	dynasty = 115680
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115683
 	737.1.1={
@@ -224173,7 +224173,7 @@
 115790 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = grey_eminence
 	diplomacy = 10
@@ -224191,7 +224191,7 @@
 115791 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115790
 	679.1.1={
@@ -224204,7 +224204,7 @@
 115792 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115791
 	719.1.1={
@@ -224220,7 +224220,7 @@
 115793 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115791
 	720.1.1={
@@ -224233,7 +224233,7 @@
 115794 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	725.1.1={
 		birth="725.1.1"
@@ -224249,7 +224249,7 @@
 115795 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115792
 	mother = 115794
@@ -224263,7 +224263,7 @@
 115796 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115792
 	mother = 115794
@@ -224277,7 +224277,7 @@
 115797 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115792
 	mother = 115794
@@ -224291,7 +224291,7 @@
 115798 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115793
 	741.1.1={
@@ -224304,7 +224304,7 @@
 115799 = {
 	name = "Adam"
 	dynasty = 115790
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115793
 	743.1.1={
@@ -224609,7 +224609,7 @@
 115820 = {
 	name = "Adam"
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	trait = brilliant_strategist
 	martial = 10
@@ -224627,7 +224627,7 @@
 115821 = {
 	name = "Adam"
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115820
 	682.1.1={
@@ -224640,7 +224640,7 @@
 115822 = {
 	name = "Adam"
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115821
 	719.1.1={
@@ -224656,7 +224656,7 @@
 115823 = {
 	name = "Adam"
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115821
 	724.1.1={
@@ -224669,7 +224669,7 @@
 115824 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	713.1.1={
 		birth="713.1.1"
@@ -224685,7 +224685,7 @@
 115825 = {
 	name = "Adam"
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115822
 	mother = 115824
@@ -224699,7 +224699,7 @@
 115826 = {
 	name = "Adam"
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115822
 	mother = 115824
@@ -224714,7 +224714,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115822
 	mother = 115824
@@ -224729,7 +224729,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115823
 	752.1.1={
@@ -224742,7 +224742,7 @@
 115829 = {
 	name = "Adam"
 	dynasty = 115820
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "tengri_pagan"
 	father = 115823
 	753.1.1={
@@ -225483,7 +225483,7 @@
 115880 = {
 	name = "Adam"
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	trait = brilliant_strategist
 	martial = 10
@@ -225502,7 +225502,7 @@
 115881 = {
 	name = "Adam"
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115880
 	676.1.1={
@@ -225515,7 +225515,7 @@
 115882 = {
 	name = "Adam"
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115881
 	703.1.1={
@@ -225531,7 +225531,7 @@
 115883 = {
 	name = "Adam"
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115881
 	704.1.1={
@@ -225544,7 +225544,7 @@
 115884 = {
 	name = "Eve"
 	female = yes
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	706.1.1={
 		birth="706.1.1"
@@ -225560,7 +225560,7 @@
 115885 = {
 	name = "Adam"
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115882
 	mother = 115884
@@ -225574,7 +225574,7 @@
 115886 = {
 	name = "Adam"
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115882
 	mother = 115884
@@ -225589,7 +225589,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115882
 	mother = 115884
@@ -225604,7 +225604,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115883
 	727.1.1={
@@ -225618,7 +225618,7 @@
 	name = "Eve"
 	female = yes
 	dynasty = 115880
-	culture = "uncultured_swine"
+	culture = "jurchen"
 	religion = "buddhist"
 	father = 115883
 	731.1.1={
