@@ -1,0 +1,16 @@
+# 1588 - Province1588
+
+# County Title
+title = c_province1588
+
+# Settlements
+max_settlements = 4
+b_barony1588` = castle
+b_barony1588a = temple
+b_barony1588b = city
+
+# Misc
+culture = uncultured_swine
+religion = buddhist
+
+# History

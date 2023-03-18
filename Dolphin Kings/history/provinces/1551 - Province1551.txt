@@ -1,0 +1,16 @@
+# 1551 - Province1551
+
+# County Title
+title = c_province1551
+
+# Settlements
+max_settlements = 4
+b_barony1551` = castle
+b_barony1551a = temple
+b_barony1551b = city
+
+# Misc
+culture = uncultured_swine
+religion = buddhist
+
+# History

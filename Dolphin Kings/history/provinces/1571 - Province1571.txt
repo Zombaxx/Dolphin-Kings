@@ -1,0 +1,14 @@
+# 1571 - Province1571
+
+# County Title
+title = c_province1571
+
+# Settlements
+max_settlements = 2
+b_barony1571` = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

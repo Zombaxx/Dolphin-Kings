@@ -1,18 +1,14 @@
 adjacencies = {
-	26 = 30 #Province0026 - Province0030
-	32 = 34 #Province0032 - Province0034
-	210 = 185 #Province0210 - Province0185
-	281 = 300 #Province0281 - Province0300
-	295 = 275 #Province0295 - Province0275
-	353 = 356 #Province0353 - Province0356
-	454 = 486 #Province0454 - Province0486
-	562 = 543 #Province0562 - Province0543
-	570 = 600 #Province0570 - Province0600
-	974 = 988 #Province0974 - Province0988
-	1208 = 1190 #Province1208 - Province1190
-	1394 = 1411 #Province1394 - Province1411
-	1514 = 1504 #Province1514 - Province1504
-	1523 = 1524 #Province1523 - Province1524
+	28 = 32 #Province0028 - Province0032
+	34 = 36 #Province0034 - Province0036
+	215 = 190 #Province0215 - Province0190
+	286 = 306 #Province0286 - Province0306
+	362 = 365 #Province0362 - Province0365
+	468 = 502 #Province0468 - Province0502
+	1018 = 1032 #Province1018 - Province1032
+	1460 = 1479 #Province1460 - Province1479
+	1583 = 1573 #Province1583 - Province1573
+	1592 = 1593 #Province1592 - Province1593
 }
 
 
@@ -20,31 +16,27 @@ culture_group_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_culture_provinces < 16
+		num_culture_provinces < 18
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 24
+		num_culture_provinces > 27
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 32
+		num_culture_provinces > 36
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 40
+		num_culture_provinces > 45
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 48
+		num_culture_provinces > 54
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 56
-	}
-	modifier = {
-		factor = 0.8
-		num_culture_provinces > 64
+		num_culture_provinces > 63
 	}
 	modifier = {
 		factor = 0.8
@@ -52,11 +44,15 @@ culture_group_spread = {
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 80
+		num_culture_provinces > 81
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 88
+		num_culture_provinces > 90
+	}
+	modifier = {
+		factor = 0.8
+		num_culture_provinces > 99
 	}
 	#TODO: Add culture_group specific modifiers here
 }
@@ -115,31 +111,27 @@ religion_group_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_religion_provinces < 16
+		num_religion_provinces < 18
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 24
+		num_religion_provinces > 27
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 32
+		num_religion_provinces > 36
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 40
+		num_religion_provinces > 45
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 48
+		num_religion_provinces > 54
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 56
-	}
-	modifier = {
-		factor = 0.8
-		num_religion_provinces > 64
+		num_religion_provinces > 63
 	}
 	modifier = {
 		factor = 0.8
@@ -147,11 +139,15 @@ religion_group_spread = {
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 80
+		num_religion_provinces > 81
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 88
+		num_religion_provinces > 90
+	}
+	modifier = {
+		factor = 0.8
+		num_religion_provinces > 99
 	}
 	#TODO: Add religion_group specific modifiers here
 }

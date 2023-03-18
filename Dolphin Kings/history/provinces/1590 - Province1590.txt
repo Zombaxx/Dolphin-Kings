@@ -1,0 +1,14 @@
+# 1590 - Province1590
+
+# County Title
+title = c_province1590
+
+# Settlements
+max_settlements = 2
+b_barony1590` = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

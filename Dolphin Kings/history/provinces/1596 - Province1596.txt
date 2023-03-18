@@ -1,0 +1,15 @@
+# 1596 - Province1596
+
+# County Title
+title = c_province1596
+
+# Settlements
+max_settlements = 3
+b_barony1596` = city
+b_barony1596a = temple
+
+# Misc
+culture = mongol
+religion = buddhist
+
+# History

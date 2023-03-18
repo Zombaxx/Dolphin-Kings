@@ -9,7 +9,7 @@ b_barony0666` = tribal
 b_barony0666a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = nubian
+religion = jewish
 
 # History

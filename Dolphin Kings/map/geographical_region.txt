@@ -1,319 +1,607 @@
 # Geographical regions
-world_empire0026 = {
+world_empire0001 = {
 	duchies = {
-		# k_kingdom0026
-		d_duchy0026 
+		# k_kingdom0001
+		d_duchy0008 d_duchy0001 
 	}
 }
-world_empire0032 = {
+world_empire0028 = {
 	duchies = {
-		# k_kingdom0032
-		d_duchy0032 
+		# k_kingdom0028
+		d_duchy0028 
 	}
 }
-world_empire0041 = {
+world_empire0034 = {
 	duchies = {
-		# k_kingdom0007
-		d_duchy0004 d_duchy0012 d_duchy0014 d_duchy0015 d_duchy0016 d_duchy0024 d_duchy0025 d_duchy0007 
-		# k_kingdom0055
-		d_duchy0046 d_duchy0049 d_duchy0052 d_duchy0054 d_duchy0062 d_duchy0065 d_duchy0068 d_duchy0083 d_duchy0093 d_duchy0098 d_duchy0102 d_duchy0115 d_duchy0120 d_duchy0128 d_duchy0133 d_duchy0055 
-		# k_kingdom0092
-		d_duchy0064 d_duchy0078 d_duchy0082 d_duchy0095 d_duchy0107 d_duchy0124 d_duchy0132 d_duchy0155 d_duchy0160 d_duchy0092 
-		# k_kingdom0041
-		d_duchy0027 d_duchy0031 d_duchy0035 d_duchy0038 d_duchy0042 d_duchy0041 
+		# k_kingdom0034
+		d_duchy0034 
 	}
 }
-world_empire0089 = {
+world_empire0037 = {
 	duchies = {
-		# k_kingdom0130
-		d_duchy0109 d_duchy0119 d_duchy0121 d_duchy0143 d_duchy0150 d_duchy0154 d_duchy0130 
-		# k_kingdom0197
-		d_duchy0140 d_duchy0171 d_duchy0182 d_duchy0185 d_duchy0223 d_duchy0245 d_duchy0246 d_duchy0261 d_duchy0197 
+		# k_kingdom0010
+		d_duchy0010 
+		# k_kingdom0015
+		d_duchy0007 d_duchy0013 d_duchy0015 
+		# k_kingdom0016
+		d_duchy0016 
+		# k_kingdom0018
+		d_duchy0018 
+		# k_kingdom0025
+		d_duchy0025 
+		# k_kingdom0035
+		d_duchy0027 d_duchy0038 d_duchy0045 d_duchy0048 d_duchy0052 d_duchy0059 d_duchy0067 d_duchy0035 
+		# k_kingdom0050
+		d_duchy0039 d_duchy0068 d_duchy0050 
+		# k_kingdom0037
+		d_duchy0037 
+	}
+}
+world_empire0063 = {
+	duchies = {
+		# k_kingdom0063
+		d_duchy0042 d_duchy0057 d_duchy0073 d_duchy0063 
+	}
+}
+world_empire0087 = {
+	duchies = {
+		# k_kingdom0069
+		d_duchy0069 
 		# k_kingdom0089
-		d_duchy0079 d_duchy0089 
+		d_duchy0089 
+		# k_kingdom0097
+		d_duchy0083 d_duchy0097 
+		# k_kingdom0137
+		d_duchy0112 d_duchy0165 d_duchy0137 
+		# k_kingdom0160
+		d_duchy0129 d_duchy0160 
+		# k_kingdom0087
+		d_duchy0087 
+	}
+}
+world_empire0102 = {
+	duchies = {
+		# k_kingdom0116
+		d_duchy0095 d_duchy0138 d_duchy0116 
+		# k_kingdom0124
+		d_duchy0124 
+		# k_kingdom0146
+		d_duchy0122 d_duchy0146 
+		# k_kingdom0102
+		d_duchy0088 d_duchy0103 d_duchy0106 d_duchy0102 
+	}
+}
+world_empire0157 = {
+	duchies = {
+		# k_kingdom0094
+		d_duchy0084 d_duchy0094 
+		# k_kingdom0135
+		d_duchy0114 d_duchy0148 d_duchy0135 
+		# k_kingdom0155
+		d_duchy0126 d_duchy0159 d_duchy0190 d_duchy0229 d_duchy0334 d_duchy0155 
+		# k_kingdom0157
+		d_duchy0157 
 	}
 }
 world_empire0210 = {
 	duchies = {
-		# k_kingdom0210
-		d_duchy0210 
-	}
-}
-world_empire0216 = {
-	duchies = {
-		# k_kingdom0164
-		d_duchy0159 d_duchy0164 
-		# k_kingdom0256
-		d_duchy0204 d_duchy0236 d_duchy0239 d_duchy0256 
-		# k_kingdom0317
-		d_duchy0314 d_duchy0315 d_duchy0319 d_duchy0317 
+		# k_kingdom0203
+		d_duchy0203 
+		# k_kingdom0204
+		d_duchy0204 
+		# k_kingdom0219
+		d_duchy0219 
+		# k_kingdom0255
+		d_duchy0225 d_duchy0285 d_duchy0326 d_duchy0255 
+		# k_kingdom0260
+		d_duchy0246 d_duchy0265 d_duchy0290 d_duchy0299 d_duchy0346 d_duchy0353 d_duchy0260 
+		# k_kingdom0272
+		d_duchy0223 d_duchy0230 d_duchy0272 
 		# k_kingdom0331
-		d_duchy0279 d_duchy0322 d_duchy0331 
-		# k_kingdom0397
-		d_duchy0351 d_duchy0397 
-		# k_kingdom0437
-		d_duchy0414 d_duchy0451 d_duchy0472 d_duchy0437 
-		# k_kingdom0216
-		d_duchy0181 d_duchy0224 d_duchy0228 d_duchy0264 d_duchy0268 d_duchy0304 d_duchy0342 d_duchy0348 d_duchy0380 d_duchy0384 d_duchy0216 
+		d_duchy0329 d_duchy0331 
+		# k_kingdom0210
+		d_duchy0166 d_duchy0173 d_duchy0198 d_duchy0210 
 	}
 }
-world_empire0281 = {
+world_empire0213 = {
 	duchies = {
-		# k_kingdom0281
-		d_duchy0281 
+		# k_kingdom0169
+		d_duchy0164 d_duchy0169 
+		# k_kingdom0243
+		d_duchy0196 d_duchy0336 d_duchy0243 
+		# k_kingdom0213
+		d_duchy0192 d_duchy0233 d_duchy0269 d_duchy0273 d_duchy0213 
 	}
 }
-world_empire0295 = {
+world_empire0215 = {
 	duchies = {
-		# k_kingdom0295
-		d_duchy0295 
+		# k_kingdom0215
+		d_duchy0215 
 	}
 }
-world_empire0353 = {
+world_empire0286 = {
 	duchies = {
-		# k_kingdom0353
-		d_duchy0353 
+		# k_kingdom0286
+		d_duchy0286 
 	}
 }
-world_empire0401 = {
+world_empire0362 = {
 	duchies = {
-		# k_kingdom0311
-		d_duchy0285 d_duchy0298 d_duchy0350 d_duchy0311 
-		# k_kingdom0379
-		d_duchy0371 d_duchy0407 d_duchy0416 d_duchy0440 d_duchy0470 d_duchy0379 
-		# k_kingdom0401
-		d_duchy0356 d_duchy0401 
+		# k_kingdom0362
+		d_duchy0362 
 	}
 }
-world_empire0418 = {
+world_empire0367 = {
 	duchies = {
-		# k_kingdom0333
-		d_duchy0287 d_duchy0309 d_duchy0358 d_duchy0367 d_duchy0385 d_duchy0395 d_duchy0417 d_duchy0333 
-		# k_kingdom0481
-		d_duchy0464 d_duchy0465 d_duchy0497 d_duchy0519 d_duchy0529 d_duchy0587 d_duchy0609 d_duchy0481 
-		# k_kingdom0418
-		d_duchy0374 d_duchy0423 d_duchy0418 
+		# k_kingdom0202
+		d_duchy0145 d_duchy0176 d_duchy0187 d_duchy0228 d_duchy0251 d_duchy0202 
+		# k_kingdom0235
+		d_duchy0235 
+		# k_kingdom0266
+		d_duchy0266 
+		# k_kingdom0289
+		d_duchy0289 
+		# k_kingdom0291
+		d_duchy0245 d_duchy0304 d_duchy0340 d_duchy0359 d_duchy0382 d_duchy0413 d_duchy0419 d_duchy0291 
+		# k_kingdom0321
+		d_duchy0267 d_duchy0321 
+		# k_kingdom0325
+		d_duchy0323 d_duchy0325 
+		# k_kingdom0342
+		d_duchy0298 d_duchy0342 
+		# k_kingdom0367
+		d_duchy0367 
 	}
 }
-world_empire0454 = {
+world_empire0377 = {
 	duchies = {
-		# k_kingdom0454
-		d_duchy0454 
+		# k_kingdom0341
+		d_duchy0288 d_duchy0363 d_duchy0386 d_duchy0341 
+		# k_kingdom0420
+		d_duchy0368 d_duchy0425 d_duchy0420 
+		# k_kingdom0430
+		d_duchy0396 d_duchy0430 
+		# k_kingdom0377
+		d_duchy0315 d_duchy0377 
 	}
 }
-world_empire0493 = {
+world_empire0393 = {
 	duchies = {
-		# k_kingdom0199
-		d_duchy0168 d_duchy0193 d_duchy0198 d_duchy0201 d_duchy0205 d_duchy0218 d_duchy0241 d_duchy0247 d_duchy0250 d_duchy0257 d_duchy0259 d_duchy0260 d_duchy0267 d_duchy0293 d_duchy0318 d_duchy0320 d_duchy0323 d_duchy0337 d_duchy0341 d_duchy0360 d_duchy0388 d_duchy0394 d_duchy0400 d_duchy0419 d_duchy0432 d_duchy0452 d_duchy0199 
-		# k_kingdom0531
-		d_duchy0467 d_duchy0488 d_duchy0499 d_duchy0503 d_duchy0551 d_duchy0552 d_duchy0561 d_duchy0566 d_duchy0567 d_duchy0576 d_duchy0596 d_duchy0634 d_duchy0663 d_duchy0675 d_duchy0531 
-		# k_kingdom0559
-		d_duchy0502 d_duchy0516 d_duchy0538 d_duchy0553 d_duchy0564 d_duchy0597 d_duchy0598 d_duchy0599 d_duchy0614 d_duchy0641 d_duchy0654 d_duchy0660 d_duchy0668 d_duchy0559 
-		# k_kingdom0493
-		d_duchy0458 d_duchy0473 d_duchy0487 d_duchy0493 
+		# k_kingdom0241
+		d_duchy0209 d_duchy0241 
+		# k_kingdom0261
+		d_duchy0244 d_duchy0261 
+		# k_kingdom0287
+		d_duchy0287 
+		# k_kingdom0328
+		d_duchy0258 d_duchy0347 d_duchy0328 
+		# k_kingdom0406
+		d_duchy0312 d_duchy0375 d_duchy0406 
+		# k_kingdom0393
+		d_duchy0393 
 	}
 }
-world_empire0512 = {
+world_empire0407 = {
 	duchies = {
-		# k_kingdom0422
-		d_duchy0382 d_duchy0422 
-		# k_kingdom0512
-		d_duchy0483 d_duchy0512 
+		# k_kingdom0360
+		d_duchy0360 
+		# k_kingdom0407
+		d_duchy0407 
 	}
 }
-world_empire0541 = {
+world_empire0465 = {
 	duchies = {
-		# k_kingdom0491
-		d_duchy0433 d_duchy0436 d_duchy0447 d_duchy0495 d_duchy0534 d_duchy0491 
-		# k_kingdom0541
-		d_duchy0509 d_duchy0550 d_duchy0571 d_duchy0588 d_duchy0610 d_duchy0626 d_duchy0541 
+		# k_kingdom0391
+		d_duchy0380 d_duchy0391 
+		# k_kingdom0427
+		d_duchy0372 d_duchy0427 
+		# k_kingdom0478
+		d_duchy0478 
+		# k_kingdom0465
+		d_duchy0390 d_duchy0418 d_duchy0429 d_duchy0451 d_duchy0488 d_duchy0465 
+	}
+}
+world_empire0468 = {
+	duchies = {
+		# k_kingdom0468
+		d_duchy0468 
+	}
+}
+world_empire0489 = {
+	duchies = {
+		# k_kingdom0404
+		d_duchy0355 d_duchy0404 
+		# k_kingdom0446
+		d_duchy0412 d_duchy0446 
+		# k_kingdom0466
+		d_duchy0448 d_duchy0464 d_duchy0466 
+		# k_kingdom0555
+		d_duchy0529 d_duchy0555 
+		# k_kingdom0489
+		d_duchy0445 d_duchy0520 d_duchy0541 d_duchy0489 
+	}
+}
+world_empire0506 = {
+	duchies = {
+		# k_kingdom0435
+		d_duchy0435 
+		# k_kingdom0473
+		d_duchy0444 d_duchy0473 
+		# k_kingdom0532
+		d_duchy0532 
+		# k_kingdom0506
+		d_duchy0506 
+	}
+}
+world_empire0550 = {
+	duchies = {
+		# k_kingdom0483
+		d_duchy0447 d_duchy0483 
+		# k_kingdom0504
+		d_duchy0504 
+		# k_kingdom0570
+		d_duchy0543 d_duchy0582 d_duchy0570 
+		# k_kingdom0669
+		d_duchy0591 d_duchy0681 d_duchy0669 
+		# k_kingdom0702
+		d_duchy0643 d_duchy0702 
+		# k_kingdom0550
+		d_duchy0550 
+	}
+}
+world_empire0552 = {
+	duchies = {
+		# k_kingdom0479
+		d_duchy0462 d_duchy0480 d_duchy0497 d_duchy0479 
+		# k_kingdom0552
+		d_duchy0525 d_duchy0574 d_duchy0630 d_duchy0552 
 	}
 }
 world_empire0562 = {
 	duchies = {
 		# k_kingdom0562
-		d_duchy0562 
+		d_duchy0653 d_duchy0562 
 	}
 }
-world_empire0570 = {
+world_empire0567 = {
 	duchies = {
-		# k_kingdom0570
-		d_duchy0570 
+		# k_kingdom0476
+		d_duchy0443 d_duchy0476 
+		# k_kingdom0494
+		d_duchy0490 d_duchy0531 d_duchy0536 d_duchy0494 
+		# k_kingdom0560
+		d_duchy0527 d_duchy0560 
+		# k_kingdom0608
+		d_duchy0564 d_duchy0569 d_duchy0608 
+		# k_kingdom0636
+		d_duchy0590 d_duchy0684 d_duchy0636 
+		# k_kingdom0656
+		d_duchy0593 d_duchy0656 
+		# k_kingdom0567
+		d_duchy0567 
 	}
 }
-world_empire0689 = {
+world_empire0576 = {
 	duchies = {
-		# k_kingdom0607
-		d_duchy0543 d_duchy0642 d_duchy0607 
-		# k_kingdom0662
-		d_duchy0620 d_duchy0623 d_duchy0625 d_duchy0629 d_duchy0670 d_duchy0706 d_duchy0726 d_duchy0662 
-		# k_kingdom0689
-		d_duchy0627 d_duchy0665 d_duchy0667 d_duchy0698 d_duchy0711 d_duchy0745 d_duchy0756 d_duchy0758 d_duchy0789 d_duchy0689 
-	}
-}
-world_empire0727 = {
-	duchies = {
-		# k_kingdom0655
-		d_duchy0649 d_duchy0661 d_duchy0696 d_duchy0655 
-		# k_kingdom0755
-		d_duchy0729 d_duchy0730 d_duchy0736 d_duchy0755 
-		# k_kingdom0800
-		d_duchy0768 d_duchy0775 d_duchy0794 d_duchy0799 d_duchy0819 d_duchy0825 d_duchy0800 
-		# k_kingdom0727
-		d_duchy0692 d_duchy0727 
-	}
-}
-world_empire0791 = {
-	duchies = {
+		# k_kingdom0519
+		d_duchy0472 d_duchy0519 
+		# k_kingdom0573
+		d_duchy0521 d_duchy0598 d_duchy0610 d_duchy0629 d_duchy0663 d_duchy0691 d_duchy0718 d_duchy0573 
+		# k_kingdom0619
+		d_duchy0599 d_duchy0635 d_duchy0655 d_duchy0692 d_duchy0619 
 		# k_kingdom0666
-		d_duchy0647 d_duchy0666 
-		# k_kingdom0731
-		d_duchy0688 d_duchy0694 d_duchy0724 d_duchy0743 d_duchy0778 d_duchy0792 d_duchy0731 
-		# k_kingdom0741
-		d_duchy0722 d_duchy0747 d_duchy0779 d_duchy0741 
-		# k_kingdom0791
-		d_duchy0748 d_duchy0760 d_duchy0785 d_duchy0797 d_duchy0811 d_duchy0814 d_duchy0824 d_duchy0827 d_duchy0842 d_duchy0791 
+		d_duchy0618 d_duchy0731 d_duchy0666 
+		# k_kingdom0704
+		d_duchy0704 
+		# k_kingdom0576
+		d_duchy0557 d_duchy0576 
 	}
 }
-world_empire0908 = {
+world_empire0621 = {
 	duchies = {
-		# k_kingdom0853
-		d_duchy0849 d_duchy0898 d_duchy0922 d_duchy0853 
-		# k_kingdom0908
-		d_duchy0878 d_duchy0881 d_duchy0900 d_duchy0927 d_duchy0943 d_duchy0953 d_duchy0908 
+		# k_kingdom0621
+		d_duchy0717 d_duchy0621 
 	}
 }
-world_empire0912 = {
+world_empire0688 = {
 	duchies = {
-		# k_kingdom0833
-		d_duchy0806 d_duchy0810 d_duchy0813 d_duchy0835 d_duchy0852 d_duchy0862 d_duchy0833 
+		# k_kingdom0626
+		d_duchy0615 d_duchy0641 d_duchy0676 d_duchy0626 
+		# k_kingdom0713
+		d_duchy0703 d_duchy0752 d_duchy0713 
+		# k_kingdom0730
+		d_duchy0685 d_duchy0714 d_duchy0730 
+		# k_kingdom0737
+		d_duchy0734 d_duchy0737 
+		# k_kingdom0688
+		d_duchy0651 d_duchy0667 d_duchy0688 
+	}
+}
+world_empire0753 = {
+	duchies = {
+		# k_kingdom0678
+		d_duchy0672 d_duchy0678 
+		# k_kingdom0784
+		d_duchy0720 d_duchy0733 d_duchy0762 d_duchy0784 
+		# k_kingdom0796
+		d_duchy0755 d_duchy0828 d_duchy0796 
 		# k_kingdom0855
-		d_duchy0823 d_duchy0855 
-		# k_kingdom0935
-		d_duchy0885 d_duchy0892 d_duchy0905 d_duchy0932 d_duchy0956 d_duchy0963 d_duchy0983 d_duchy1003 d_duchy1008 d_duchy1015 d_duchy0935 
-		# k_kingdom0960
-		d_duchy0930 d_duchy0950 d_duchy0957 d_duchy0981 d_duchy0960 
-		# k_kingdom0912
-		d_duchy0861 d_duchy0890 d_duchy0895 d_duchy0912 
+		d_duchy0823 d_duchy0829 d_duchy0849 d_duchy0905 d_duchy0855 
+		# k_kingdom0924
+		d_duchy0869 d_duchy0945 d_duchy0924 
+		# k_kingdom0929
+		d_duchy0923 d_duchy0963 d_duchy0996 d_duchy1006 d_duchy1052 d_duchy1054 d_duchy0929 
+		# k_kingdom1009
+		d_duchy0979 d_duchy1009 
+		# k_kingdom1075
+		d_duchy1033 d_duchy1075 
+		# k_kingdom1185
+		d_duchy1136 d_duchy1183 d_duchy1215 d_duchy1239 d_duchy1245 d_duchy1278 d_duchy1290 d_duchy1308 d_duchy1185 
+		# k_kingdom0753
+		d_duchy0716 d_duchy0753 
 	}
 }
-world_empire0974 = {
+world_empire0815 = {
 	duchies = {
-		# k_kingdom0974
-		d_duchy0974 
+		# k_kingdom0786
+		d_duchy0761 d_duchy0786 
+		# k_kingdom0787
+		d_duchy0781 d_duchy0787 
+		# k_kingdom0815
+		d_duchy0805 d_duchy0815 
 	}
 }
-world_empire0979 = {
+world_empire0820 = {
 	duchies = {
-		# k_kingdom0889
-		d_duchy0838 d_duchy0872 d_duchy0888 d_duchy0909 d_duchy0926 d_duchy0940 d_duchy0889 
-		# k_kingdom1133
-		d_duchy1089 d_duchy1131 d_duchy1161 d_duchy1184 d_duchy1190 d_duchy1230 d_duchy1247 d_duchy1279 d_duchy1305 d_duchy1133 
-		# k_kingdom0979
-		d_duchy0954 d_duchy0955 d_duchy0975 d_duchy1004 d_duchy1007 d_duchy1009 d_duchy1046 d_duchy1052 d_duchy0979 
+		# k_kingdom0749
+		d_duchy0729 d_duchy0749 
+		# k_kingdom0768
+		d_duchy0746 d_duchy0810 d_duchy0768 
+		# k_kingdom0790
+		d_duchy0770 d_duchy0790 
+		# k_kingdom0793
+		d_duchy0793 
+		# k_kingdom0808
+		d_duchy0775 d_duchy0840 d_duchy0808 
+		# k_kingdom0825
+		d_duchy0809 d_duchy0814 d_duchy0854 d_duchy0857 d_duchy0873 d_duchy0825 
+		# k_kingdom0820
+		d_duchy0800 d_duchy0820 
 	}
 }
-world_empire1084 = {
+world_empire0864 = {
 	duchies = {
-		# k_kingdom0998
-		d_duchy0959 d_duchy0962 d_duchy0980 d_duchy0993 d_duchy0995 d_duchy1021 d_duchy1033 d_duchy0998 
-		# k_kingdom1109
-		d_duchy1058 d_duchy1066 d_duchy1081 d_duchy1111 d_duchy1126 d_duchy1109 
-		# k_kingdom1144
-		d_duchy1130 d_duchy1172 d_duchy1144 
-		# k_kingdom1186
-		d_duchy1156 d_duchy1162 d_duchy1186 
-		# k_kingdom1205
-		d_duchy1151 d_duchy1168 d_duchy1189 d_duchy1205 
-		# k_kingdom1249
-		d_duchy1212 d_duchy1218 d_duchy1221 d_duchy1246 d_duchy1281 d_duchy1249 
-		# k_kingdom1268
-		d_duchy1245 d_duchy1259 d_duchy1289 d_duchy1294 d_duchy1268 
-		# k_kingdom1084
-		d_duchy1042 d_duchy1059 d_duchy1071 d_duchy1074 d_duchy1120 d_duchy1084 
+		# k_kingdom0920
+		d_duchy0919 d_duchy0920 
+		# k_kingdom0864
+		d_duchy0835 d_duchy0839 d_duchy0843 d_duchy0866 d_duchy0864 
 	}
 }
-world_empire1100 = {
+world_empire0955 = {
 	duchies = {
-		# k_kingdom1041
-		d_duchy1016 d_duchy1028 d_duchy1073 d_duchy1041 
-		# k_kingdom1057
-		d_duchy1026 d_duchy1044 d_duchy1047 d_duchy1056 d_duchy1057 
-		# k_kingdom1090
-		d_duchy1068 d_duchy1091 d_duchy1142 d_duchy1158 d_duchy1171 d_duchy1188 d_duchy1214 d_duchy1220 d_duchy1226 d_duchy1248 d_duchy1253 d_duchy1267 d_duchy1270 d_duchy1274 d_duchy1284 d_duchy1291 d_duchy1090 
+		# k_kingdom0913
+		d_duchy0877 d_duchy0884 d_duchy0907 d_duchy0916 d_duchy0934 d_duchy0913 
+		# k_kingdom0955
+		d_duchy0942 d_duchy0955 
+	}
+}
+world_empire0976 = {
+	duchies = {
+		# k_kingdom0976
+		d_duchy1021 d_duchy1045 d_duchy0976 
+	}
+}
+world_empire0982 = {
+	duchies = {
+		# k_kingdom0886
+		d_duchy0841 d_duchy0889 d_duchy0893 d_duchy0898 d_duchy0900 d_duchy0925 d_duchy0886 
+		# k_kingdom0948
+		d_duchy0915 d_duchy0933 d_duchy0958 d_duchy0965 d_duchy0997 d_duchy1027 d_duchy0948 
+		# k_kingdom1017
+		d_duchy1016 d_duchy1043 d_duchy1050 d_duchy1089 d_duchy1017 
 		# k_kingdom1140
-		d_duchy1105 d_duchy1166 d_duchy1185 d_duchy1192 d_duchy1140 
-		# k_kingdom1257
-		d_duchy1213 d_duchy1258 d_duchy1277 d_duchy1295 d_duchy1298 d_duchy1303 d_duchy1257 
-		# k_kingdom1260
-		d_duchy1228 d_duchy1260 
+		d_duchy1140 
+		# k_kingdom0982
+		d_duchy0990 d_duchy0998 d_duchy0982 
+	}
+}
+world_empire0988 = {
+	duchies = {
+		# k_kingdom0988
+		d_duchy1011 d_duchy1063 d_duchy0988 
+	}
+}
+world_empire0994 = {
+	duchies = {
+		# k_kingdom0962
+		d_duchy0936 d_duchy0962 
+		# k_kingdom1002
+		d_duchy1000 d_duchy1024 d_duchy1037 d_duchy1073 d_duchy1002 
+		# k_kingdom1088
+		d_duchy1088 
+		# k_kingdom1117
+		d_duchy1067 d_duchy1105 d_duchy1112 d_duchy1143 d_duchy1158 d_duchy1177 d_duchy1117 
+		# k_kingdom0994
+		d_duchy0971 d_duchy0994 
+	}
+}
+world_empire1018 = {
+	duchies = {
+		# k_kingdom1018
+		d_duchy1018 
+	}
+}
+world_empire1036 = {
+	duchies = {
+		# k_kingdom1065
+		d_duchy1061 d_duchy1065 
+		# k_kingdom1036
+		d_duchy1036 
+	}
+}
+world_empire1138 = {
+	duchies = {
+		# k_kingdom1093
+		d_duchy1090 d_duchy1093 
+		# k_kingdom1104
+		d_duchy1104 
+		# k_kingdom1114
+		d_duchy1114 
+		# k_kingdom1213
+		d_duchy1193 d_duchy1251 d_duchy1213 
+		# k_kingdom1272
+		d_duchy1247 d_duchy1328 d_duchy1345 d_duchy1272 
+		# k_kingdom1280
+		d_duchy1229 d_duchy1295 d_duchy1314 d_duchy1316 d_duchy1331 d_duchy1358 d_duchy1280 
+		# k_kingdom1138
+		d_duchy1137 d_duchy1142 d_duchy1138 
+	}
+}
+world_empire1171 = {
+	duchies = {
 		# k_kingdom1100
-		d_duchy1083 d_duchy1099 d_duchy1123 d_duchy1125 d_duchy1164 d_duchy1174 d_duchy1100 
+		d_duchy1059 d_duchy1106 d_duchy1100 
+		# k_kingdom1102
+		d_duchy1074 d_duchy1111 d_duchy1125 d_duchy1102 
+		# k_kingdom1165
+		d_duchy1198 d_duchy1165 
+		# k_kingdom1179
+		d_duchy1149 d_duchy1179 
+		# k_kingdom1218
+		d_duchy1155 d_duchy1250 d_duchy1283 d_duchy1218 
+		# k_kingdom1288
+		d_duchy1233 d_duchy1321 d_duchy1288 
+		# k_kingdom1171
+		d_duchy1171 
 	}
 }
-world_empire1208 = {
+world_empire1191 = {
 	duchies = {
-		# k_kingdom1208
-		d_duchy1208 
+		# k_kingdom1173
+		d_duchy1141 d_duchy1195 d_duchy1219 d_duchy1220 d_duchy1240 d_duchy1173 
+		# k_kingdom1191
+		d_duchy1191 
 	}
 }
-world_empire1394 = {
+world_empire1261 = {
 	duchies = {
-		# k_kingdom1394
-		d_duchy1394 
-	}
-}
-world_empire1413 = {
-	duchies = {
-		# k_kingdom1355
-		d_duchy1329 d_duchy1355 
-		# k_kingdom1389
-		d_duchy1340 d_duchy1354 d_duchy1360 d_duchy1393 d_duchy1396 d_duchy1425 d_duchy1429 d_duchy1436 d_duchy1462 d_duchy1468 d_duchy1389 
-		# k_kingdom1413
-		d_duchy1379 d_duchy1399 d_duchy1414 d_duchy1424 d_duchy1466 d_duchy1481 d_duchy1504 d_duchy1505 d_duchy1413 
-	}
-}
-world_empire1469 = {
-	duchies = {
-		# k_kingdom1334
-		d_duchy1309 d_duchy1312 d_duchy1330 d_duchy1372 d_duchy1334 
+		# k_kingdom1139
+		d_duchy1097 d_duchy1162 d_duchy1139 
+		# k_kingdom1196
+		d_duchy1182 d_duchy1226 d_duchy1255 d_duchy1270 d_duchy1307 d_duchy1196 
+		# k_kingdom1262
+		d_duchy1214 d_duchy1230 d_duchy1241 d_duchy1262 
 		# k_kingdom1356
-		d_duchy1323 d_duchy1328 d_duchy1331 d_duchy1345 d_duchy1350 d_duchy1371 d_duchy1404 d_duchy1418 d_duchy1356 
-		# k_kingdom1397
-		d_duchy1367 d_duchy1368 d_duchy1380 d_duchy1400 d_duchy1431 d_duchy1461 d_duchy1482 d_duchy1509 d_duchy1397 
-		# k_kingdom1434
-		d_duchy1426 d_duchy1434 
-		# k_kingdom1533
-		d_duchy1519 d_duchy1533 
-		# k_kingdom1469
-		d_duchy1428 d_duchy1479 d_duchy1490 d_duchy1513 d_duchy1469 
+		d_duchy1305 d_duchy1342 d_duchy1346 d_duchy1356 
+		# k_kingdom1261
+		d_duchy1209 d_duchy1291 d_duchy1261 
 	}
 }
-world_empire1495 = {
+world_empire1382 = {
 	duchies = {
-		# k_kingdom1470
-		d_duchy1432 d_duchy1440 d_duchy1457 d_duchy1470 
-		# k_kingdom1495
-		d_duchy1483 d_duchy1517 d_duchy1528 d_duchy1495 
+		# k_kingdom1363
+		d_duchy1347 d_duchy1363 
+		# k_kingdom1418
+		d_duchy1403 d_duchy1455 d_duchy1459 d_duchy1418 
+		# k_kingdom1382
+		d_duchy1382 
 	}
 }
-world_empire1514 = {
+world_empire1414 = {
 	duchies = {
-		# k_kingdom1514
-		d_duchy1514 
-	}
-}
-world_empire1523 = {
-	duchies = {
-		# k_kingdom1523
-		d_duchy1523 
-	}
-}
-world_empire1532 = {
-	duchies = {
+		# k_kingdom1296
+		d_duchy1246 d_duchy1318 d_duchy1319 d_duchy1296 
+		# k_kingdom1378
+		d_duchy1371 d_duchy1378 
+		# k_kingdom1436
+		d_duchy1406 d_duchy1436 
+		# k_kingdom1468
+		d_duchy1450 d_duchy1499 d_duchy1551 d_duchy1468 
 		# k_kingdom1494
-		d_duchy1456 d_duchy1485 d_duchy1488 d_duchy1494 
-		# k_kingdom1532
-		d_duchy1521 d_duchy1532 
+		d_duchy1476 d_duchy1502 d_duchy1494 
+		# k_kingdom1559
+		d_duchy1510 d_duchy1548 d_duchy1559 
+		# k_kingdom1582
+		d_duchy1582 
+		# k_kingdom1414
+		d_duchy1393 d_duchy1428 d_duchy1432 d_duchy1414 
+	}
+}
+world_empire1444 = {
+	duchies = {
+		# k_kingdom1386
+		d_duchy1353 d_duchy1366 d_duchy1399 d_duchy1407 d_duchy1386 
+		# k_kingdom1413
+		d_duchy1383 d_duchy1413 
+		# k_kingdom1446
+		d_duchy1338 d_duchy1365 d_duchy1412 d_duchy1446 
+		# k_kingdom1444
+		d_duchy1420 d_duchy1469 d_duchy1444 
+	}
+}
+world_empire1460 = {
+	duchies = {
+		# k_kingdom1460
+		d_duchy1460 
+	}
+}
+world_empire1482 = {
+	duchies = {
+		# k_kingdom1419
+		d_duchy1392 d_duchy1419 
+		# k_kingdom1508
+		d_duchy1500 d_duchy1539 d_duchy1508 
+		# k_kingdom1482
+		d_duchy1443 d_duchy1465 d_duchy1482 
+	}
+}
+world_empire1497 = {
+	duchies = {
+		# k_kingdom1492
+		d_duchy1481 d_duchy1535 d_duchy1550 d_duchy1573 d_duchy1574 d_duchy1492 
+		# k_kingdom1537
+		d_duchy1487 d_duchy1537 
+		# k_kingdom1563
+		d_duchy1525 d_duchy1554 d_duchy1557 d_duchy1590 d_duchy1563 
+		# k_kingdom1601
+		d_duchy1601 
+		# k_kingdom1497
+		d_duchy1462 d_duchy1493 d_duchy1507 d_duchy1497 
+	}
+}
+world_empire1580 = {
+	duchies = {
+		# k_kingdom1566
+		d_duchy1506 d_duchy1566 
+		# k_kingdom1580
+		d_duchy1580 
+	}
+}
+world_empire1583 = {
+	duchies = {
+		# k_kingdom1583
+		d_duchy1583 
+	}
+}
+world_empire1592 = {
+	duchies = {
+		# k_kingdom1592
+		d_duchy1592 
+	}
+}
+world_empire1597 = {
+	duchies = {
+		# k_kingdom1552
+		d_duchy1528 d_duchy1564 d_duchy1586 d_duchy1552 
+		# k_kingdom1597
+		d_duchy1597 
+	}
+}
+world_empire1602 = {
+	duchies = {
+		# k_kingdom1588
+		d_duchy1588 
+		# k_kingdom1602
+		d_duchy1602 
 	}
 }

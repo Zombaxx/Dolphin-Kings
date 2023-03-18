@@ -1,0 +1,14 @@
+# 1575 - Province1575
+
+# County Title
+title = c_province1575
+
+# Settlements
+max_settlements = 3
+b_barony1575` = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

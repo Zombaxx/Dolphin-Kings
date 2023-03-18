@@ -13,7 +13,7 @@ secret_religion_visibility_trigger = {
 # male_temple_holders = no # If set to no, men cannot hold temples. Defaults to "yes". You might need to update your law scripts for this to fully work (see trigger "religion_allows_male_temple_holders")
 
 christian = {
-	has_coa_on_barony_only = yes
+	has_coa_on_barony_only = no
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
@@ -101,13 +101,23 @@ christian = {
 		parent = catholic
 		
 		crusade_name = CRUSADE
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
 
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		
-		religious_clothing_head = 0
-		religious_clothing_priest = 1
+		has_heir_designation = yes
+		peace_piety_gain = 1.0
+		women_can_take_consorts = yes
 
 		intermarry = catholic
 		intermarry = orthodox
@@ -135,6 +145,16 @@ christian = {
 		parent = catholic
 		
 		crusade_name = CRUSADE
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}		
+		
 		use_new_crusade = yes
 		crusade_cb = new_crusade
 
@@ -148,9 +168,15 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
+		#max_consorts = 1 # Can take concubines
+		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 
+		has_heir_designation = yes
+		allow_viking_invasion = yes
+		aggression = 2
+		raised_vassal_opinion_loss = no
 		intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
@@ -177,6 +203,15 @@ christian = {
 		parent = catholic
 		
 		crusade_name = CRUSADE
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
 
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
@@ -184,6 +219,11 @@ christian = {
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
 		
+		ignores_defensive_attrition = yes
+		has_heir_designation = yes
+		feminist = yes
+		aggression = 2
+
 		intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
@@ -211,11 +251,17 @@ christian = {
 		
 		crusade_name = CRUSADE
 
-		can_retire_to_monastery = yes
-		priests_can_inherit = no
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
+		ai_convert_same_group = 2
+		ai_convert_other_group = 2
+		can_retire_to_monastery = yes
+		priests_can_inherit = no
+		max_wives = 3
+		matrilineal_marriages = no
+		female_temple_holders = no
+		uses_jizya_tax = yes
 		
 		intermarry = catholic
 		intermarry = orthodox
@@ -248,7 +294,7 @@ christian = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN GOD_GAIA
 		}
 		
 		evil_god_names = {
@@ -383,6 +429,15 @@ christian = {
 		parent = orthodox
 		
 		crusade_name = CRUSADE
+		high_god_name = GOD_GOD
+		
+		god_names = {
+			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+		}
+		
+		evil_god_names = {
+			SATAN LUCIFER THE_DEVIL
+		}
 
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
@@ -513,7 +568,9 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
-		religious_clothing_head = 2
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+				religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
 		intermarry = catholic
@@ -539,6 +596,7 @@ christian = {
 		heresy_icon = 47
 		
 		color = { 0.8 0.3 0.5 }
+		parent = messalian
 		
 		crusade_name = CRUSADE
 		scripture_name = THE_BIBLE
@@ -547,11 +605,11 @@ christian = {
 		high_god_name = GOD_GOD
 		
 		god_names = {
-			GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
+			GOD_FATHER_MARS GOD_GOD GOD_THE_LORD GOD_JESUS GOD_THE_BLESSED_VIRGIN
 		}
 		
 		evil_god_names = {
-			SATAN LUCIFER THE_DEVIL
+			GOD_MOTHER_EARTH GOD_SURVIVORS GOD_HOMELAND SATAN LUCIFER THE_DEVIL
 		}
 		
 		autocephaly = no
@@ -560,6 +618,8 @@ christian = {
 		can_grant_invasion_cb = invasion
 		can_call_crusade = no
 		priests_can_inherit = no
+		allow_looting = yes
+		allow_viking_invasion = yes
 		
 		can_retire_to_monastery = yes
 		
@@ -597,19 +657,26 @@ christian = {
 		heresy_icon = 47
 		
 		color = { 0.6 0.1 0.4 }
-		parent = nestorian
 		
 		crusade_name = CRUSADE
 		scripture_name = THE_ASCETICUS
+		
 		
 		god_names = {
 			GOD_GOD THE_PANTOKRATOR GOD_JESUS LUCIFER
 		}
 		
 		evil_god_names = {
-			THE_DEMIURGE
+			SATAN   LUCIFER THE_DEVIL
 		}
+		
+		has_heir_designation = yes
+		defensive_attrition = yes
+		max_consorts = 3
+		women_can_take_consorts = yes
+		allow_viking_invasion = yes
 
+		hard_to_convert = yes
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
 		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
@@ -621,6 +688,7 @@ christian = {
 		religious_clothing_head = 2
 		religious_clothing_priest = 2
 		
+		intermarry = taoist
 		intermarry = catholic
 		intermarry = orthodox
 		intermarry = miaphysite
@@ -695,7 +763,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 
 		#intermarry = sunni
@@ -727,7 +795,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 
 		intermarry = sunni
@@ -771,7 +839,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -812,7 +880,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -843,7 +911,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -884,7 +952,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -915,7 +983,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -947,7 +1015,7 @@ muslim = {
 		
 		landed_kin_prestige_bonus = yes
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = yes
 		
 		intermarry = sunni
@@ -980,7 +1048,7 @@ muslim = {
 
 		landed_kin_prestige_bonus = no
 		attacking_same_religion_piety_loss = yes
-		uses_decadence = yes
+		
 		uses_jizya_tax = no
 		peace_prestige_loss = yes # Lose Prestige while at peace
 		raised_vassal_opinion_loss = no
@@ -993,7 +1061,7 @@ muslim = {
 }
 
 pagan_group = {
-	has_coa_on_barony_only = yes
+	has_coa_on_barony_only = no
 	graphical_culture = norsegfx
 	playable = yes
 	hostile_within_group = yes
@@ -1133,9 +1201,9 @@ pagan_group = {
 		}
 		
 		unit_modifier = {
-			levy_size = 0.3
+			levy_size = 0.1
 			
-			retinuesize_perc = 0.5
+			retinuesize_perc = 0.1
 			
 			key = "OFF_RELIGION"
 		}
@@ -2171,7 +2239,7 @@ pagan_group = {
 		high_god_name = GOD_SANGPO_BUMTRI
 		
 		god_names = {
-			GOD_SHENLA_OKAR GOD_YESHE_WALMO GOD_ZHANG_ZHUNG_MERI GOD_DRALHA_YESI GOD_SHINJE GOD_AMNYE_MACHEN GOD_ADI GOD_SHERAB_CHAMMA
+			GOD_SHENLA_OKAR #GOD_YESHE_WALMO GOD_ZHANG_ZHUNG_MERI GOD_DRALHA_YESI GOD_SHINJE GOD_AMNYE_MACHEN GOD_ADI GOD_SHERAB_CHAMMA
 		}
 		
 		evil_god_names = {
@@ -2203,7 +2271,7 @@ pagan_group = {
 		#has_heir_designation = yes
 		priests_can_inherit = no
 		defensive_attrition = yes
-		#feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		female_temple_holders = yes
 		max_consorts = 3
 		women_can_take_consorts = yes
@@ -2226,7 +2294,7 @@ pagan_group = {
 }
 
 zoroastrian_group = {
-	has_coa_on_barony_only = yes
+	has_coa_on_barony_only = no
 	graphical_culture = muslimgfx
 	playable = yes
 	
@@ -2394,10 +2462,9 @@ zoroastrian_group = {
 	}
 	
 	khurmazta = {
-		graphical_culture = persiangfx
-		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
-		
+		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
+		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 		
 		icon = 10
 		heresy_icon = 12
@@ -2420,6 +2487,11 @@ zoroastrian_group = {
 		can_call_crusade = yes
 		join_crusade_if_bordering_hostile = yes
 		can_grant_invasion_cb = invasion
+
+		has_heir_designation = yes
+		priests_can_inherit = yes
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+
 		
 		max_consorts = 3 # Can take concubines
 		
@@ -2443,6 +2515,8 @@ zoroastrian_group = {
 }
 
 jewish_group = {
+	
+	has_coa_on_barony_only = no
 	graphical_culture = jewishgfx
 	crusade_cb = crusade
 	playable = yes
@@ -2480,7 +2554,7 @@ jewish_group = {
 			GOD_GOD GOD_THE_LORD ADONAI
 		}
 		evil_god_names = {
-			SATAN
+			SATAN 
 		}
 		
 		can_grant_divorce = yes
@@ -2625,7 +2699,7 @@ indian_group = {
 		
 	}
 	buddhist = {
-		has_coa_on_barony_only = yes
+		has_coa_on_barony_only = no
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
 
@@ -2724,7 +2798,7 @@ indian_group = {
 	taoist = {
 		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
-		has_coa_on_barony_only = yes
+		has_coa_on_barony_only = no
 		#alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 
 		icon = 53
@@ -2748,10 +2822,14 @@ indian_group = {
 			stewardship = 2
 		}
 
+		female_temple_holders = yes
+		feminist = yes      # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+
+
 		has_heir_designation = yes
 		can_grant_divorce = yes
 		priests_can_inherit = no
-		max_consorts = 3
+		#max_consorts = 3
 		
 		short_reign_opinion_year_mult = 0 # No short reign penalty
 		
@@ -2763,10 +2841,13 @@ indian_group = {
 		piety_name = PIETY_TE
 		
 		intermarry = buddhist
+		intermarry = catholic
+		intermarry = orthodox
 		intermarry = nestorian
+		intermarry = messalian
 		intermarry = manichean
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
+		intermarry = jain
+		intermarry = hindu
 		intermarry = bon
 		intermarry = bon_reformed
 	}

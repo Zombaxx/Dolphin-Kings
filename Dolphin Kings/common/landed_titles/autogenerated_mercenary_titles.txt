@@ -1,10 +1,10 @@
-d_kingdom0007_band = {
-	color={ 189 205 22 }
+d_kingdom0001_band = {
+	color={ 223 162 34 }
 	color2={ 255 255 255 }
 	
-	capital = 7
+	capital = 1
 	
-	culture = uncultured_swine
+	culture = catalan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -20,15 +20,15 @@ d_kingdom0007_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = catalan_band_composition
 }
-d_kingdom0026_band = {
-	color={ 90 48 109 }
+d_kingdom0010_band = {
+	color={ 179 150 47 }
 	color2={ 255 255 255 }
 	
-	capital = 26
+	capital = 10
 	
-	culture = uncultured_swine
+	culture = norman
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -44,15 +44,15 @@ d_kingdom0026_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = norman_band_composition
 }
-d_kingdom0032_band = {
-	color={ 96 15 14 }
+d_kingdom0015_band = {
+	color={ 206 125 26 }
 	color2={ 255 255 255 }
 	
-	capital = 32
+	capital = 15
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -68,15 +68,15 @@ d_kingdom0032_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom0041_band = {
-	color={ 228 227 23 }
+d_kingdom0016_band = {
+	color={ 191 199 44 }
 	color2={ 255 255 255 }
 	
-	capital = 41
+	capital = 16
 	
-	culture = uncultured_swine
+	culture = catalan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -92,15 +92,15 @@ d_kingdom0041_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = catalan_band_composition
 }
-d_kingdom0055_band = {
-	color={ 113 12 45 }
+d_kingdom0018_band = {
+	color={ 234 78 170 }
 	color2={ 255 255 255 }
 	
-	capital = 55
+	capital = 18
 	
-	culture = uncultured_swine
+	culture = zaghawa
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -116,15 +116,231 @@ d_kingdom0055_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = zaghawa_band_composition
+}
+d_kingdom0025_band = {
+	color={ 195 200 62 }
+	color2={ 255 255 255 }
+	
+	capital = 25
+	
+	culture = catalan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = catalan_band_composition
+}
+d_kingdom0028_band = {
+	color={ 221 157 31 }
+	color2={ 255 255 255 }
+	
+	capital = 28
+	
+	culture = catalan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = catalan_band_composition
+}
+d_kingdom0034_band = {
+	color={ 237 146 29 }
+	color2={ 255 255 255 }
+	
+	capital = 34
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0035_band = {
+	color={ 219 119 16 }
+	color2={ 255 255 255 }
+	
+	capital = 35
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0037_band = {
+	color={ 222 172 66 }
+	color2={ 255 255 255 }
+	
+	capital = 37
+	
+	culture = catalan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = catalan_band_composition
+}
+d_kingdom0050_band = {
+	color={ 229 114 187 }
+	color2={ 255 255 255 }
+	
+	capital = 50
+	
+	culture = zaghawa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = zaghawa_band_composition
+}
+d_kingdom0063_band = {
+	color={ 119 188 213 }
+	color2={ 255 255 255 }
+	
+	capital = 63
+	
+	culture = irish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = irish_band_composition
+}
+d_kingdom0069_band = {
+	color={ 175 173 40 }
+	color2={ 255 255 255 }
+	
+	capital = 69
+	
+	culture = catalan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = catalan_band_composition
+}
+d_kingdom0087_band = {
+	color={ 246 101 48 }
+	color2={ 255 255 255 }
+	
+	capital = 87
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
 }
 d_kingdom0089_band = {
-	color={ 188 208 72 }
+	color={ 217 133 16 }
 	color2={ 255 255 255 }
 	
 	capital = 89
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -140,15 +356,15 @@ d_kingdom0089_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom0092_band = {
-	color={ 193 40 89 }
+d_kingdom0094_band = {
+	color={ 182 198 86 }
 	color2={ 255 255 255 }
 	
-	capital = 92
+	capital = 94
 	
-	culture = uncultured_swine
+	culture = frankish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -164,15 +380,15 @@ d_kingdom0092_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = frankish_band_composition
 }
-d_kingdom0130_band = {
-	color={ 222 18 50 }
+d_kingdom0097_band = {
+	color={ 92 129 47 }
 	color2={ 255 255 255 }
 	
-	capital = 130
+	capital = 97
 	
-	culture = uncultured_swine
+	culture = manden
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -188,15 +404,15 @@ d_kingdom0130_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = manden_band_composition
 }
-d_kingdom0164_band = {
-	color={ 80 215 0 }
+d_kingdom0102_band = {
+	color={ 156 150 46 }
 	color2={ 255 255 255 }
 	
-	capital = 164
+	capital = 102
 	
-	culture = uncultured_swine
+	culture = norman
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -212,15 +428,15 @@ d_kingdom0164_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = norman_band_composition
 }
-d_kingdom0197_band = {
-	color={ 235 100 29 }
+d_kingdom0116_band = {
+	color={ 182 89 218 }
 	color2={ 255 255 255 }
 	
-	capital = 197
+	capital = 116
 	
-	culture = uncultured_swine
+	culture = zaghawa
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -236,15 +452,15 @@ d_kingdom0197_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = zaghawa_band_composition
 }
-d_kingdom0199_band = {
-	color={ 125 113 93 }
+d_kingdom0124_band = {
+	color={ 186 154 42 }
 	color2={ 255 255 255 }
 	
-	capital = 199
+	capital = 124
 	
-	culture = uncultured_swine
+	culture = norman
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -260,15 +476,255 @@ d_kingdom0199_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = norman_band_composition
+}
+d_kingdom0135_band = {
+	color={ 192 204 82 }
+	color2={ 255 255 255 }
+	
+	capital = 135
+	
+	culture = frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frankish_band_composition
+}
+d_kingdom0137_band = {
+	color={ 169 185 76 }
+	color2={ 255 255 255 }
+	
+	capital = 137
+	
+	culture = portuguese
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = portuguese_band_composition
+}
+d_kingdom0146_band = {
+	color={ 108 178 194 }
+	color2={ 255 255 255 }
+	
+	capital = 146
+	
+	culture = mordvin
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mordvin_band_composition
+}
+d_kingdom0155_band = {
+	color={ 120 135 190 }
+	color2={ 255 255 255 }
+	
+	capital = 155
+	
+	culture = norse
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = norse_band_composition
+}
+d_kingdom0157_band = {
+	color={ 202 128 170 }
+	color2={ 255 255 255 }
+	
+	capital = 157
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_kingdom0160_band = {
+	color={ 114 136 44 }
+	color2={ 255 255 255 }
+	
+	capital = 160
+	
+	culture = manden
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = manden_band_composition
+}
+d_kingdom0169_band = {
+	color={ 77 172 117 }
+	color2={ 255 255 255 }
+	
+	capital = 169
+	
+	culture = welsh
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = welsh_band_composition
+}
+d_kingdom0202_band = {
+	color={ 156 207 77 }
+	color2={ 255 255 255 }
+	
+	capital = 202
+	
+	culture = frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frankish_band_composition
+}
+d_kingdom0203_band = {
+	color={ 182 184 16 }
+	color2={ 255 255 255 }
+	
+	capital = 203
+	
+	culture = catalan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = catalan_band_composition
+}
+d_kingdom0204_band = {
+	color={ 237 101 15 }
+	color2={ 255 255 255 }
+	
+	capital = 204
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
 }
 d_kingdom0210_band = {
-	color={ 148 41 62 }
+	color={ 149 188 58 }
 	color2={ 255 255 255 }
 	
 	capital = 210
 	
-	culture = uncultured_swine
+	culture = portuguese
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -284,15 +740,15 @@ d_kingdom0210_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = portuguese_band_composition
 }
-d_kingdom0216_band = {
-	color={ 184 14 2 }
+d_kingdom0213_band = {
+	color={ 75 204 125 }
 	color2={ 255 255 255 }
 	
-	capital = 216
+	capital = 213
 	
-	culture = uncultured_swine
+	culture = welsh
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -308,15 +764,15 @@ d_kingdom0216_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = welsh_band_composition
 }
-d_kingdom0256_band = {
-	color={ 220 194 75 }
+d_kingdom0215_band = {
+	color={ 115 140 186 }
 	color2={ 255 255 255 }
 	
-	capital = 256
+	capital = 215
 	
-	culture = uncultured_swine
+	culture = norse
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -332,15 +788,15 @@ d_kingdom0256_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = norse_band_composition
 }
-d_kingdom0281_band = {
-	color={ 146 102 118 }
+d_kingdom0219_band = {
+	color={ 216 86 187 }
 	color2={ 255 255 255 }
 	
-	capital = 281
+	capital = 219
 	
-	culture = uncultured_swine
+	culture = crimean_gothic
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -356,15 +812,15 @@ d_kingdom0281_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = crimean_gothic_band_composition
 }
-d_kingdom0295_band = {
-	color={ 188 101 122 }
+d_kingdom0235_band = {
+	color={ 197 158 86 }
 	color2={ 255 255 255 }
 	
-	capital = 295
+	capital = 235
 	
-	culture = uncultured_swine
+	culture = frankish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -380,15 +836,15 @@ d_kingdom0295_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = frankish_band_composition
 }
-d_kingdom0311_band = {
-	color={ 166 171 28 }
+d_kingdom0241_band = {
+	color={ 101 139 39 }
 	color2={ 255 255 255 }
 	
-	capital = 311
+	capital = 241
 	
-	culture = uncultured_swine
+	culture = manden
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -404,15 +860,15 @@ d_kingdom0311_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = manden_band_composition
 }
-d_kingdom0317_band = {
-	color={ 181 244 101 }
+d_kingdom0243_band = {
+	color={ 121 179 159 }
 	color2={ 255 255 255 }
 	
-	capital = 317
+	capital = 243
 	
-	culture = uncultured_swine
+	culture = mordvin
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -428,15 +884,303 @@ d_kingdom0317_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = mordvin_band_composition
+}
+d_kingdom0255_band = {
+	color={ 105 74 51 }
+	color2={ 255 255 255 }
+	
+	capital = 255
+	
+	culture = songhay
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = songhay_band_composition
+}
+d_kingdom0260_band = {
+	color={ 71 128 88 }
+	color2={ 255 255 255 }
+	
+	capital = 260
+	
+	culture = soninke
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = soninke_band_composition
+}
+d_kingdom0261_band = {
+	color={ 25 200 55 }
+	color2={ 255 255 255 }
+	
+	capital = 261
+	
+	culture = bedouin_arabic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = bedouin_arabic_band_composition
+}
+d_kingdom0266_band = {
+	color={ 216 116 216 }
+	color2={ 255 255 255 }
+	
+	capital = 266
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_kingdom0272_band = {
+	color={ 235 154 38 }
+	color2={ 255 255 255 }
+	
+	capital = 272
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0286_band = {
+	color={ 72 94 156 }
+	color2={ 255 255 255 }
+	
+	capital = 286
+	
+	culture = old_frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_frankish_band_composition
+}
+d_kingdom0287_band = {
+	color={ 158 116 162 }
+	color2={ 255 255 255 }
+	
+	capital = 287
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_kingdom0289_band = {
+	color={ 213 112 198 }
+	color2={ 255 255 255 }
+	
+	capital = 289
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_kingdom0291_band = {
+	color={ 131 206 92 }
+	color2={ 255 255 255 }
+	
+	capital = 291
+	
+	culture = severian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = severian_band_composition
+}
+d_kingdom0321_band = {
+	color={ 101 183 85 }
+	color2={ 255 255 255 }
+	
+	capital = 321
+	
+	culture = severian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = severian_band_composition
+}
+d_kingdom0325_band = {
+	color={ 70 79 117 }
+	color2={ 255 255 255 }
+	
+	capital = 325
+	
+	culture = old_frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_frankish_band_composition
+}
+d_kingdom0328_band = {
+	color={ 91 86 129 }
+	color2={ 255 255 255 }
+	
+	capital = 328
+	
+	culture = old_frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_frankish_band_composition
 }
 d_kingdom0331_band = {
-	color={ 221 111 58 }
+	color={ 156 114 145 }
 	color2={ 255 255 255 }
 	
 	capital = 331
 	
-	culture = uncultured_swine
+	culture = kanuri
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -452,15 +1196,15 @@ d_kingdom0331_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = kanuri_band_composition
 }
-d_kingdom0333_band = {
-	color={ 181 75 94 }
+d_kingdom0341_band = {
+	color={ 138 91 66 }
 	color2={ 255 255 255 }
 	
-	capital = 333
+	capital = 341
 	
-	culture = uncultured_swine
+	culture = songhay
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -476,15 +1220,15 @@ d_kingdom0333_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = songhay_band_composition
 }
-d_kingdom0353_band = {
-	color={ 133 66 79 }
+d_kingdom0342_band = {
+	color={ 109 176 117 }
 	color2={ 255 255 255 }
 	
-	capital = 353
+	capital = 342
 	
-	culture = uncultured_swine
+	culture = bohemian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -500,15 +1244,15 @@ d_kingdom0353_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bohemian_band_composition
 }
-d_kingdom0379_band = {
-	color={ 150 163 50 }
+d_kingdom0360_band = {
+	color={ 101 133 151 }
 	color2={ 255 255 255 }
 	
-	capital = 379
+	capital = 360
 	
-	culture = uncultured_swine
+	culture = bohemian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -524,15 +1268,15 @@ d_kingdom0379_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bohemian_band_composition
 }
-d_kingdom0397_band = {
-	color={ 109 45 99 }
+d_kingdom0362_band = {
+	color={ 120 174 104 }
 	color2={ 255 255 255 }
 	
-	capital = 397
+	capital = 362
 	
-	culture = uncultured_swine
+	culture = severian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -548,15 +1292,15 @@ d_kingdom0397_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = severian_band_composition
 }
-d_kingdom0401_band = {
-	color={ 140 51 17 }
+d_kingdom0367_band = {
+	color={ 100 121 98 }
 	color2={ 255 255 255 }
 	
-	capital = 401
+	capital = 367
 	
-	culture = uncultured_swine
+	culture = ilmenian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -572,15 +1316,15 @@ d_kingdom0401_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = ilmenian_band_composition
 }
-d_kingdom0418_band = {
-	color={ 153 142 86 }
+d_kingdom0377_band = {
+	color={ 118 90 74 }
 	color2={ 255 255 255 }
 	
-	capital = 418
+	capital = 377
 	
-	culture = uncultured_swine
+	culture = manden
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -596,15 +1340,15 @@ d_kingdom0418_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = manden_band_composition
 }
-d_kingdom0422_band = {
-	color={ 153 185 39 }
+d_kingdom0391_band = {
+	color={ 132 137 115 }
 	color2={ 255 255 255 }
 	
-	capital = 422
+	capital = 391
 	
-	culture = uncultured_swine
+	culture = bohemian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -620,15 +1364,15 @@ d_kingdom0422_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bohemian_band_composition
 }
-d_kingdom0437_band = {
-	color={ 197 103 94 }
+d_kingdom0393_band = {
+	color={ 209 62 169 }
 	color2={ 255 255 255 }
 	
-	capital = 437
+	capital = 393
 	
-	culture = uncultured_swine
+	culture = greek
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -644,15 +1388,15 @@ d_kingdom0437_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = greek_band_composition
 }
-d_kingdom0454_band = {
-	color={ 183 18 31 }
+d_kingdom0404_band = {
+	color={ 241 144 60 }
 	color2={ 255 255 255 }
 	
-	capital = 454
+	capital = 404
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -668,15 +1412,15 @@ d_kingdom0454_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom0481_band = {
-	color={ 239 92 35 }
+d_kingdom0406_band = {
+	color={ 221 202 70 }
 	color2={ 255 255 255 }
 	
-	capital = 481
+	capital = 406
 	
-	culture = uncultured_swine
+	culture = sardinian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -692,15 +1436,15 @@ d_kingdom0481_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = sardinian_band_composition
 }
-d_kingdom0491_band = {
-	color={ 135 127 123 }
+d_kingdom0407_band = {
+	color={ 102 106 155 }
 	color2={ 255 255 255 }
 	
-	capital = 491
+	capital = 407
 	
-	culture = uncultured_swine
+	culture = norse
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -716,15 +1460,15 @@ d_kingdom0491_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = norse_band_composition
 }
-d_kingdom0493_band = {
-	color={ 125 180 98 }
+d_kingdom0420_band = {
+	color={ 111 69 40 }
 	color2={ 255 255 255 }
 	
-	capital = 493
+	capital = 420
 	
-	culture = uncultured_swine
+	culture = songhay
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -740,15 +1484,15 @@ d_kingdom0493_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = songhay_band_composition
 }
-d_kingdom0512_band = {
-	color={ 251 234 53 }
+d_kingdom0427_band = {
+	color={ 116 74 149 }
 	color2={ 255 255 255 }
 	
-	capital = 512
+	capital = 427
 	
-	culture = uncultured_swine
+	culture = old_frankish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -764,15 +1508,15 @@ d_kingdom0512_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = old_frankish_band_composition
 }
-d_kingdom0531_band = {
-	color={ 248 86 85 }
+d_kingdom0430_band = {
+	color={ 205 124 207 }
 	color2={ 255 255 255 }
 	
-	capital = 531
+	capital = 430
 	
-	culture = uncultured_swine
+	culture = kanuri
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -788,15 +1532,15 @@ d_kingdom0531_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = kanuri_band_composition
 }
-d_kingdom0541_band = {
-	color={ 223 231 122 }
+d_kingdom0435_band = {
+	color={ 103 157 109 }
 	color2={ 255 255 255 }
 	
-	capital = 541
+	capital = 435
 	
-	culture = uncultured_swine
+	culture = severian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -812,15 +1556,15 @@ d_kingdom0541_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = severian_band_composition
 }
-d_kingdom0559_band = {
-	color={ 141 177 80 }
+d_kingdom0446_band = {
+	color={ 74 86 45 }
 	color2={ 255 255 255 }
 	
-	capital = 559
+	capital = 446
 	
-	culture = uncultured_swine
+	culture = soninke
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -836,15 +1580,447 @@ d_kingdom0559_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = soninke_band_composition
+}
+d_kingdom0465_band = {
+	color={ 111 164 81 }
+	color2={ 255 255 255 }
+	
+	capital = 465
+	
+	culture = ilmenian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = ilmenian_band_composition
+}
+d_kingdom0466_band = {
+	color={ 214 131 10 }
+	color2={ 255 255 255 }
+	
+	capital = 466
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0468_band = {
+	color={ 240 109 36 }
+	color2={ 255 255 255 }
+	
+	capital = 468
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0473_band = {
+	color={ 157 79 201 }
+	color2={ 255 255 255 }
+	
+	capital = 473
+	
+	culture = greek
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = greek_band_composition
+}
+d_kingdom0476_band = {
+	color={ 239 119 24 }
+	color2={ 255 255 255 }
+	
+	capital = 476
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0478_band = {
+	color={ 125 86 202 }
+	color2={ 255 255 255 }
+	
+	capital = 478
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_kingdom0479_band = {
+	color={ 214 115 206 }
+	color2={ 255 255 255 }
+	
+	capital = 479
+	
+	culture = kanuri
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = kanuri_band_composition
+}
+d_kingdom0483_band = {
+	color={ 205 157 19 }
+	color2={ 255 255 255 }
+	
+	capital = 483
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0489_band = {
+	color={ 225 130 155 }
+	color2={ 255 255 255 }
+	
+	capital = 489
+	
+	culture = hausa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = hausa_band_composition
+}
+d_kingdom0494_band = {
+	color={ 138 154 43 }
+	color2={ 255 255 255 }
+	
+	capital = 494
+	
+	culture = visigothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = visigothic_band_composition
+}
+d_kingdom0504_band = {
+	color={ 210 196 44 }
+	color2={ 255 255 255 }
+	
+	capital = 504
+	
+	culture = castillan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = castillan_band_composition
+}
+d_kingdom0506_band = {
+	color={ 191 130 139 }
+	color2={ 255 255 255 }
+	
+	capital = 506
+	
+	culture = bulgarian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = bulgarian_band_composition
+}
+d_kingdom0519_band = {
+	color={ 214 177 61 }
+	color2={ 255 255 255 }
+	
+	capital = 519
+	
+	culture = castillan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = castillan_band_composition
+}
+d_kingdom0532_band = {
+	color={ 31 157 81 }
+	color2={ 255 255 255 }
+	
+	capital = 532
+	
+	culture = bedouin_arabic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = bedouin_arabic_band_composition
+}
+d_kingdom0550_band = {
+	color={ 211 134 57 }
+	color2={ 255 255 255 }
+	
+	capital = 550
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0552_band = {
+	color={ 234 126 213 }
+	color2={ 255 255 255 }
+	
+	capital = 552
+	
+	culture = hausa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = hausa_band_composition
+}
+d_kingdom0555_band = {
+	color={ 112 118 77 }
+	color2={ 255 255 255 }
+	
+	capital = 555
+	
+	culture = soninke
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = soninke_band_composition
+}
+d_kingdom0560_band = {
+	color={ 198 148 28 }
+	color2={ 255 255 255 }
+	
+	capital = 560
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
 }
 d_kingdom0562_band = {
-	color={ 180 148 79 }
+	color={ 40 173 46 }
 	color2={ 255 255 255 }
 	
 	capital = 562
 	
-	culture = uncultured_swine
+	culture = bedouin_arabic
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -860,15 +2036,39 @@ d_kingdom0562_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bedouin_arabic_band_composition
+}
+d_kingdom0567_band = {
+	color={ 187 137 166 }
+	color2={ 255 255 255 }
+	
+	capital = 567
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
 }
 d_kingdom0570_band = {
-	color={ 114 142 28 }
+	color={ 126 156 46 }
 	color2={ 255 255 255 }
 	
 	capital = 570
 	
-	culture = uncultured_swine
+	culture = visigothic
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -884,15 +2084,15 @@ d_kingdom0570_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = visigothic_band_composition
 }
-d_kingdom0607_band = {
-	color={ 150 90 65 }
+d_kingdom0573_band = {
+	color={ 185 206 49 }
 	color2={ 255 255 255 }
 	
-	capital = 607
+	capital = 573
 	
-	culture = uncultured_swine
+	culture = castillan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -908,15 +2108,15 @@ d_kingdom0607_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = castillan_band_composition
 }
-d_kingdom0655_band = {
-	color={ 140 151 100 }
+d_kingdom0576_band = {
+	color={ 222 145 50 }
 	color2={ 255 255 255 }
 	
-	capital = 655
+	capital = 576
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -932,15 +2132,15 @@ d_kingdom0655_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom0662_band = {
-	color={ 82 150 15 }
+d_kingdom0608_band = {
+	color={ 179 170 59 }
 	color2={ 255 255 255 }
 	
-	capital = 662
+	capital = 608
 	
-	culture = uncultured_swine
+	culture = catalan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -956,15 +2156,135 @@ d_kingdom0662_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = catalan_band_composition
+}
+d_kingdom0619_band = {
+	color={ 105 126 94 }
+	color2={ 255 255 255 }
+	
+	capital = 619
+	
+	culture = soninke
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = soninke_band_composition
+}
+d_kingdom0621_band = {
+	color={ 160 159 93 }
+	color2={ 255 255 255 }
+	
+	capital = 621
+	
+	culture = persian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = persian_band_composition
+}
+d_kingdom0626_band = {
+	color={ 157 171 140 }
+	color2={ 255 255 255 }
+	
+	capital = 626
+	
+	culture = nubian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nubian_band_composition
+}
+d_kingdom0636_band = {
+	color={ 197 138 15 }
+	color2={ 255 255 255 }
+	
+	capital = 636
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0656_band = {
+	color={ 201 194 55 }
+	color2={ 255 255 255 }
+	
+	capital = 656
+	
+	culture = frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frankish_band_composition
 }
 d_kingdom0666_band = {
-	color={ 177 151 49 }
+	color={ 117 117 149 }
 	color2={ 255 255 255 }
 	
 	capital = 666
 	
-	culture = uncultured_swine
+	culture = nubian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -980,15 +2300,15 @@ d_kingdom0666_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nubian_band_composition
 }
-d_kingdom0689_band = {
-	color={ 214 110 78 }
+d_kingdom0669_band = {
+	color={ 219 125 49 }
 	color2={ 255 255 255 }
 	
-	capital = 689
+	capital = 669
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1004,15 +2324,15 @@ d_kingdom0689_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom0727_band = {
-	color={ 161 187 81 }
+d_kingdom0678_band = {
+	color={ 156 166 67 }
 	color2={ 255 255 255 }
 	
-	capital = 727
+	capital = 678
 	
-	culture = uncultured_swine
+	culture = frankish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1028,15 +2348,15 @@ d_kingdom0727_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = frankish_band_composition
 }
-d_kingdom0731_band = {
-	color={ 64 192 90 }
+d_kingdom0688_band = {
+	color={ 78 126 67 }
 	color2={ 255 255 255 }
 	
-	capital = 731
+	capital = 688
 	
-	culture = uncultured_swine
+	culture = ethiopian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1052,15 +2372,15 @@ d_kingdom0731_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = ethiopian_band_composition
 }
-d_kingdom0741_band = {
-	color={ 170 151 30 }
+d_kingdom0702_band = {
+	color={ 149 108 59 }
 	color2={ 255 255 255 }
 	
-	capital = 741
+	capital = 702
 	
-	culture = uncultured_swine
+	culture = visigothic
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1076,15 +2396,15 @@ d_kingdom0741_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = visigothic_band_composition
 }
-d_kingdom0755_band = {
-	color={ 250 151 116 }
+d_kingdom0704_band = {
+	color={ 205 201 54 }
 	color2={ 255 255 255 }
 	
-	capital = 755
+	capital = 704
 	
-	culture = uncultured_swine
+	culture = frankish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1100,15 +2420,15 @@ d_kingdom0755_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = frankish_band_composition
 }
-d_kingdom0791_band = {
-	color={ 162 133 23 }
+d_kingdom0713_band = {
+	color={ 58 168 78 }
 	color2={ 255 255 255 }
 	
-	capital = 791
+	capital = 713
 	
-	culture = uncultured_swine
+	culture = bedouin_arabic
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1124,15 +2444,15 @@ d_kingdom0791_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bedouin_arabic_band_composition
 }
-d_kingdom0800_band = {
-	color={ 81 154 64 }
+d_kingdom0730_band = {
+	color={ 82 99 104 }
 	color2={ 255 255 255 }
 	
-	capital = 800
+	capital = 730
 	
-	culture = uncultured_swine
+	culture = ethiopian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1148,15 +2468,15 @@ d_kingdom0800_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = ethiopian_band_composition
 }
-d_kingdom0833_band = {
-	color={ 108 171 2 }
+d_kingdom0737_band = {
+	color={ 156 159 123 }
 	color2={ 255 255 255 }
 	
-	capital = 833
+	capital = 737
 	
-	culture = uncultured_swine
+	culture = persian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1172,15 +2492,15 @@ d_kingdom0833_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = persian_band_composition
 }
-d_kingdom0853_band = {
-	color={ 165 155 31 }
+d_kingdom0749_band = {
+	color={ 203 126 53 }
 	color2={ 255 255 255 }
 	
-	capital = 853
+	capital = 749
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1196,15 +2516,303 @@ d_kingdom0853_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0753_band = {
+	color={ 204 190 45 }
+	color2={ 255 255 255 }
+	
+	capital = 753
+	
+	culture = frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frankish_band_composition
+}
+d_kingdom0768_band = {
+	color={ 87 139 62 }
+	color2={ 255 255 255 }
+	
+	capital = 768
+	
+	culture = ethiopian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = ethiopian_band_composition
+}
+d_kingdom0784_band = {
+	color={ 207 153 75 }
+	color2={ 255 255 255 }
+	
+	capital = 784
+	
+	culture = catalan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = catalan_band_composition
+}
+d_kingdom0786_band = {
+	color={ 154 175 95 }
+	color2={ 255 255 255 }
+	
+	capital = 786
+	
+	culture = persian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = persian_band_composition
+}
+d_kingdom0787_band = {
+	color={ 85 76 82 }
+	color2={ 255 255 255 }
+	
+	capital = 787
+	
+	culture = croatian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = croatian_band_composition
+}
+d_kingdom0790_band = {
+	color={ 112 163 45 }
+	color2={ 255 255 255 }
+	
+	capital = 790
+	
+	culture = visigothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = visigothic_band_composition
+}
+d_kingdom0793_band = {
+	color={ 209 101 177 }
+	color2={ 255 255 255 }
+	
+	capital = 793
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_kingdom0796_band = {
+	color={ 229 119 3 }
+	color2={ 255 255 255 }
+	
+	capital = 796
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0808_band = {
+	color={ 156 117 62 }
+	color2={ 255 255 255 }
+	
+	capital = 808
+	
+	culture = visigothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = visigothic_band_composition
+}
+d_kingdom0815_band = {
+	color={ 231 197 64 }
+	color2={ 255 255 255 }
+	
+	capital = 815
+	
+	culture = tamil
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = tamil_band_composition
+}
+d_kingdom0820_band = {
+	color={ 214 135 31 }
+	color2={ 255 255 255 }
+	
+	capital = 820
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom0825_band = {
+	color={ 138 73 39 }
+	color2={ 255 255 255 }
+	
+	capital = 825
+	
+	culture = frisian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frisian_band_composition
 }
 d_kingdom0855_band = {
-	color={ 162 27 12 }
+	color={ 242 166 70 }
 	color2={ 255 255 255 }
 	
 	capital = 855
 	
-	culture = uncultured_swine
+	culture = castillan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1220,15 +2828,15 @@ d_kingdom0855_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = castillan_band_composition
 }
-d_kingdom0889_band = {
-	color={ 64 89 93 }
+d_kingdom0864_band = {
+	color={ 246 180 76 }
 	color2={ 255 255 255 }
 	
-	capital = 889
+	capital = 864
 	
-	culture = uncultured_swine
+	culture = tamil
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1244,15 +2852,15 @@ d_kingdom0889_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = tamil_band_composition
 }
-d_kingdom0908_band = {
-	color={ 151 224 82 }
+d_kingdom0886_band = {
+	color={ 138 16 50 }
 	color2={ 255 255 255 }
 	
-	capital = 908
+	capital = 886
 	
-	culture = uncultured_swine
+	culture = bengali
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1268,15 +2876,15 @@ d_kingdom0908_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bengali_band_composition
 }
-d_kingdom0912_band = {
-	color={ 208 3 25 }
+d_kingdom0913_band = {
+	color={ 136 62 21 }
 	color2={ 255 255 255 }
 	
-	capital = 912
+	capital = 913
 	
-	culture = uncultured_swine
+	culture = old_saxon
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1292,15 +2900,15 @@ d_kingdom0912_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = old_saxon_band_composition
 }
-d_kingdom0935_band = {
-	color={ 144 102 4 }
+d_kingdom0920_band = {
+	color={ 164 114 77 }
 	color2={ 255 255 255 }
 	
-	capital = 935
+	capital = 920
 	
-	culture = uncultured_swine
+	culture = saxon
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1316,15 +2924,15 @@ d_kingdom0935_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = saxon_band_composition
 }
-d_kingdom0960_band = {
-	color={ 216 78 0 }
+d_kingdom0924_band = {
+	color={ 233 197 19 }
 	color2={ 255 255 255 }
 	
-	capital = 960
+	capital = 924
 	
-	culture = uncultured_swine
+	culture = castillan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1340,15 +2948,15 @@ d_kingdom0960_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = castillan_band_composition
 }
-d_kingdom0974_band = {
-	color={ 207 38 77 }
+d_kingdom0929_band = {
+	color={ 175 165 47 }
 	color2={ 255 255 255 }
 	
-	capital = 974
+	capital = 929
 	
-	culture = uncultured_swine
+	culture = frankish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1364,15 +2972,15 @@ d_kingdom0974_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = frankish_band_composition
 }
-d_kingdom0979_band = {
-	color={ 77 21 20 }
+d_kingdom0948_band = {
+	color={ 210 158 33 }
 	color2={ 255 255 255 }
 	
-	capital = 979
+	capital = 948
 	
-	culture = uncultured_swine
+	culture = kannada
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1388,15 +2996,15 @@ d_kingdom0979_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = kannada_band_composition
 }
-d_kingdom0998_band = {
-	color={ 69 158 31 }
+d_kingdom0955_band = {
+	color={ 179 77 109 }
 	color2={ 255 255 255 }
 	
-	capital = 998
+	capital = 955
 	
-	culture = uncultured_swine
+	culture = saxon
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1412,15 +3020,15 @@ d_kingdom0998_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = saxon_band_composition
 }
-d_kingdom1041_band = {
-	color={ 131 159 120 }
+d_kingdom0962_band = {
+	color={ 169 113 57 }
 	color2={ 255 255 255 }
 	
-	capital = 1041
+	capital = 962
 	
-	culture = uncultured_swine
+	culture = frisian
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1436,15 +3044,15 @@ d_kingdom1041_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = frisian_band_composition
 }
-d_kingdom1057_band = {
-	color={ 94 129 98 }
+d_kingdom0976_band = {
+	color={ 221 51 52 }
 	color2={ 255 255 255 }
 	
-	capital = 1057
+	capital = 976
 	
-	culture = uncultured_swine
+	culture = bodpa
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1460,15 +3068,15 @@ d_kingdom1057_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bodpa_band_composition
 }
-d_kingdom1084_band = {
-	color={ 197 121 113 }
+d_kingdom0982_band = {
+	color={ 221 49 19 }
 	color2={ 255 255 255 }
 	
-	capital = 1084
+	capital = 982
 	
-	culture = uncultured_swine
+	culture = bodpa
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1484,15 +3092,15 @@ d_kingdom1084_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = bodpa_band_composition
 }
-d_kingdom1090_band = {
-	color={ 166 254 100 }
+d_kingdom0988_band = {
+	color={ 191 69 98 }
 	color2={ 255 255 255 }
 	
-	capital = 1090
+	capital = 988
 	
-	culture = uncultured_swine
+	culture = saxon
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1508,15 +3116,255 @@ d_kingdom1090_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = saxon_band_composition
+}
+d_kingdom0994_band = {
+	color={ 226 121 6 }
+	color2={ 255 255 255 }
+	
+	capital = 994
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom1002_band = {
+	color={ 104 36 69 }
+	color2={ 255 255 255 }
+	
+	capital = 1002
+	
+	culture = old_saxon
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_saxon_band_composition
+}
+d_kingdom1009_band = {
+	color={ 188 169 20 }
+	color2={ 255 255 255 }
+	
+	capital = 1009
+	
+	culture = castillan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = castillan_band_composition
+}
+d_kingdom1017_band = {
+	color={ 248 122 40 }
+	color2={ 255 255 255 }
+	
+	capital = 1017
+	
+	culture = zhangzhung
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = zhangzhung_band_composition
+}
+d_kingdom1018_band = {
+	color={ 238 41 18 }
+	color2={ 255 255 255 }
+	
+	capital = 1018
+	
+	culture = bodpa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = bodpa_band_composition
+}
+d_kingdom1036_band = {
+	color={ 159 31 49 }
+	color2={ 255 255 255 }
+	
+	capital = 1036
+	
+	culture = old_saxon
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_saxon_band_composition
+}
+d_kingdom1065_band = {
+	color={ 211 217 177 }
+	color2={ 255 255 255 }
+	
+	capital = 1065
+	
+	culture = daju
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = daju_band_composition
+}
+d_kingdom1075_band = {
+	color={ 227 120 13 }
+	color2={ 255 255 255 }
+	
+	capital = 1075
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_kingdom1088_band = {
+	color={ 201 235 183 }
+	color2={ 255 255 255 }
+	
+	capital = 1088
+	
+	culture = daju
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = daju_band_composition
+}
+d_kingdom1093_band = {
+	color={ 170 101 63 }
+	color2={ 255 255 255 }
+	
+	capital = 1093
+	
+	culture = nepali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nepali_band_composition
 }
 d_kingdom1100_band = {
-	color={ 171 165 42 }
+	color={ 158 67 27 }
 	color2={ 255 255 255 }
 	
 	capital = 1100
 	
-	culture = uncultured_swine
+	culture = tangut
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1532,15 +3380,15 @@ d_kingdom1100_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = tangut_band_composition
 }
-d_kingdom1109_band = {
-	color={ 151 108 24 }
+d_kingdom1102_band = {
+	color={ 163 119 5 }
 	color2={ 255 255 255 }
 	
-	capital = 1109
+	capital = 1102
 	
-	culture = uncultured_swine
+	culture = tangut
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1556,15 +3404,15 @@ d_kingdom1109_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = tangut_band_composition
 }
-d_kingdom1133_band = {
-	color={ 240 92 32 }
+d_kingdom1104_band = {
+	color={ 219 234 176 }
 	color2={ 255 255 255 }
 	
-	capital = 1133
+	capital = 1104
 	
-	culture = uncultured_swine
+	culture = daju
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1580,15 +3428,111 @@ d_kingdom1133_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = daju_band_composition
+}
+d_kingdom1114_band = {
+	color={ 217 221 185 }
+	color2={ 255 255 255 }
+	
+	capital = 1114
+	
+	culture = daju
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = daju_band_composition
+}
+d_kingdom1117_band = {
+	color={ 108 72 29 }
+	color2={ 255 255 255 }
+	
+	capital = 1117
+	
+	culture = old_saxon
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_saxon_band_composition
+}
+d_kingdom1138_band = {
+	color={ 101 63 69 }
+	color2={ 255 255 255 }
+	
+	capital = 1138
+	
+	culture = somali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = somali_band_composition
+}
+d_kingdom1139_band = {
+	color={ 150 100 54 }
+	color2={ 255 255 255 }
+	
+	capital = 1139
+	
+	culture = frisian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frisian_band_composition
 }
 d_kingdom1140_band = {
-	color={ 105 141 116 }
+	color={ 182 70 82 }
 	color2={ 255 255 255 }
 	
 	capital = 1140
 	
-	culture = uncultured_swine
+	culture = nepali
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1604,15 +3548,15 @@ d_kingdom1140_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nepali_band_composition
 }
-d_kingdom1144_band = {
-	color={ 205 8 7 }
+d_kingdom1165_band = {
+	color={ 201 79 31 }
 	color2={ 255 255 255 }
 	
-	capital = 1144
+	capital = 1165
 	
-	culture = uncultured_swine
+	culture = sumpa
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1628,15 +3572,15 @@ d_kingdom1144_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = sumpa_band_composition
 }
-d_kingdom1186_band = {
-	color={ 166 165 34 }
+d_kingdom1171_band = {
+	color={ 150 64 48 }
 	color2={ 255 255 255 }
 	
-	capital = 1186
+	capital = 1171
 	
-	culture = uncultured_swine
+	culture = nepali
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1652,15 +3596,15 @@ d_kingdom1186_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nepali_band_composition
 }
-d_kingdom1205_band = {
-	color={ 254 146 116 }
+d_kingdom1173_band = {
+	color={ 149 52 56 }
 	color2={ 255 255 255 }
 	
-	capital = 1205
+	capital = 1173
 	
-	culture = uncultured_swine
+	culture = nepali
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1676,15 +3620,15 @@ d_kingdom1205_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nepali_band_composition
 }
-d_kingdom1208_band = {
-	color={ 136 7 114 }
+d_kingdom1179_band = {
+	color={ 168 62 44 }
 	color2={ 255 255 255 }
 	
-	capital = 1208
+	capital = 1179
 	
-	culture = uncultured_swine
+	culture = han
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1700,15 +3644,15 @@ d_kingdom1208_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = han_band_composition
 }
-d_kingdom1249_band = {
-	color={ 174 92 41 }
+d_kingdom1185_band = {
+	color={ 230 130 32 }
 	color2={ 255 255 255 }
 	
-	capital = 1249
+	capital = 1185
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1724,15 +3668,15 @@ d_kingdom1249_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom1257_band = {
-	color={ 111 87 38 }
+d_kingdom1191_band = {
+	color={ 208 65 76 }
 	color2={ 255 255 255 }
 	
-	capital = 1257
+	capital = 1191
 	
-	culture = uncultured_swine
+	culture = sumpa
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1748,15 +3692,15 @@ d_kingdom1257_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = sumpa_band_composition
 }
-d_kingdom1260_band = {
-	color={ 161 92 82 }
+d_kingdom1196_band = {
+	color={ 234 149 23 }
 	color2={ 255 255 255 }
 	
-	capital = 1260
+	capital = 1196
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1772,15 +3716,15 @@ d_kingdom1260_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom1268_band = {
-	color={ 170 114 59 }
+d_kingdom1213_band = {
+	color={ 223 135 57 }
 	color2={ 255 255 255 }
 	
-	capital = 1268
+	capital = 1213
 	
-	culture = uncultured_swine
+	culture = nahuatl
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1796,15 +3740,15 @@ d_kingdom1268_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = nahuatl_band_composition
 }
-d_kingdom1334_band = {
-	color={ 82 11 93 }
+d_kingdom1218_band = {
+	color={ 176 103 14 }
 	color2={ 255 255 255 }
 	
-	capital = 1334
+	capital = 1218
 	
-	culture = uncultured_swine
+	culture = tangut
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1820,15 +3764,15 @@ d_kingdom1334_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = tangut_band_composition
 }
-d_kingdom1355_band = {
-	color={ 96 131 65 }
+d_kingdom1261_band = {
+	color={ 244 224 147 }
 	color2={ 255 255 255 }
 	
-	capital = 1355
+	capital = 1261
 	
-	culture = uncultured_swine
+	culture = daju
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1844,15 +3788,135 @@ d_kingdom1355_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = daju_band_composition
+}
+d_kingdom1262_band = {
+	color={ 125 27 64 }
+	color2={ 255 255 255 }
+	
+	capital = 1262
+	
+	culture = old_saxon
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_saxon_band_composition
+}
+d_kingdom1272_band = {
+	color={ 169 81 74 }
+	color2={ 255 255 255 }
+	
+	capital = 1272
+	
+	culture = nepali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nepali_band_composition
+}
+d_kingdom1280_band = {
+	color={ 96 63 55 }
+	color2={ 255 255 255 }
+	
+	capital = 1280
+	
+	culture = somali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = somali_band_composition
+}
+d_kingdom1288_band = {
+	color={ 212 56 86 }
+	color2={ 255 255 255 }
+	
+	capital = 1288
+	
+	culture = han
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = han_band_composition
+}
+d_kingdom1296_band = {
+	color={ 199 88 21 }
+	color2={ 255 255 255 }
+	
+	capital = 1296
+	
+	culture = sumpa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = sumpa_band_composition
 }
 d_kingdom1356_band = {
-	color={ 91 141 38 }
+	color={ 210 218 143 }
 	color2={ 255 255 255 }
 	
 	capital = 1356
 	
-	culture = uncultured_swine
+	culture = daju
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1868,15 +3932,15 @@ d_kingdom1356_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = daju_band_composition
 }
-d_kingdom1389_band = {
-	color={ 97 88 60 }
+d_kingdom1363_band = {
+	color={ 202 215 70 }
 	color2={ 255 255 255 }
 	
-	capital = 1389
+	capital = 1363
 	
-	culture = uncultured_swine
+	culture = frankish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1892,15 +3956,15 @@ d_kingdom1389_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = frankish_band_composition
 }
-d_kingdom1394_band = {
-	color={ 77 242 122 }
+d_kingdom1378_band = {
+	color={ 160 69 60 }
 	color2={ 255 255 255 }
 	
-	capital = 1394
+	capital = 1378
 	
-	culture = uncultured_swine
+	culture = han
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1916,13 +3980,37 @@ d_kingdom1394_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = han_band_composition
 }
-d_kingdom1397_band = {
-	color={ 166 244 63 }
+d_kingdom1382_band = {
+	color={ 235 89 221 }
 	color2={ 255 255 255 }
 	
-	capital = 1397
+	capital = 1382
+	
+	culture = zaghawa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = zaghawa_band_composition
+}
+d_kingdom1386_band = {
+	color={ 109 161 127 }
+	color2={ 255 255 255 }
+	
+	capital = 1386
 	
 	culture = uncultured_swine
 	
@@ -1943,11 +4031,203 @@ d_kingdom1397_band = {
 	mercenary_type = uncultured_swine_band_composition
 }
 d_kingdom1413_band = {
-	color={ 232 138 21 }
+	color={ 146 99 45 }
 	color2={ 255 255 255 }
 	
 	capital = 1413
 	
+	culture = nepali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nepali_band_composition
+}
+d_kingdom1414_band = {
+	color={ 177 186 60 }
+	color2={ 255 255 255 }
+	
+	capital = 1414
+	
+	culture = khitan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = khitan_band_composition
+}
+d_kingdom1418_band = {
+	color={ 178 188 71 }
+	color2={ 255 255 255 }
+	
+	capital = 1418
+	
+	culture = frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frankish_band_composition
+}
+d_kingdom1419_band = {
+	color={ 194 172 106 }
+	color2={ 255 255 255 }
+	
+	capital = 1419
+	
+	culture = khitan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = khitan_band_composition
+}
+d_kingdom1436_band = {
+	color={ 210 36 79 }
+	color2={ 255 255 255 }
+	
+	capital = 1436
+	
+	culture = han
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = han_band_composition
+}
+d_kingdom1444_band = {
+	color={ 164 110 43 }
+	color2={ 255 255 255 }
+	
+	capital = 1444
+	
+	culture = nepali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nepali_band_composition
+}
+d_kingdom1446_band = {
+	color={ 175 91 39 }
+	color2={ 255 255 255 }
+	
+	capital = 1446
+	
+	culture = sumpa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = sumpa_band_composition
+}
+d_kingdom1460_band = {
+	color={ 165 185 78 }
+	color2={ 255 255 255 }
+	
+	capital = 1460
+	
+	culture = khitan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = khitan_band_composition
+}
+d_kingdom1468_band = {
+	color={ 102 145 78 }
+	color2={ 255 255 255 }
+	
+	capital = 1468
+	
 	culture = uncultured_swine
 	
 	mercenary = yes
@@ -1966,13 +4246,13 @@ d_kingdom1413_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = uncultured_swine_band_composition
 }
-d_kingdom1434_band = {
-	color={ 162 131 15 }
+d_kingdom1482_band = {
+	color={ 190 154 102 }
 	color2={ 255 255 255 }
 	
-	capital = 1434
+	capital = 1482
 	
-	culture = uncultured_swine
+	culture = khitan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -1988,15 +4268,15 @@ d_kingdom1434_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = khitan_band_composition
 }
-d_kingdom1469_band = {
-	color={ 132 209 4 }
+d_kingdom1492_band = {
+	color={ 90 123 237 }
 	color2={ 255 255 255 }
 	
-	capital = 1469
+	capital = 1492
 	
-	culture = uncultured_swine
+	culture = mongol
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -2012,38 +4292,134 @@ d_kingdom1469_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
-}
-d_kingdom1470_band = {
-	color={ 191 236 43 }
-	color2={ 255 255 255 }
-	
-	capital = 1470
-	
-	culture = uncultured_swine
-	
-	mercenary = yes
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-	
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = mongol_band_composition
 }
 d_kingdom1494_band = {
-	color={ 164 118 13 }
+	color={ 185 187 75 }
 	color2={ 255 255 255 }
 	
 	capital = 1494
 	
+	culture = khitan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = khitan_band_composition
+}
+d_kingdom1497_band = {
+	color={ 78 99 214 }
+	color2={ 255 255 255 }
+	
+	capital = 1497
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_kingdom1508_band = {
+	color={ 121 131 230 }
+	color2={ 255 255 255 }
+	
+	capital = 1508
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_kingdom1537_band = {
+	color={ 205 161 80 }
+	color2={ 255 255 255 }
+	
+	capital = 1537
+	
+	culture = frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = frankish_band_composition
+}
+d_kingdom1552_band = {
+	color={ 176 154 65 }
+	color2={ 255 255 255 }
+	
+	capital = 1552
+	
+	culture = khitan
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = khitan_band_composition
+}
+d_kingdom1559_band = {
+	color={ 127 132 120 }
+	color2={ 255 255 255 }
+	
+	capital = 1559
+	
 	culture = uncultured_swine
 	
 	mercenary = yes
@@ -2062,11 +4438,83 @@ d_kingdom1494_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = uncultured_swine_band_composition
 }
-d_kingdom1495_band = {
-	color={ 131 238 43 }
+d_kingdom1563_band = {
+	color={ 126 92 241 }
 	color2={ 255 255 255 }
 	
-	capital = 1495
+	capital = 1563
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_kingdom1566_band = {
+	color={ 161 35 75 }
+	color2={ 255 255 255 }
+	
+	capital = 1566
+	
+	culture = han
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = han_band_composition
+}
+d_kingdom1580_band = {
+	color={ 120 126 208 }
+	color2={ 255 255 255 }
+	
+	capital = 1580
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_kingdom1582_band = {
+	color={ 106 140 120 }
+	color2={ 255 255 255 }
+	
+	capital = 1582
 	
 	culture = uncultured_swine
 	
@@ -2086,11 +4534,35 @@ d_kingdom1495_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = uncultured_swine_band_composition
 }
-d_kingdom1514_band = {
-	color={ 73 181 29 }
+d_kingdom1583_band = {
+	color={ 105 125 220 }
 	color2={ 255 255 255 }
 	
-	capital = 1514
+	capital = 1583
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_kingdom1588_band = {
+	color={ 95 123 90 }
+	color2={ 255 255 255 }
+	
+	capital = 1588
 	
 	culture = uncultured_swine
 	
@@ -2110,13 +4582,13 @@ d_kingdom1514_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = uncultured_swine_band_composition
 }
-d_kingdom1523_band = {
-	color={ 83 71 61 }
+d_kingdom1592_band = {
+	color={ 183 204 77 }
 	color2={ 255 255 255 }
 	
-	capital = 1523
+	capital = 1592
 	
-	culture = uncultured_swine
+	culture = khitan
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -2132,15 +4604,15 @@ d_kingdom1523_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = khitan_band_composition
 }
-d_kingdom1532_band = {
-	color={ 165 177 12 }
+d_kingdom1597_band = {
+	color={ 127 133 221 }
 	color2={ 255 255 255 }
 	
-	capital = 1532
+	capital = 1597
 	
-	culture = uncultured_swine
+	culture = mongol
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -2156,15 +4628,15 @@ d_kingdom1532_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = mongol_band_composition
 }
-d_kingdom1533_band = {
-	color={ 203 100 26 }
+d_kingdom1601_band = {
+	color={ 202 131 208 }
 	color2={ 255 255 255 }
 	
-	capital = 1533
+	capital = 1601
 	
-	culture = uncultured_swine
+	culture = crimean_gothic
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -2180,5 +4652,29 @@ d_kingdom1533_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = uncultured_swine_band_composition
+	mercenary_type = crimean_gothic_band_composition
+}
+d_kingdom1602_band = {
+	color={ 108 122 239 }
+	color2={ 255 255 255 }
+	
+	capital = 1602
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
 }

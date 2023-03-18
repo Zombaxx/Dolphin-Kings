@@ -1,0 +1,14 @@
+# 1536 - Province1536
+
+# County Title
+title = c_province1536
+
+# Settlements
+max_settlements = 3
+b_barony1536` = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

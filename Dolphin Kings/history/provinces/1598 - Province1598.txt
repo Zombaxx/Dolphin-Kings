@@ -1,0 +1,15 @@
+# 1598 - Province1598
+
+# County Title
+title = c_province1598
+
+# Settlements
+max_settlements = 3
+b_barony1598` = city
+b_barony1598a = temple
+
+# Misc
+culture = mongol
+religion = buddhist
+
+# History

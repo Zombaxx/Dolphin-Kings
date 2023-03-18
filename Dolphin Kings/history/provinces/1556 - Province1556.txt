@@ -1,0 +1,15 @@
+# 1556 - Province1556
+
+# County Title
+title = c_province1556
+
+# Settlements
+max_settlements = 3
+b_barony1556` = castle
+b_barony1556a = temple
+
+# Misc
+culture = mongol
+religion = nestorian
+
+# History

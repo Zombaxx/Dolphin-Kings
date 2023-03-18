@@ -9,7 +9,7 @@ b_barony0220` = tribal
 b_barony0220a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = soninke
+religion = catholic
 
 # History

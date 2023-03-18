@@ -4,11 +4,11 @@
 title = c_province1519
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 b_barony1519` = tribal
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = mongol
+religion = tengri_pagan
 
 # History

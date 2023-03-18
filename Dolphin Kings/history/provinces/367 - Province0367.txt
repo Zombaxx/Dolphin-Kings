@@ -9,7 +9,7 @@ b_barony0367` = tribal
 b_barony0367a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = ilmenian
+religion = nestorian
 
 # History

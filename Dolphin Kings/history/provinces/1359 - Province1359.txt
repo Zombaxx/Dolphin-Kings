@@ -9,6 +9,6 @@ b_barony1359` = tribal
 
 # Misc
 culture = uncultured_swine
-religion = pagan
+religion = taoist
 
 # History

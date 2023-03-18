@@ -1,0 +1,15 @@
+# 1599 - Province1599
+
+# County Title
+title = c_province1599
+
+# Settlements
+max_settlements = 2
+b_barony1599` = tribal
+b_barony1599a = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

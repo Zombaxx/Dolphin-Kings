@@ -4,11 +4,11 @@
 title = c_province0312
 
 # Settlements
-max_settlements = 4
-b_barony0312` = tribal
+max_settlements = 2
+b_barony0312` = castle
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = sardinian
+religion = sunni
 
 # History

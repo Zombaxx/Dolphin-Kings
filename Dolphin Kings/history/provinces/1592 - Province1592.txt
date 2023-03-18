@@ -1,0 +1,15 @@
+# 1592 - Province1592
+
+# County Title
+title = c_province1592
+
+# Settlements
+max_settlements = 1
+b_barony1592` = tribal
+b_barony1592a = temple
+
+# Misc
+culture = khitan
+religion = tengri_pagan
+
+# History

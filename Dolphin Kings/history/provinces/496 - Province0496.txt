@@ -5,10 +5,11 @@ title = c_province0496
 
 # Settlements
 max_settlements = 3
-b_barony0496` = tribal
+b_barony0496` = castle
+b_barony0496a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = kanuri
+religion = west_african_pagan
 
 # History

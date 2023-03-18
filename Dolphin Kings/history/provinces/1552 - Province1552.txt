@@ -1,0 +1,15 @@
+# 1552 - Province1552
+
+# County Title
+title = c_province1552
+
+# Settlements
+max_settlements = 3
+b_barony1552` = tribal
+b_barony1552a = temple
+
+# Misc
+culture = khitan
+religion = buddhist
+
+# History

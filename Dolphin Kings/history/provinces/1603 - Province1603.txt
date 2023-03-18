@@ -1,0 +1,14 @@
+# 1603 - Province1603
+
+# County Title
+title = c_province1603
+
+# Settlements
+max_settlements = 1
+b_barony1603` = city
+
+# Misc
+culture = mongol
+religion = buddhist
+
+# History

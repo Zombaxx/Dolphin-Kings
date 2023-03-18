@@ -1,0 +1,16 @@
+# 1545 - Province1545
+
+# County Title
+title = c_province1545
+
+# Settlements
+max_settlements = 4
+b_barony1545` = castle
+b_barony1545a = temple
+b_barony1545b = city
+
+# Misc
+culture = khitan
+religion = buddhist
+
+# History

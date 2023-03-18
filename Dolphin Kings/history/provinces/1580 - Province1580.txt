@@ -1,0 +1,17 @@
+# 1580 - Province1580
+
+# County Title
+title = c_province1580
+
+# Settlements
+max_settlements = 6
+b_barony1580` = castle
+b_barony1580a = temple
+b_barony1580b = city
+b_barony1580c = castle
+
+# Misc
+culture = mongol
+religion = buddhist
+
+# History

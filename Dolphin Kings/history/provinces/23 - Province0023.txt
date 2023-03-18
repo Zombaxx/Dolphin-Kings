@@ -4,11 +4,11 @@
 title = c_province0023
 
 # Settlements
-max_settlements = 3
-b_barony0023` = tribal
+max_settlements = 2
+b_barony0023` = castle
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = zaghawa
+religion = nestorian
 
 # History

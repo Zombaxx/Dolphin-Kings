@@ -9,7 +9,7 @@ b_barony0358` = tribal
 b_barony0358a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = songhay
+religion = west_african_pagan
 
 # History

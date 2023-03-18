@@ -9,7 +9,7 @@ b_barony0116` = tribal
 b_barony0116a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = zaghawa
+religion = aztec
 
 # History

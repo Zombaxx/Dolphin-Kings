@@ -4,11 +4,13 @@
 title = c_province0448
 
 # Settlements
-max_settlements = 3
-b_barony0448` = tribal
+max_settlements = 4
+b_barony0448` = castle
+b_barony0448a = temple
+b_barony0448b = city
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = nahuatl
+religion = catholic
 
 # History

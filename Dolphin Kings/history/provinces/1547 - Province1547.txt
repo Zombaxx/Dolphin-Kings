@@ -1,0 +1,14 @@
+# 1547 - Province1547
+
+# County Title
+title = c_province1547
+
+# Settlements
+max_settlements = 2
+b_barony1547` = castle
+
+# Misc
+culture = uncultured_swine
+religion = buddhist
+
+# History

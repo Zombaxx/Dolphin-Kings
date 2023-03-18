@@ -1,0 +1,15 @@
+# 1538 - Province1538
+
+# County Title
+title = c_province1538
+
+# Settlements
+max_settlements = 3
+b_barony1538` = castle
+b_barony1538a = temple
+
+# Misc
+culture = uncultured_swine
+religion = buddhist
+
+# History

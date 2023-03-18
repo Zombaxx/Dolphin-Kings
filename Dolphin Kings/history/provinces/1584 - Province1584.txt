@@ -1,0 +1,14 @@
+# 1584 - Province1584
+
+# County Title
+title = c_province1584
+
+# Settlements
+max_settlements = 2
+b_barony1584` = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

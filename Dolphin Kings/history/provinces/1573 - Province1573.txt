@@ -1,0 +1,15 @@
+# 1573 - Province1573
+
+# County Title
+title = c_province1573
+
+# Settlements
+max_settlements = 3
+b_barony1573` = castle
+b_barony1573a = temple
+
+# Misc
+culture = mongol
+religion = nestorian
+
+# History

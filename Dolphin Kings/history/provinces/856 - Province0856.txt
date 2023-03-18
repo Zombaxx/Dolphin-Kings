@@ -8,7 +8,7 @@ max_settlements = 3
 b_barony0856` = tribal
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = old_saxon
+religion = hindu
 
 # History

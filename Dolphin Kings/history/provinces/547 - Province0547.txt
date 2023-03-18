@@ -4,12 +4,11 @@
 title = c_province0547
 
 # Settlements
-max_settlements = 5
+max_settlements = 2
 b_barony0547` = tribal
-b_barony0547a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = hausa
+religion = west_african_pagan
 
 # History

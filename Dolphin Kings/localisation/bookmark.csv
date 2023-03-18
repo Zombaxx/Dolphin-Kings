@@ -3,8 +3,8 @@
 BM_WP;Dolphin Kings;;;;;;;;;;;;;x
 BM_WP_INFO;Long ago, humanity vanished off the face of the Earth. Millennia later the Dolphins of the Seven Seas have progressed into tribal and feudal civilizations, entering their own Medieval Era, largely forgetting the accurate history of dolphin-kind and the disaster that destroyed humanity. Knowledge of the humans has faded into myths and legends.;;;;;;;;;;;;;x
 
-BM_WP_ERA;Random World Game Mode;;;;;;;;;;;;;x
+BM_WP_ERA;The Aquatic Age;;;;;;;;;;;;;x
 BM_WP_ERA_INFO;Currently Dolphin Kings only works with the Random World game mode that requires the Holy Fury DLC, or by using a pre-generated save file. A working bookmark will be added for a future update so that his requirement can be removed. Failing to launch the game throught the Random World game mode or a provided save file will cause the game to crash.;;;;;;;;;;;;;x
 
-ERA_CHAR_NAME_108275;Do not start as this character.;;;;;;;;;;;;;x
-ERA_CHAR_INFO_108275;Instead of pressing Start Game, choose Custom Game Setup at the bottom middle of your screen followed by the Random World button near the top right between the start year and the Merchant Republic list (Random World generation requires the Holy Fury DLC), or use the provided save file. The save file would need to be moved from the mod download directory to the CK2 save directory.;;;;;;;;;;;;;x
+ERA_CHAR_NAME_103475;Duke Dolphinius;;;;;;;;;;;;;x
+ERA_CHAR_INFO_103475;Dolphin Kings is currently in open Alpha. If you would prefer all characters to use a placeholder dolphin portrait please use the portrait submod. Localization updates for religions, events, and provinces are not finalized and may correspond to a vanilla template. If you have feedback or would like to share your adventures please join us on Discord.;;;;;;;;;;;;;x

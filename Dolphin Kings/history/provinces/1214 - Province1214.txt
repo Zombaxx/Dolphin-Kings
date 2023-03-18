@@ -9,7 +9,7 @@ b_barony1214` = tribal
 b_barony1214a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = old_saxon
+religion = bon
 
 # History

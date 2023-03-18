@@ -8,7 +8,7 @@ max_settlements = 3
 b_barony0419` = tribal
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = severian
+religion = slavic_pagan
 
 # History

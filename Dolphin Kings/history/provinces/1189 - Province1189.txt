@@ -9,7 +9,7 @@ b_barony1189` = tribal
 b_barony1189a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = nahuatl
+religion = nestorian
 
 # History

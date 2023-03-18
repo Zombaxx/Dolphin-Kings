@@ -8,7 +8,7 @@ max_settlements = 2
 b_barony1310` = tribal
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = nahuatl
+religion = catholic
 
 # History

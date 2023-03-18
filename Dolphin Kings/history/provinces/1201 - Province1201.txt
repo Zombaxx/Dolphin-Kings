@@ -9,7 +9,7 @@ b_barony1201` = tribal
 b_barony1201a = temple
 
 # Misc
-culture = uncultured_swine
-religion = pagan
+culture = somali
+religion = taoist
 
 # History

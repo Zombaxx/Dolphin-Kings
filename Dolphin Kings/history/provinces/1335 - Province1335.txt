@@ -10,6 +10,6 @@ b_barony1335a = temple
 
 # Misc
 culture = uncultured_swine
-religion = pagan
+religion = taoist
 
 # History
