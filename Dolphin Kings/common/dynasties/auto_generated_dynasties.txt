@@ -4,12 +4,12 @@
 	religion="aztec"
 }
 100050={
-	name="de Province0005"
+	name="Kalm"
 	culture="norman"
 	religion="catholic"
 }
 100060={
-	name="de Province0006"
+	name="Sodir"
 	culture="catalan"
 	religion="catholic"
 }
@@ -19,7 +19,7 @@
 	religion="aztec"
 }
 100080={
-	name="de Province0008"
+	name="Rost"
 	culture="catalan"
 	religion="catholic"
 }
@@ -29,12 +29,12 @@
 	religion="aztec"
 }
 100100={
-	name="de Province0010"
+	name="Dalk"
 	culture="norman"
 	religion="nestorian"
 }
 100110={
-	name="de Province0011"
+	name="Kait"
 	culture="catalan"
 	religion="aztec"
 }
@@ -49,7 +49,7 @@
 	religion="aztec"
 }
 100140={
-	name="de Province0014"
+	name="Ajoascal"
 	culture="catalan"
 	religion="aztec"
 }
@@ -59,27 +59,27 @@
 	religion="catholic"
 }
 100160={
-	name="de Province0016"
+	name="Ralons"
 	culture="catalan"
 	religion="aztec"
 }
 100170={
-	name="Province0017"
+	name="Bip"
 	culture="zaghawa"
 	religion="nestorian"
 }
 100180={
-	name="Province0018"
+	name="Qulad"
 	culture="zaghawa"
 	religion="catholic"
 }
 100190={
-	name="de Province0019"
+	name="Tumyan"
 	culture="catalan"
 	religion="catholic"
 }
 100200={
-	name="de Province0020"
+	name="Dung"
 	culture="catalan"
 	religion="aztec"
 }
@@ -94,22 +94,22 @@
 	religion="aztec"
 }
 100230={
-	name="Province0023"
+	name="Qimus"
 	culture="zaghawa"
 	religion="nestorian"
 }
 100240={
-	name="de Province0024"
+	name="Danuar"
 	culture="catalan"
 	religion="aztec"
 }
 100250={
-	name="de Province0025"
+	name="Tid"
 	culture="catalan"
 	religion="catholic"
 }
 100260={
-	name="Province0026"
+	name="Kilit"
 	culture="zaghawa"
 	religion="catholic"
 }
@@ -119,7 +119,7 @@
 	religion="aztec"
 }
 100280={
-	name="de Province0028"
+	name="Roanev"
 	culture="catalan"
 	religion="catholic"
 }
@@ -134,7 +134,7 @@
 	religion="aztec"
 }
 100310={
-	name="de Province0031"
+	name="Lagidü"
 	culture="catalan"
 	religion="catholic"
 }
@@ -144,7 +144,7 @@
 	religion="catholic"
 }
 100330={
-	name="Province0033"
+	name="Atäud"
 	culture="zaghawa"
 	religion="nestorian"
 }
@@ -164,7 +164,7 @@
 	religion="aztec"
 }
 100370={
-	name="de Province0037"
+	name="Regafa"
 	culture="catalan"
 	religion="catholic"
 }
@@ -174,7 +174,7 @@
 	religion="catholic"
 }
 100390={
-	name="Province0039"
+	name="Tadying"
 	culture="zaghawa"
 	religion="nestorian"
 }
@@ -184,12 +184,12 @@
 	religion="catholic"
 }
 100410={
-	name="de Province0041"
+	name="Baidund"
 	culture="irish"
 	religion="nestorian"
 }
 100420={
-	name="de Province0042"
+	name="Bakoka"
 	culture="irish"
 	religion="nestorian"
 }
@@ -199,7 +199,7 @@
 	religion="catholic"
 }
 100440={
-	name="Province0044"
+	name="Rafutlu"
 	culture="zaghawa"
 	religion="catholic"
 }
@@ -224,12 +224,12 @@
 	religion="catholic"
 }
 100490={
-	name="de Province0049"
+	name="Soelank"
 	culture="irish"
 	religion="nestorian"
 }
 100500={
-	name="Province0050"
+	name="Tafilay"
 	culture="zaghawa"
 	religion="nestorian"
 }
@@ -254,12 +254,12 @@
 	religion="catholic"
 }
 100560={
-	name="Province0056"
+	name="Dasimha"
 	culture="zaghawa"
 	religion="catholic"
 }
 100580={
-	name="de Province0058"
+	name="Bakart"
 	culture="irish"
 	religion="nestorian"
 }
@@ -269,12 +269,12 @@
 	religion="catholic"
 }
 100600={
-	name="Province0060"
+	name="Andateg"
 	culture="zaghawa"
 	religion="finnish_pagan"
 }
 100610={
-	name="de Province0061"
+	name="Ajohimha"
 	culture="catalan"
 	religion="catholic"
 }
@@ -294,22 +294,22 @@
 	religion="catholic"
 }
 100680={
-	name="Province0068"
+	name="Bolenr"
 	culture="zaghawa"
 	religion="finnish_pagan"
 }
 100690={
-	name="de Province0069"
+	name="Wupus"
 	culture="catalan"
 	religion="catholic"
 }
 100710={
-	name="de Province0071"
+	name="Ranuke"
 	culture="catalan"
 	religion="catholic"
 }
 100730={
-	name="de Province0073"
+	name="Rulozar"
 	culture="irish"
 	religion="finnish_pagan"
 }
@@ -319,7 +319,7 @@
 	religion="aztec"
 }
 100750={
-	name="de Province0075"
+	name="Kieseph"
 	culture="frankish"
 	religion="miaphysite"
 }
@@ -329,12 +329,12 @@
 	religion="aztec"
 }
 100770={
-	name="de Province0077"
+	name="Edemence"
 	culture="irish"
 	religion="nestorian"
 }
 100780={
-	name="de Province0078"
+	name="Toneh"
 	culture="frankish"
 	religion="miaphysite"
 }
@@ -344,12 +344,12 @@
 	religion="catholic"
 }
 100800={
-	name="Province0080"
+	name="Kotomas"
 	culture="zaghawa"
 	religion="finnish_pagan"
 }
 100820={
-	name="de Province0082"
+	name="Radunia"
 	culture="norman"
 	religion="finnish_pagan"
 }
@@ -359,12 +359,12 @@
 	religion="aztec"
 }
 100840={
-	name="de Province0084"
+	name="Duyamar"
 	culture="frankish"
 	religion="miaphysite"
 }
 100850={
-	name="de Province0085"
+	name="Doanize"
 	culture="frankish"
 	religion="miaphysite"
 }
@@ -379,7 +379,7 @@
 	religion="catholic"
 }
 100880={
-	name="de Province0088"
+	name="Keg"
 	culture="norman"
 	religion="finnish_pagan"
 }
@@ -394,12 +394,12 @@
 	religion="aztec"
 }
 100910={
-	name="de Province0091"
+	name="Nad"
 	culture="frankish"
 	religion="norse_pagan"
 }
 100920={
-	name="de Province0092"
+	name="Qatl"
 	culture="frankish"
 	religion="miaphysite"
 }
@@ -409,17 +409,17 @@
 	religion="aztec"
 }
 100940={
-	name="de Province0094"
+	name="Apaul"
 	culture="frankish"
 	religion="miaphysite"
 }
 100950={
-	name="Province0095"
+	name="Bul"
 	culture="zaghawa"
 	religion="finnish_pagan"
 }
 100960={
-	name="de Province0096"
+	name="Lec"
 	culture="norman"
 	religion="nestorian"
 }
@@ -429,37 +429,37 @@
 	religion="aztec"
 }
 100980={
-	name="de Province0098"
+	name="Nabd"
 	culture="norman"
 	religion="nestorian"
 }
 100990={
-	name="de Province0099"
+	name="Qawr"
 	culture="norman"
 	religion="finnish_pagan"
 }
 101000={
-	name="de Province0100"
+	name="Lying"
 	culture="portuguese"
 	religion="catholic"
 }
 101010={
-	name="de Province0101"
+	name="Torig"
 	culture="frankish"
 	religion="norse_pagan"
 }
 101020={
-	name="de Province0102"
+	name="Ludn"
 	culture="norman"
 	religion="finnish_pagan"
 }
 101030={
-	name="de Province0103"
+	name="Akivta"
 	culture="norman"
 	religion="nestorian"
 }
 101040={
-	name="de Province0104"
+	name="Anvi"
 	culture="frankish"
 	religion="miaphysite"
 }
@@ -469,12 +469,12 @@
 	religion="aztec"
 }
 101060={
-	name="de Province0106"
+	name="Radti"
 	culture="norman"
 	religion="nestorian"
 }
 101070={
-	name="Province0107"
+	name="Tijr"
 	culture="zaghawa"
 	religion="aztec"
 }
@@ -484,42 +484,42 @@
 	religion="aztec"
 }
 101090={
-	name="de Province0109"
+	name="Kadam"
 	culture="frankish"
 	religion="miaphysite"
 }
 101100={
-	name="de Province0110"
+	name="Sii"
 	culture="frankish"
 	religion="norse_pagan"
 }
 101110={
-	name="de Province0111"
+	name="Wawr"
 	culture="portuguese"
 	religion="catholic"
 }
 101120={
-	name="de Province0112"
+	name="Rakamud"
 	culture="portuguese"
 	religion="catholic"
 }
 101130={
-	name="de Province0113"
+	name="Nert"
 	culture="norman"
 	religion="finnish_pagan"
 }
 101140={
-	name="de Province0114"
+	name="Qusi"
 	culture="frankish"
 	religion="miaphysite"
 }
 101150={
-	name="de Province0115"
+	name="Ros"
 	culture="norman"
 	religion="finnish_pagan"
 }
 101160={
-	name="Province0116"
+	name="Raw"
 	culture="zaghawa"
 	religion="aztec"
 }
@@ -529,12 +529,12 @@
 	religion="catholic"
 }
 101180={
-	name="de Province0118"
+	name="Sids"
 	culture="norman"
 	religion="norse_pagan"
 }
 101190={
-	name="de Province0119"
+	name="Kass"
 	culture="frankish"
 	religion="norse_pagan"
 }
@@ -544,7 +544,7 @@
 	religion="aztec"
 }
 101210={
-	name="de Province0121"
+	name="Rusn"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -554,12 +554,12 @@
 	religion="finnish_pagan"
 }
 101230={
-	name="af Province0123"
+	name="Siz"
 	culture="norse"
 	religion="norse_pagan"
 }
 101240={
-	name="de Province0124"
+	name="Biln"
 	culture="norman"
 	religion="norse_pagan"
 }
@@ -569,17 +569,17 @@
 	religion="finnish_pagan"
 }
 101260={
-	name="af Province0126"
+	name="Tetey"
 	culture="norse"
 	religion="norse_pagan"
 }
 101270={
-	name="de Province0127"
+	name="Nisey"
 	culture="frankish"
 	religion="miaphysite"
 }
 101280={
-	name="de Province0128"
+	name="Nugtai"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -589,17 +589,17 @@
 	religion="catholic"
 }
 101300={
-	name="Province0130"
+	name="Atbur"
 	culture="zaghawa"
 	religion="aztec"
 }
 101310={
-	name="Province0131"
+	name="Damula"
 	culture="zaghawa"
 	religion="aztec"
 }
 101320={
-	name="de Province0132"
+	name="Ruinge"
 	culture="frankish"
 	religion="miaphysite"
 }
@@ -609,52 +609,52 @@
 	religion="aztec"
 }
 101340={
-	name="de Province0134"
+	name="Nuis"
 	culture="frankish"
 	religion="miaphysite"
 }
 101350={
-	name="de Province0135"
+	name="Tyef"
 	culture="frankish"
 	religion="norse_pagan"
 }
 101360={
-	name="de Province0136"
+	name="Seups"
 	culture="norman"
 	religion="norse_pagan"
 }
 101370={
-	name="de Province0137"
+	name="Epremius"
 	culture="portuguese"
 	religion="catholic"
 }
 101380={
-	name="Province0138"
+	name="Wey"
 	culture="zaghawa"
 	religion="aztec"
 }
 101390={
-	name="de Province0139"
+	name="Ross"
 	culture="frankish"
 	religion="miaphysite"
 }
 101400={
-	name="af Province0140"
+	name="Bonh"
 	culture="norse"
 	religion="norse_pagan"
 }
 101410={
-	name="af Province0141"
+	name="Ditn"
 	culture="norse"
 	religion="norse_pagan"
 }
 101420={
-	name="de Province0142"
+	name="Kobosa"
 	culture="norman"
 	religion="norse_pagan"
 }
 101430={
-	name="Province0143"
+	name="Wegima"
 	culture="zaghawa"
 	religion="aztec"
 }
@@ -664,7 +664,7 @@
 	religion="finnish_pagan"
 }
 101450={
-	name="de Province0145"
+	name="Revl"
 	culture="frankish"
 	religion="miaphysite"
 }
@@ -679,62 +679,62 @@
 	religion="catholic"
 }
 101480={
-	name="de Province0148"
+	name="Qohl"
 	culture="frankish"
 	religion="miaphysite"
 }
 101490={
-	name="de Province0149"
+	name="Lalasus"
 	culture="portuguese"
 	religion="catholic"
 }
 101500={
-	name="af Province0150"
+	name="Ras"
 	culture="norse"
 	religion="norse_pagan"
 }
 101510={
-	name="de Province0151"
+	name="Koh"
 	culture="welsh"
 	religion="aztec"
 }
 101520={
-	name="de Province0152"
+	name="Rerla"
 	culture="welsh"
 	religion="aztec"
 }
 101530={
-	name="de Province0153"
+	name="Taumra"
 	culture="portuguese"
 	religion="catholic"
 }
 101540={
-	name="de Province0154"
+	name="Teveras"
 	culture="frankish"
 	religion="miaphysite"
 }
 101550={
-	name="af Province0155"
+	name="Tize"
 	culture="norse"
 	religion="norse_pagan"
 }
 101560={
-	name="de Province0156"
+	name="Rikd"
 	culture="frankish"
 	religion="miaphysite"
 }
 101570={
-	name="of Province0157"
+	name="Kecka"
 	culture="crimean_gothic"
 	religion="norse_pagan"
 }
 101580={
-	name="de Province0158"
+	name="Bed"
 	culture="frankish"
 	religion="miaphysite"
 }
 101590={
-	name="af Province0159"
+	name="Sehn"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -744,32 +744,32 @@
 	religion="finnish_pagan"
 }
 101620={
-	name="de Province0162"
+	name="Ecka"
 	culture="welsh"
 	religion="aztec"
 }
 101630={
-	name="de Province0163"
+	name="Burvi"
 	culture="portuguese"
 	religion="catholic"
 }
 101640={
-	name="de Province0164"
+	name="Dieri"
 	culture="welsh"
 	religion="aztec"
 }
 101650={
-	name="de Province0165"
+	name="Dusettu"
 	culture="portuguese"
 	religion="catholic"
 }
 101660={
-	name="de Province0166"
+	name="Ryb"
 	culture="portuguese"
 	religion="catholic"
 }
 101670={
-	name="af Province0167"
+	name="Ramb"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -779,57 +779,57 @@
 	religion="hellenic_pagan"
 }
 101690={
-	name="de Province0169"
+	name="Weonuda"
 	culture="welsh"
 	religion="aztec"
 }
 101700={
-	name="de Province0170"
+	name="Qol"
 	culture="welsh"
 	religion="aztec"
 }
 101710={
-	name="af Province0171"
+	name="Nims"
 	culture="norse"
 	religion="norse_pagan"
 }
 101720={
-	name="af Province0172"
+	name="Tivs"
 	culture="norse"
 	religion="norse_pagan"
 }
 101730={
-	name="de Province0173"
+	name="Ninnacob"
 	culture="portuguese"
 	religion="catholic"
 }
 101740={
-	name="de Province0174"
+	name="Ebudn"
 	culture="welsh"
 	religion="aztec"
 }
 101750={
-	name="de Province0175"
+	name="Kudd"
 	culture="catalan"
 	religion="catholic"
 }
 101760={
-	name="de Province0176"
+	name="Tuhr"
 	culture="frankish"
 	religion="miaphysite"
 }
 101770={
-	name="de Province0177"
+	name="Lear"
 	culture="portuguese"
 	religion="catholic"
 }
 101780={
-	name="de Province0178"
+	name="Nagd"
 	culture="catalan"
 	religion="catholic"
 }
 101790={
-	name="de Province0179"
+	name="Kagd"
 	culture="frankish"
 	religion="norse_pagan"
 }
@@ -839,12 +839,12 @@
 	religion="finnish_pagan"
 }
 101810={
-	name="de Province0181"
+	name="Lyam"
 	culture="portuguese"
 	religion="catholic"
 }
 101830={
-	name="de Province0183"
+	name="Qusulun"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
@@ -854,27 +854,27 @@
 	religion="sunni"
 }
 101850={
-	name="de Province0185"
+	name="Lerm"
 	culture="frankish"
 	religion="miaphysite"
 }
 101860={
-	name="de Province0186"
+	name="Epirl"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
 101870={
-	name="de Province0187"
+	name="Sevl"
 	culture="frankish"
 	religion="miaphysite"
 }
 101880={
-	name="de Province0188"
+	name="Qoch"
 	culture="portuguese"
 	religion="catholic"
 }
 101900={
-	name="af Province0190"
+	name="Boh"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -884,22 +884,22 @@
 	religion="sunni"
 }
 101920={
-	name="de Province0192"
+	name="Epharma"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
 101930={
-	name="de Province0193"
+	name="Qerla"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
 101940={
-	name="af Province0194"
+	name="Byusd"
 	culture="norse"
 	religion="norse_pagan"
 }
 101950={
-	name="Province0195"
+	name="Qidd"
 	culture="songhay"
 	religion="catholic"
 }
@@ -909,12 +909,12 @@
 	religion="hellenic_pagan"
 }
 101970={
-	name="af Province0197"
+	name="Tabari"
 	culture="norse"
 	religion="norse_pagan"
 }
 101980={
-	name="de Province0198"
+	name="Leinidü"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -924,22 +924,22 @@
 	religion="catholic"
 }
 102000={
-	name="Province0200"
+	name="Ralirek"
 	culture="songhay"
 	religion="finnish_pagan"
 }
 102010={
-	name="de Province0201"
+	name="Lanukac"
 	culture="frankish"
 	religion="miaphysite"
 }
 102020={
-	name="de Province0202"
+	name="Nanuerci"
 	culture="frankish"
 	religion="miaphysite"
 }
 102030={
-	name="de Province0203"
+	name="Lemma"
 	culture="catalan"
 	religion="catholic"
 }
@@ -949,12 +949,12 @@
 	religion="catholic"
 }
 102050={
-	name="de Province0205"
+	name="Tinuzma"
 	culture="portuguese"
 	religion="finnish_pagan"
 }
 102060={
-	name="Province0206"
+	name="Emianus"
 	culture="songhay"
 	religion="finnish_pagan"
 }
@@ -964,7 +964,7 @@
 	religion="catholic"
 }
 102080={
-	name="de Province0208"
+	name="Epadisam"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
@@ -974,7 +974,7 @@
 	religion="sunni"
 }
 102100={
-	name="de Province0210"
+	name="Sigune"
 	culture="portuguese"
 	religion="catholic"
 }
@@ -989,7 +989,7 @@
 	religion="sunni"
 }
 102130={
-	name="de Province0213"
+	name="Rasukh"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
@@ -999,32 +999,32 @@
 	religion="sunni"
 }
 102150={
-	name="af Province0215"
+	name="Waxman"
 	culture="norse"
 	religion="norse_pagan"
 }
 102160={
-	name="de Province0216"
+	name="Elousas"
 	culture="frankish"
 	religion="norse_pagan"
 }
 102170={
-	name="de Province0217"
+	name="Atimha"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
 102180={
-	name="de Province0218"
+	name="Bisar"
 	culture="portuguese"
 	religion="catholic"
 }
 102190={
-	name="of Province0219"
+	name="Wutuna"
 	culture="crimean_gothic"
 	religion="catholic"
 }
 102200={
-	name="Province0220"
+	name="Nasite"
 	culture="soninke"
 	religion="catholic"
 }
@@ -1034,7 +1034,7 @@
 	religion="hellenic_pagan"
 }
 102220={
-	name="de Province0222"
+	name="Wawyan"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
@@ -1044,32 +1044,32 @@
 	religion="catholic"
 }
 102240={
-	name="of Province0224"
+	name="Kidoghan"
 	culture="severian"
 	religion="miaphysite"
 }
 102250={
-	name="Province0225"
+	name="Tebabe"
 	culture="songhay"
 	religion="finnish_pagan"
 }
 102260={
-	name="de Province0226"
+	name="Temierr"
 	culture="frankish"
 	religion="miaphysite"
 }
 102270={
-	name="de Province0227"
+	name="Wyarena"
 	culture="frankish"
 	religion="miaphysite"
 }
 102280={
-	name="de Province0228"
+	name="Denars"
 	culture="frankish"
 	religion="miaphysite"
 }
 102290={
-	name="af Province0229"
+	name="Aralica"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -1079,32 +1079,32 @@
 	religion="catholic"
 }
 102310={
-	name="de Province0231"
+	name="Diloša"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
 102320={
-	name="Province0232"
+	name="Nireñram"
 	culture="songhay"
 	religion="zoroastrian"
 }
 102330={
-	name="de Province0233"
+	name="Numyula"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
 102340={
-	name="Province0234"
+	name="Tarorri"
 	culture="soninke"
 	religion="zoroastrian"
 }
 102350={
-	name="de Province0235"
+	name="Kuterd"
 	culture="frankish"
 	religion="norse_pagan"
 }
 102360={
-	name="Province0236"
+	name="Takotus"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -1114,17 +1114,17 @@
 	religion="sunni"
 }
 102380={
-	name="Province0238"
+	name="Sosella"
 	culture="songhay"
 	religion="sunni"
 }
 102390={
-	name="de Province0239"
+	name="Kabdonn"
 	culture="old_frankish"
 	religion="sunni"
 }
 102400={
-	name="Province0240"
+	name="Abakilip"
 	culture="soninke"
 	religion="catholic"
 }
@@ -1134,7 +1134,7 @@
 	religion="sunni"
 }
 102420={
-	name="de Province0242"
+	name="Rataicu"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
@@ -1149,12 +1149,12 @@
 	religion="sunni"
 }
 102450={
-	name="of Province0245"
+	name="Tyasagop"
 	culture="severian"
 	religion="miaphysite"
 }
 102460={
-	name="Province0246"
+	name="Lunielo"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -1164,7 +1164,7 @@
 	religion="catholic"
 }
 102480={
-	name="Province0248"
+	name="Koyage"
 	culture="soninke"
 	religion="catholic"
 }
@@ -1174,17 +1174,17 @@
 	religion="catholic"
 }
 102500={
-	name="of Province0250"
+	name="Bosuro"
 	culture="severian"
 	religion="miaphysite"
 }
 102510={
-	name="de Province0251"
+	name="Kanuseda"
 	culture="frankish"
 	religion="miaphysite"
 }
 102520={
-	name="Province0252"
+	name="Saliel"
 	culture="soninke"
 	religion="catholic"
 }
@@ -1194,27 +1194,27 @@
 	religion="nestorian"
 }
 102540={
-	name="de Province0254"
+	name="Rumistar"
 	culture="welsh"
 	religion="hellenic_pagan"
 }
 102550={
-	name="Province0255"
+	name="Namath"
 	culture="songhay"
 	religion="zoroastrian"
 }
 102560={
-	name="de Province0256"
+	name="Lorinus"
 	culture="frankish"
 	religion="miaphysite"
 }
 102570={
-	name="af Province0257"
+	name="Wagaghu"
 	culture="norse"
 	religion="norse_pagan"
 }
 102580={
-	name="de Province0258"
+	name="Nolaiti"
 	culture="old_frankish"
 	religion="sunni"
 }
@@ -1224,7 +1224,7 @@
 	religion="sunni"
 }
 102600={
-	name="Province0260"
+	name="Ninder"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -1234,7 +1234,7 @@
 	religion="sunni"
 }
 102620={
-	name="Province0262"
+	name="Lelemma"
 	culture="songhay"
 	religion="zoroastrian"
 }
@@ -1244,37 +1244,37 @@
 	religion="sunni"
 }
 102640={
-	name="Province0264"
+	name="Rodaila"
 	culture="soninke"
 	religion="zoroastrian"
 }
 102650={
-	name="Province0265"
+	name="Buranaz"
 	culture="soninke"
 	religion="catholic"
 }
 102660={
-	name="of Province0266"
+	name="Nasant"
 	culture="crimean_gothic"
 	religion="norse_pagan"
 }
 102670={
-	name="of Province0267"
+	name="Wuqugno"
 	culture="severian"
 	religion="miaphysite"
 }
 102680={
-	name="de Province0268"
+	name="Sogegen"
 	culture="old_frankish"
 	religion="catholic"
 }
 102690={
-	name="de Province0269"
+	name="Ejayaqar"
 	culture="welsh"
 	religion="catholic"
 }
 102700={
-	name="Province0270"
+	name="Lesenes"
 	culture="songhay"
 	religion="jewish"
 }
@@ -1289,22 +1289,22 @@
 	religion="catholic"
 }
 102730={
-	name="de Province0273"
+	name="Qumiya"
 	culture="welsh"
 	religion="catholic"
 }
 102740={
-	name="Province0274"
+	name="Dohabib"
 	culture="soninke"
 	religion="zoroastrian"
 }
 102750={
-	name="of Province0275"
+	name="Lohinai"
 	culture="severian"
 	religion="miaphysite"
 }
 102760={
-	name="of Province0276"
+	name="Raloan"
 	culture="bohemian"
 	religion="nestorian"
 }
@@ -1314,12 +1314,12 @@
 	religion="nestorian"
 }
 102780={
-	name="Province0278"
+	name="Sidatas"
 	culture="songhay"
 	religion="zoroastrian"
 }
 102790={
-	name="Province0279"
+	name="Edilay"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -1329,77 +1329,77 @@
 	religion="sunni"
 }
 102810={
-	name="Province0281"
+	name="Welorc"
 	culture="soninke"
 	religion="catholic"
 }
 102820={
-	name="of Province0282"
+	name="Tenena"
 	culture="severian"
 	religion="miaphysite"
 }
 102830={
-	name="Province0283"
+	name="Ebilina"
 	culture="soninke"
 	religion="zoroastrian"
 }
 102840={
-	name="de Province0284"
+	name="Kuqile"
 	culture="old_frankish"
 	religion="catholic"
 }
 102850={
-	name="Province0285"
+	name="Nienne"
 	culture="songhay"
 	religion="zoroastrian"
 }
 102860={
-	name="de Province0286"
+	name="Walius"
 	culture="old_frankish"
 	religion="norse_pagan"
 }
 102870={
-	name="of Province0287"
+	name="Rayaki"
 	culture="crimean_gothic"
 	religion="sunni"
 }
 102880={
-	name="Province0288"
+	name="Bicaige"
 	culture="songhay"
 	religion="jewish"
 }
 102890={
-	name="of Province0289"
+	name="Lajying"
 	culture="crimean_gothic"
 	religion="miaphysite"
 }
 102900={
-	name="Province0290"
+	name="Ajesokop"
 	culture="soninke"
 	religion="zoroastrian"
 }
 102910={
-	name="of Province0291"
+	name="Raneen"
 	culture="severian"
 	religion="slavic_pagan"
 }
 102920={
-	name="Province0292"
+	name="Kapisam"
 	culture="soninke"
 	religion="zoroastrian"
 }
 102930={
-	name="Province0293"
+	name="Esyan"
 	culture="songhay"
 	religion="jewish"
 }
 102940={
-	name="of Province0294"
+	name="Bomatur"
 	culture="severian"
 	religion="miaphysite"
 }
 102950={
-	name="de Province0295"
+	name="Safaud"
 	culture="welsh"
 	religion="catholic"
 }
@@ -1409,67 +1409,67 @@
 	religion="catholic"
 }
 102970={
-	name="af Province0297"
+	name="Kelaise"
 	culture="norse"
 	religion="norse_pagan"
 }
 102980={
-	name="of Province0298"
+	name="Woisori"
 	culture="bohemian"
 	religion="nestorian"
 }
 102990={
-	name="Province0299"
+	name="Lonesha"
 	culture="soninke"
 	religion="zoroastrian"
 }
 103000={
-	name="de Province0300"
+	name="Laiselen"
 	culture="old_frankish"
 	religion="catholic"
 }
 103010={
-	name="de Province0301"
+	name="Rabirai"
 	culture="old_frankish"
 	religion="nestorian"
 }
 103020={
-	name="de Province0302"
+	name="Benasia"
 	culture="sardinian"
 	religion="catholic"
 }
 103030={
-	name="Province0303"
+	name="Efacenr"
 	culture="songhay"
 	religion="zoroastrian"
 }
 103040={
-	name="of Province0304"
+	name="Komalib"
 	culture="severian"
 	religion="miaphysite"
 }
 103050={
-	name="of Province0305"
+	name="Betobel"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103060={
-	name="de Province0306"
+	name="Siurala"
 	culture="old_frankish"
 	religion="norse_pagan"
 }
 103070={
-	name="Province0307"
+	name="Todaham"
 	culture="kanuri"
 	religion="zoroastrian"
 }
 103080={
-	name="Province0308"
+	name="Derigel"
 	culture="kanuri"
 	religion="zoroastrian"
 }
 103090={
-	name="Province0309"
+	name="Eratala"
 	culture="soninke"
 	religion="catholic"
 }
@@ -1479,12 +1479,12 @@
 	religion="miaphysite"
 }
 103110={
-	name="de Province0311"
+	name="Bosanya"
 	culture="welsh"
 	religion="catholic"
 }
 103120={
-	name="de Province0312"
+	name="Doline"
 	culture="sardinian"
 	religion="sunni"
 }
@@ -1494,7 +1494,7 @@
 	religion="catholic"
 }
 103140={
-	name="of Province0314"
+	name="Acaesara"
 	culture="severian"
 	religion="slavic_pagan"
 }
@@ -1504,42 +1504,42 @@
 	religion="catholic"
 }
 103160={
-	name="Province0316"
+	name="Sacuru"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103170={
-	name="of Province0317"
+	name="Apuxize"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103180={
-	name="Province0318"
+	name="Qilita"
 	culture="songhay"
 	religion="jewish"
 }
 103190={
-	name="Province0319"
+	name="Ragencia"
 	culture="soninke"
 	religion="zoroastrian"
 }
 103200={
-	name="of Province0320"
+	name="Siveter"
 	culture="bohemian"
 	religion="nestorian"
 }
 103210={
-	name="of Province0321"
+	name="Raruge"
 	culture="severian"
 	religion="miaphysite"
 }
 103220={
-	name="of Province0322"
+	name="Kevi"
 	culture="bohemian"
 	religion="nestorian"
 }
 103230={
-	name="de Province0323"
+	name="Wuri"
 	culture="old_frankish"
 	religion="nestorian"
 }
@@ -1549,22 +1549,22 @@
 	religion="catholic"
 }
 103250={
-	name="de Province0325"
+	name="Dinpal"
 	culture="old_frankish"
 	religion="norse_pagan"
 }
 103260={
-	name="Province0326"
+	name="Nawal"
 	culture="songhay"
 	religion="zoroastrian"
 }
 103270={
-	name="Province0327"
+	name="Efleodat"
 	culture="soninke"
 	religion="catholic"
 }
 103290={
-	name="Province0329"
+	name="Endory"
 	culture="kanuri"
 	religion="zoroastrian"
 }
@@ -1574,22 +1574,22 @@
 	religion="west_african_pagan"
 }
 103310={
-	name="Province0331"
+	name="Kavegin"
 	culture="kanuri"
 	religion="zoroastrian"
 }
 103320={
-	name="of Province0332"
+	name="Kadatun"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103330={
-	name="of Province0333"
+	name="Abenuna"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103340={
-	name="af Province0334"
+	name="Silju"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -1604,62 +1604,62 @@
 	religion="miaphysite"
 }
 103370={
-	name="Province0337"
+	name="Apelavan"
 	culture="soninke"
 	religion="zoroastrian"
 }
 103380={
-	name="de Province0338"
+	name="Tegta"
 	culture="sardinian"
 	religion="sunni"
 }
 103400={
-	name="of Province0340"
+	name="Tegcek"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103410={
-	name="Province0341"
+	name="Kiruru"
 	culture="songhay"
 	religion="jewish"
 }
 103420={
-	name="of Province0342"
+	name="Nonia"
 	culture="bohemian"
 	religion="nestorian"
 }
 103430={
-	name="de Province0343"
+	name="Larirve"
 	culture="old_frankish"
 	religion="miaphysite"
 }
 103440={
-	name="Province0344"
+	name="Kareek"
 	culture="kanuri"
 	religion="zoroastrian"
 }
 103450={
-	name="Province0345"
+	name="Binr"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103460={
-	name="Province0346"
+	name="Berr"
 	culture="soninke"
 	religion="zoroastrian"
 }
 103470={
-	name="de Province0347"
+	name="Lijine"
 	culture="old_frankish"
 	religion="miaphysite"
 }
 103480={
-	name="of Province0348"
+	name="Bostun"
 	culture="bohemian"
 	religion="orthodox"
 }
 103490={
-	name="Province0349"
+	name="Damostun"
 	culture="songhay"
 	religion="jewish"
 }
@@ -1669,17 +1669,17 @@
 	religion="catholic"
 }
 103510={
-	name="de Province0351"
+	name="Qibomo"
 	culture="old_frankish"
 	religion="nestorian"
 }
 103520={
-	name="Province0352"
+	name="Tawoste"
 	culture="kanuri"
 	religion="zoroastrian"
 }
 103530={
-	name="Province0353"
+	name="Tauladl"
 	culture="soninke"
 	religion="catholic"
 }
@@ -1694,27 +1694,27 @@
 	religion="catholic"
 }
 103560={
-	name="Province0356"
+	name="Sakka"
 	culture="kanuri"
 	religion="zoroastrian"
 }
 103570={
-	name="af Province0357"
+	name="Edaj"
 	culture="norse"
 	religion="norse_pagan"
 }
 103580={
-	name="Province0358"
+	name="Tostun"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103590={
-	name="of Province0359"
+	name="Tagaros"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103600={
-	name="of Province0360"
+	name="Baraham"
 	culture="bohemian"
 	religion="norse_pagan"
 }
@@ -1724,77 +1724,77 @@
 	religion="catholic"
 }
 103620={
-	name="of Province0362"
+	name="Esaml"
 	culture="severian"
 	religion="miaphysite"
 }
 103630={
-	name="Province0363"
+	name="Apirunai"
 	culture="songhay"
 	religion="jewish"
 }
 103640={
-	name="of Province0364"
+	name="Karos"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103650={
-	name="of Province0365"
+	name="Taradad"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103660={
-	name="de Province0366"
+	name="Wocde"
 	culture="sardinian"
 	religion="catholic"
 }
 103670={
-	name="of Province0367"
+	name="Tocke"
 	culture="ilmenian"
 	religion="nestorian"
 }
 103680={
-	name="Province0368"
+	name="Tavonis"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103690={
-	name="of Province0369"
+	name="Nadabir"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103700={
-	name="Province0370"
+	name="Akenadad"
 	culture="kanuri"
 	religion="zoroastrian"
 }
 103710={
-	name="of Province0371"
+	name="Botid"
 	culture="bohemian"
 	religion="orthodox"
 }
 103720={
-	name="de Province0372"
+	name="Redi"
 	culture="old_frankish"
 	religion="norse_pagan"
 }
 103730={
-	name="Province0373"
+	name="Neig"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103740={
-	name="Province0374"
+	name="Wum"
 	culture="soninke"
 	religion="zoroastrian"
 }
 103750={
-	name="de Province0375"
+	name="Wasatra"
 	culture="sardinian"
 	religion="catholic"
 }
 103760={
-	name="Province0376"
+	name="Delyu"
 	culture="soninke"
 	religion="catholic"
 }
@@ -1804,7 +1804,7 @@
 	religion="catholic"
 }
 103780={
-	name="Province0378"
+	name="Tin"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -1814,27 +1814,27 @@
 	religion="catholic"
 }
 103800={
-	name="of Province0380"
+	name="Takezo"
 	culture="bohemian"
 	religion="orthodox"
 }
 103810={
-	name="Province0381"
+	name="Nenoste"
 	culture="soninke"
 	religion="zoroastrian"
 }
 103820={
-	name="of Province0382"
+	name="Rork"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103830={
-	name="of Province0383"
+	name="Deru"
 	culture="ilmenian"
 	religion="orthodox"
 }
 103840={
-	name="de Province0384"
+	name="Subotos"
 	culture="sardinian"
 	religion="catholic"
 }
@@ -1844,17 +1844,17 @@
 	religion="catholic"
 }
 103860={
-	name="Province0386"
+	name="Edobaneh"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103870={
-	name="Province0387"
+	name="Dols"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103880={
-	name="Province0388"
+	name="Ties"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
@@ -1864,37 +1864,37 @@
 	religion="catholic"
 }
 103900={
-	name="of Province0390"
+	name="Aduit"
 	culture="ilmenian"
 	religion="orthodox"
 }
 103910={
-	name="of Province0391"
+	name="Tagann"
 	culture="bohemian"
 	religion="orthodox"
 }
 103920={
-	name="of Province0392"
+	name="Dotek"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103930={
-	name="of Province0393"
+	name="Koturtam"
 	culture="greek"
 	religion="sunni"
 }
 103940={
-	name="of Province0394"
+	name="Amaliva"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103950={
-	name="of Province0395"
+	name="Ageirohn"
 	culture="bohemian"
 	religion="orthodox"
 }
 103960={
-	name="Province0396"
+	name="Qee"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
@@ -1904,32 +1904,32 @@
 	religion="catholic"
 }
 103980={
-	name="of Province0398"
+	name="Wenura"
 	culture="severian"
 	religion="slavic_pagan"
 }
 103990={
-	name="Province0399"
+	name="Numim"
 	culture="soninke"
 	religion="catholic"
 }
 104000={
-	name="Province0400"
+	name="Qus"
 	culture="songhay"
 	religion="catholic"
 }
 104010={
-	name="de Province0401"
+	name="Basm"
 	culture="old_frankish"
 	religion="orthodox"
 }
 104020={
-	name="Province0402"
+	name="Tamarak"
 	culture="soninke"
 	religion="zoroastrian"
 }
 104030={
-	name="af Province0403"
+	name="Rireer"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -1939,82 +1939,82 @@
 	religion="catholic"
 }
 104050={
-	name="Province0405"
+	name="Dinnas"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 104060={
-	name="de Province0406"
+	name="Diesupus"
 	culture="sardinian"
 	religion="catholic"
 }
 104070={
-	name="af Province0407"
+	name="Sagilof"
 	culture="norse"
 	religion="norse_pagan"
 }
 104080={
-	name="Province0408"
+	name="Darta"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 104090={
-	name="af Province0409"
+	name="Koi"
 	culture="norse"
 	religion="norse_pagan"
 }
 104100={
-	name="Province0410"
+	name="Soša"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 104110={
-	name="Province0411"
+	name="Abenohn"
 	culture="songhay"
 	religion="catholic"
 }
 104120={
-	name="Province0412"
+	name="Qalite"
 	culture="soninke"
 	religion="zoroastrian"
 }
 104130={
-	name="of Province0413"
+	name="Nau"
 	culture="severian"
 	religion="slavic_pagan"
 }
 104140={
-	name="of Province0414"
+	name="Ebasn"
 	culture="severian"
 	religion="catholic"
 }
 104150={
-	name="of Province0415"
+	name="Lagulay"
 	culture="ilmenian"
 	religion="slavic_pagan"
 }
 104160={
-	name="Province0416"
+	name="Etadeva"
 	culture="soninke"
 	religion="zoroastrian"
 }
 104170={
-	name="of Province0417"
+	name="Laviga"
 	culture="ilmenian"
 	religion="orthodox"
 }
 104180={
-	name="of Province0418"
+	name="Qeh"
 	culture="ilmenian"
 	religion="orthodox"
 }
 104190={
-	name="of Province0419"
+	name="Sorr"
 	culture="severian"
 	religion="slavic_pagan"
 }
 104200={
-	name="Province0420"
+	name="Wusund"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -2024,22 +2024,22 @@
 	religion="catholic"
 }
 104220={
-	name="de Province0422"
+	name="Kippin"
 	culture="old_frankish"
 	religion="orthodox"
 }
 104230={
-	name="of Province0423"
+	name="Qeonn"
 	culture="greek"
 	religion="catholic"
 }
 104240={
-	name="Province0424"
+	name="Babuall"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104250={
-	name="Province0425"
+	name="Dazuist"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -2049,32 +2049,32 @@
 	religion="catholic"
 }
 104270={
-	name="de Province0427"
+	name="Evost"
 	culture="old_frankish"
 	religion="orthodox"
 }
 104280={
-	name="Province0428"
+	name="Qabost"
 	culture="soninke"
 	religion="zoroastrian"
 }
 104290={
-	name="of Province0429"
+	name="Aconn"
 	culture="ilmenian"
 	religion="slavic_pagan"
 }
 104300={
-	name="Province0430"
+	name="Bavyeju"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104310={
-	name="Province0431"
+	name="Razuall"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 104320={
-	name="Province0432"
+	name="Avippin"
 	culture="hausa"
 	religion="jewish"
 }
@@ -2089,17 +2089,17 @@
 	religion="catholic"
 }
 104350={
-	name="of Province0435"
+	name="Evosenes"
 	culture="severian"
 	religion="catholic"
 }
 104360={
-	name="Province0436"
+	name="Woz"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 104370={
-	name="Province0437"
+	name="Akozivka"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -2109,17 +2109,17 @@
 	religion="catholic"
 }
 104390={
-	name="of Province0439"
+	name="Erya"
 	culture="severian"
 	religion="slavic_pagan"
 }
 104400={
-	name="of Province0440"
+	name="Egazine"
 	culture="ilmenian"
 	religion="finnish_pagan"
 }
 104410={
-	name="af Province0441"
+	name="Salilip"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -2134,17 +2134,17 @@
 	religion="catholic"
 }
 104440={
-	name="of Province0444"
+	name="Dazaicu"
 	culture="greek"
 	religion="catholic"
 }
 104450={
-	name="Province0445"
+	name="Qakilip"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 104460={
-	name="Province0446"
+	name="Lakabai"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -2159,7 +2159,7 @@
 	religion="catholic"
 }
 104490={
-	name="of Province0449"
+	name="Ataumail"
 	culture="ilmenian"
 	religion="orthodox"
 }
@@ -2169,17 +2169,17 @@
 	religion="catholic"
 }
 104510={
-	name="of Province0451"
+	name="Ladofan"
 	culture="ilmenian"
 	religion="orthodox"
 }
 104520={
-	name="of Province0452"
+	name="Tabdarya"
 	culture="ilmenian"
 	religion="orthodox"
 }
 104530={
-	name="Province0453"
+	name="Syaana"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
@@ -2189,17 +2189,17 @@
 	religion="slavic_pagan"
 }
 104550={
-	name="Province0455"
+	name="Kadozar"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104560={
-	name="of Province0456"
+	name="Sadaicu"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 104570={
-	name="of Province0457"
+	name="Taicala"
 	culture="greek"
 	religion="sunni"
 }
@@ -2209,7 +2209,7 @@
 	religion="slavic_pagan"
 }
 104590={
-	name="Province0459"
+	name="Adaline"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
@@ -2219,17 +2219,17 @@
 	religion="catholic"
 }
 104610={
-	name="de Province0461"
+	name="Afatarya"
 	culture="visigothic"
 	religion="catholic"
 }
 104620={
-	name="Province0462"
+	name="Dazana"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104630={
-	name="Province0463"
+	name="Qaiata"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -2239,7 +2239,7 @@
 	religion="catholic"
 }
 104650={
-	name="of Province0465"
+	name="Rakoman"
 	culture="ilmenian"
 	religion="orthodox"
 }
@@ -2249,7 +2249,7 @@
 	religion="catholic"
 }
 104670={
-	name="Province0467"
+	name="Lalata"
 	culture="hausa"
 	religion="jewish"
 }
@@ -2259,37 +2259,37 @@
 	religion="catholic"
 }
 104690={
-	name="de Province0469"
+	name="Tabana"
 	culture="castillan"
 	religion="zoroastrian"
 }
 104700={
-	name="de Province0470"
+	name="Wyaeslav"
 	culture="visigothic"
 	religion="catholic"
 }
 104710={
-	name="Province0471"
+	name="Bazabai"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104720={
-	name="de Province0472"
+	name="Taidala"
 	culture="castillan"
 	religion="catholic"
 }
 104730={
-	name="of Province0473"
+	name="Naiden"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 104740={
-	name="Province0474"
+	name="Kohabai"
 	culture="hausa"
 	religion="zoroastrian"
 }
 104750={
-	name="de Province0475"
+	name="Lazana"
 	culture="visigothic"
 	religion="catholic"
 }
@@ -2299,7 +2299,7 @@
 	religion="catholic"
 }
 104770={
-	name="de Province0477"
+	name="Dazala"
 	culture="castillan"
 	religion="catholic"
 }
@@ -2309,22 +2309,22 @@
 	religion="slavic_pagan"
 }
 104790={
-	name="Province0479"
+	name="Lalala"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104800={
-	name="Province0480"
+	name="Nalilip"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104810={
-	name="Province0481"
+	name="Takana"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104820={
-	name="Province0482"
+	name="Nohanna"
 	culture="hausa"
 	religion="west_african_pagan"
 }
@@ -2334,12 +2334,12 @@
 	religion="catholic"
 }
 104840={
-	name="of Province0484"
+	name="Syaenla"
 	culture="ilmenian"
 	religion="orthodox"
 }
 104850={
-	name="ot Province0485"
+	name="Kaicana"
 	culture="bulgarian"
 	religion="hellenic_pagan"
 }
@@ -2349,27 +2349,27 @@
 	religion="slavic_pagan"
 }
 104870={
-	name="of Province0487"
+	name="Radoman"
 	culture="ilmenian"
 	religion="orthodox"
 }
 104880={
-	name="of Province0488"
+	name="Rakaicu"
 	culture="ilmenian"
 	religion="orthodox"
 }
 104890={
-	name="Province0489"
+	name="Razana"
 	culture="hausa"
 	religion="jewish"
 }
 104900={
-	name="de Province0490"
+	name="Tatanna"
 	culture="visigothic"
 	religion="catholic"
 }
 104920={
-	name="Province0492"
+	name="Ahalail"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -2379,22 +2379,22 @@
 	religion="catholic"
 }
 104940={
-	name="de Province0494"
+	name="Tailala"
 	culture="visigothic"
 	religion="catholic"
 }
 104950={
-	name="Province0495"
+	name="Labail"
 	culture="kanuri"
 	religion="catholic"
 }
 104960={
-	name="Province0496"
+	name="Tatine"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
 104970={
-	name="Province0497"
+	name="Ebakoman"
 	culture="kanuri"
 	religion="west_african_pagan"
 }
@@ -2404,17 +2404,17 @@
 	religion="orthodox"
 }
 104990={
-	name="of Province0499"
+	name="Syaofan"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 105000={
-	name="de Province0500"
+	name="Ryaac"
 	culture="castillan"
 	religion="zoroastrian"
 }
 105010={
-	name="de Province0501"
+	name="Arala"
 	culture="castillan"
 	religion="catholic"
 }
@@ -2424,32 +2424,32 @@
 	religion="catholic"
 }
 105030={
-	name="Province0503"
+	name="Satana"
 	culture="hausa"
 	religion="zoroastrian"
 }
 105040={
-	name="de Province0504"
+	name="Laiata"
 	culture="castillan"
 	religion="catholic"
 }
 105050={
-	name="de Province0505"
+	name="Acilip"
 	culture="visigothic"
 	religion="catholic"
 }
 105060={
-	name="ot Province0506"
+	name="Kaicofan"
 	culture="bulgarian"
 	religion="orthodox"
 }
 105070={
-	name="de Province0507"
+	name="Dyaraicu"
 	culture="visigothic"
 	religion="catholic"
 }
 105080={
-	name="de Province0508"
+	name="Byaarya"
 	culture="visigothic"
 	religion="catholic"
 }
@@ -2459,67 +2459,67 @@
 	religion="catholic"
 }
 105100={
-	name="de Province0510"
+	name="Ewnji"
 	culture="castillan"
 	religion="catholic"
 }
 105110={
-	name="ot Province0511"
+	name="Qinbi"
 	culture="bulgarian"
 	religion="orthodox"
 }
 105120={
-	name="de Province0512"
+	name="Bazofan"
 	culture="visigothic"
 	religion="catholic"
 }
 105130={
-	name="Province0513"
+	name="Kaloska"
 	culture="hausa"
 	religion="jewish"
 }
 105140={
-	name="Province0514"
+	name="Rodakla"
 	culture="hausa"
 	religion="catholic"
 }
 105150={
-	name="of Province0515"
+	name="Tatalta"
 	culture="greek"
 	religion="jewish"
 }
 105160={
-	name="de Province0516"
+	name="Raten"
 	culture="visigothic"
 	religion="catholic"
 }
 105170={
-	name="de Province0517"
+	name="Rivutsen"
 	culture="visigothic"
 	religion="catholic"
 }
 105180={
-	name="of Province0518"
+	name="Ryaralta"
 	culture="ilmenian"
 	religion="orthodox"
 }
 105190={
-	name="de Province0519"
+	name="Livanga"
 	culture="castillan"
 	religion="zoroastrian"
 }
 105200={
-	name="Province0520"
+	name="Nabewar"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 105220={
-	name="de Province0522"
+	name="Weineen"
 	culture="visigothic"
 	religion="catholic"
 }
 105230={
-	name="Province0523"
+	name="Ekoder"
 	culture="hausa"
 	religion="west_african_pagan"
 }
@@ -2529,12 +2529,12 @@
 	religion="catholic"
 }
 105250={
-	name="Province0525"
+	name="Nodakla"
 	culture="hausa"
 	religion="nestorian"
 }
 105260={
-	name="Province0526"
+	name="Ryasirun"
 	culture="hausa"
 	religion="jewish"
 }
@@ -2544,32 +2544,32 @@
 	religion="catholic"
 }
 105280={
-	name="de Province0528"
+	name="Taleen"
 	culture="visigothic"
 	religion="catholic"
 }
 105290={
-	name="Province0529"
+	name="Avari"
 	culture="soninke"
 	religion="zoroastrian"
 }
 105300={
-	name="ot Province0530"
+	name="Temenla"
 	culture="bulgarian"
 	religion="orthodox"
 }
 105310={
-	name="de Province0531"
+	name="Sodidü"
 	culture="visigothic"
 	religion="catholic"
 }
 105330={
-	name="de Province0533"
+	name="Kabapur"
 	culture="castillan"
 	religion="catholic"
 }
 105340={
-	name="Province0534"
+	name="Bagalta"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -2579,12 +2579,12 @@
 	religion="catholic"
 }
 105360={
-	name="de Province0536"
+	name="Noden"
 	culture="visigothic"
 	religion="catholic"
 }
 105370={
-	name="Province0537"
+	name="Todakla"
 	culture="hausa"
 	religion="west_african_pagan"
 }
@@ -2599,27 +2599,27 @@
 	religion="sunni"
 }
 105400={
-	name="Province0540"
+	name="Erodeen"
 	culture="hausa"
 	religion="nestorian"
 }
 105410={
-	name="Province0541"
+	name="Katen"
 	culture="hausa"
 	religion="jewish"
 }
 105420={
-	name="de Province0542"
+	name="Qeinyer"
 	culture="visigothic"
 	religion="catholic"
 }
 105430={
-	name="de Province0543"
+	name="Roden"
 	culture="visigothic"
 	religion="catholic"
 }
 105440={
-	name="de Province0544"
+	name="Wivari"
 	culture="catalan"
 	religion="catholic"
 }
@@ -2629,17 +2629,17 @@
 	religion="zoroastrian"
 }
 105460={
-	name="de Province0546"
+	name="Ryaseen"
 	culture="visigothic"
 	religion="catholic"
 }
 105470={
-	name="Province0547"
+	name="Asapur"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 105480={
-	name="Province0548"
+	name="Wyaroska"
 	culture="hausa"
 	religion="nestorian"
 }
@@ -2649,17 +2649,17 @@
 	religion="catholic"
 }
 105510={
-	name="Province0551"
+	name="Tivenla"
 	culture="soninke"
 	religion="zoroastrian"
 }
 105520={
-	name="Province0552"
+	name="Erager"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 105530={
-	name="de Province0553"
+	name="Acari"
 	culture="catalan"
 	religion="catholic"
 }
@@ -2669,7 +2669,7 @@
 	religion="catholic"
 }
 105550={
-	name="Province0555"
+	name="Todari"
 	culture="soninke"
 	religion="jewish"
 }
@@ -2684,12 +2684,12 @@
 	religion="zoroastrian"
 }
 105580={
-	name="Province0558"
+	name="Dainm"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 105590={
-	name="de Province0559"
+	name="Qagen"
 	culture="visigothic"
 	religion="catholic"
 }
@@ -2699,7 +2699,7 @@
 	religion="catholic"
 }
 105610={
-	name="Province0561"
+	name="Saiidü"
 	culture="hausa"
 	religion="jewish"
 }
@@ -2714,37 +2714,37 @@
 	religion="catholic"
 }
 105640={
-	name="de Province0564"
+	name="Rivewar"
 	culture="catalan"
 	religion="catholic"
 }
 105650={
-	name="de Province0565"
+	name="Baleen"
 	culture="castillan"
 	religion="catholic"
 }
 105660={
-	name="de Province0566"
+	name="Tagen"
 	culture="visigothic"
 	religion="catholic"
 }
 105670={
-	name="of Province0567"
+	name="Arapur"
 	culture="crimean_gothic"
 	religion="norse_pagan"
 }
 105680={
-	name="Province0568"
+	name="Tagidü"
 	culture="hausa"
 	religion="nestorian"
 }
 105690={
-	name="de Province0569"
+	name="Kodeen"
 	culture="catalan"
 	religion="catholic"
 }
 105700={
-	name="de Province0570"
+	name="Kabalta"
 	culture="visigothic"
 	religion="catholic"
 }
@@ -2754,22 +2754,22 @@
 	religion="catholic"
 }
 105720={
-	name="Province0572"
+	name="Todihal"
 	culture="soninke"
 	religion="jewish"
 }
 105730={
-	name="de Province0573"
+	name="Kyasaria"
 	culture="castillan"
 	religion="catholic"
 }
 105740={
-	name="Province0574"
+	name="Beyl"
 	culture="hausa"
 	religion="nestorian"
 }
 105750={
-	name="Province0575"
+	name="Sey"
 	culture="soninke"
 	religion="zoroastrian"
 }
@@ -2779,22 +2779,22 @@
 	religion="catholic"
 }
 105770={
-	name="de Province0577"
+	name="Namaria"
 	culture="visigothic"
 	religion="catholic"
 }
 105780={
-	name="Province0578"
+	name="Qeiaz"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 105790={
-	name="Province0579"
+	name="Bork"
 	culture="soninke"
 	religion="zoroastrian"
 }
 105800={
-	name="Province0580"
+	name="Wesse"
 	culture="soninke"
 	religion="jewish"
 }
@@ -2804,32 +2804,32 @@
 	religion="catholic"
 }
 105820={
-	name="de Province0582"
+	name="Waler"
 	culture="visigothic"
 	religion="catholic"
 }
 105830={
-	name="de Province0583"
+	name="Aøleig"
 	culture="catalan"
 	religion="zun_pagan"
 }
 105840={
-	name="de Province0584"
+	name="Tinavur"
 	culture="castillan"
 	religion="catholic"
 }
 105850={
-	name="de Province0585"
+	name="Dazgul"
 	culture="catalan"
 	religion="catholic"
 }
 105860={
-	name="de Province0586"
+	name="Aøloste"
 	culture="frankish"
 	religion="catholic"
 }
 105870={
-	name="de Province0587"
+	name="Raseig"
 	culture="frankish"
 	religion="norse_pagan"
 }
@@ -2854,22 +2854,22 @@
 	religion="catholic"
 }
 105920={
-	name="de Province0592"
+	name="Niinadl"
 	culture="catalan"
 	religion="catholic"
 }
 105930={
-	name="de Province0593"
+	name="Sineig"
 	culture="frankish"
 	religion="norse_pagan"
 }
 105940={
-	name="Province0594"
+	name="Nasyar"
 	culture="hausa"
 	religion="nestorian"
 }
 105950={
-	name="de Province0595"
+	name="Qenelmo"
 	culture="castillan"
 	religion="catholic"
 }
@@ -2884,42 +2884,42 @@
 	religion="sunni"
 }
 105980={
-	name="de Province0598"
+	name="Wunyar"
 	culture="castillan"
 	religion="catholic"
 }
 105990={
-	name="Province0599"
+	name="Wavur"
 	culture="soninke"
 	religion="norse_pagan"
 }
 106000={
-	name="Province0600"
+	name="Keyseig"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 106010={
-	name="de Province0601"
+	name="Rinaneh"
 	culture="visigothic"
 	religion="catholic"
 }
 106020={
-	name="de Province0602"
+	name="Linesho"
 	culture="visigothic"
 	religion="catholic"
 }
 106030={
-	name="Province0603"
+	name="Qaulquq"
 	culture="soninke"
 	religion="jewish"
 }
 106040={
-	name="de Province0604"
+	name="Sazgul"
 	culture="catalan"
 	religion="catholic"
 }
 106050={
-	name="de Province0605"
+	name="Rasyuquq"
 	culture="catalan"
 	religion="catholic"
 }
@@ -2929,12 +2929,12 @@
 	religion="nestorian"
 }
 106070={
-	name="Province0607"
+	name="Emokand"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 106080={
-	name="de Province0608"
+	name="Tilt"
 	culture="catalan"
 	religion="zun_pagan"
 }
@@ -2944,17 +2944,17 @@
 	religion="nestorian"
 }
 106100={
-	name="de Province0610"
+	name="Lobimir"
 	culture="castillan"
 	religion="catholic"
 }
 106110={
-	name="de Province0611"
+	name="Riol"
 	culture="frankish"
 	religion="norse_pagan"
 }
 106120={
-	name="de Province0612"
+	name="Tordis"
 	culture="frankish"
 	religion="catholic"
 }
@@ -2974,7 +2974,7 @@
 	religion="west_african_pagan"
 }
 106160={
-	name="Province0616"
+	name="Qegenzo"
 	culture="soninke"
 	religion="jewish"
 }
@@ -2989,12 +2989,12 @@
 	religion="jewish"
 }
 106190={
-	name="Province0619"
+	name="Qeysarin"
 	culture="soninke"
 	religion="norse_pagan"
 }
 106200={
-	name="de Province0620"
+	name="Rolila"
 	culture="castillan"
 	religion="catholic"
 }
@@ -3009,7 +3009,7 @@
 	religion="jain"
 }
 106240={
-	name="de Province0624"
+	name="Kegija"
 	culture="catalan"
 	religion="zun_pagan"
 }
@@ -3024,7 +3024,7 @@
 	religion="nestorian"
 }
 106270={
-	name="Province0627"
+	name="Kumila"
 	culture="soninke"
 	religion="norse_pagan"
 }
@@ -3034,12 +3034,12 @@
 	religion="sunni"
 }
 106290={
-	name="de Province0629"
+	name="Bolawit"
 	culture="castillan"
 	religion="jain"
 }
 106300={
-	name="Province0630"
+	name="Qegila"
 	culture="hausa"
 	religion="west_african_pagan"
 }
@@ -3049,7 +3049,7 @@
 	religion="catholic"
 }
 106320={
-	name="de Province0632"
+	name="Leirali"
 	culture="castillan"
 	religion="jain"
 }
@@ -3059,12 +3059,12 @@
 	religion="west_african_pagan"
 }
 106340={
-	name="Province0634"
+	name="Raulune"
 	culture="soninke"
 	religion="jewish"
 }
 106350={
-	name="Province0635"
+	name="Ennawit"
 	culture="soninke"
 	religion="jewish"
 }
@@ -3074,22 +3074,22 @@
 	religion="catholic"
 }
 106370={
-	name="Province0637"
+	name="Tumali"
 	culture="hausa"
 	religion="west_african_pagan"
 }
 106380={
-	name="de Province0638"
+	name="Rinnawit"
 	culture="castillan"
 	religion="jain"
 }
 106390={
-	name="de Province0639"
+	name="Reysija"
 	culture="visigothic"
 	religion="catholic"
 }
 106400={
-	name="de Province0640"
+	name="Sarordis"
 	culture="frankish"
 	religion="norse_pagan"
 }
@@ -3104,7 +3104,7 @@
 	religion="jain"
 }
 106430={
-	name="de Province0643"
+	name="Wyia"
 	culture="visigothic"
 	religion="catholic"
 }
@@ -3124,7 +3124,7 @@
 	religion="west_african_pagan"
 }
 106470={
-	name="Province0647"
+	name="Beneuta"
 	culture="soninke"
 	religion="norse_pagan"
 }
@@ -3144,7 +3144,7 @@
 	religion="sunni"
 }
 106520={
-	name="Province0652"
+	name="Roruis"
 	culture="soninke"
 	religion="norse_pagan"
 }
@@ -3154,17 +3154,17 @@
 	religion="sunni"
 }
 106540={
-	name="de Province0654"
+	name="Bipenzo"
 	culture="castillan"
 	religion="jain"
 }
 106550={
-	name="Province0655"
+	name="Rev"
 	culture="soninke"
 	religion="jewish"
 }
 106560={
-	name="de Province0656"
+	name="Tik"
 	culture="frankish"
 	religion="norse_pagan"
 }
@@ -3174,7 +3174,7 @@
 	religion="nestorian"
 }
 106580={
-	name="de Province0658"
+	name="Qenaud"
 	culture="castillan"
 	religion="jain"
 }
@@ -3184,12 +3184,12 @@
 	religion="jain"
 }
 106600={
-	name="de Province0660"
+	name="Qyasagop"
 	culture="frankish"
 	religion="bon"
 }
 106610={
-	name="de Province0661"
+	name="Wayn"
 	culture="frankish"
 	religion="bon"
 }
@@ -3199,7 +3199,7 @@
 	religion="catholic"
 }
 106630={
-	name="de Province0663"
+	name="Dosn"
 	culture="castillan"
 	religion="jain"
 }
@@ -3234,7 +3234,7 @@
 	religion="jain"
 }
 106700={
-	name="de Province0670"
+	name="Wiaj"
 	culture="frankish"
 	religion="jewish"
 }
@@ -3244,17 +3244,17 @@
 	religion="catholic"
 }
 106720={
-	name="de Province0672"
+	name="Rasak"
 	culture="frankish"
 	religion="bon"
 }
 106730={
-	name="de Province0673"
+	name="Sarahtu"
 	culture="castillan"
 	religion="jain"
 }
 106740={
-	name="de Province0674"
+	name="Evivassa"
 	culture="frankish"
 	religion="bon"
 }
@@ -3269,17 +3269,17 @@
 	religion="nestorian"
 }
 106770={
-	name="de Province0677"
+	name="Rure"
 	culture="castillan"
 	religion="jain"
 }
 106780={
-	name="de Province0678"
+	name="Qeryan"
 	culture="frankish"
 	religion="bon"
 }
 106790={
-	name="de Province0679"
+	name="Nila"
 	culture="frankish"
 	religion="zun_pagan"
 }
@@ -3299,7 +3299,7 @@
 	religion="sunni"
 }
 106830={
-	name="Province0683"
+	name="Walf"
 	culture="soninke"
 	religion="norse_pagan"
 }
@@ -3314,12 +3314,12 @@
 	religion="nestorian"
 }
 106860={
-	name="de Province0686"
+	name="Watier"
 	culture="visigothic"
 	religion="catholic"
 }
 106870={
-	name="de Province0687"
+	name="Qameo"
 	culture="castillan"
 	religion="jain"
 }
@@ -3339,12 +3339,12 @@
 	religion="sunni"
 }
 106910={
-	name="de Province0691"
+	name="Qirislit"
 	culture="castillan"
 	religion="jain"
 }
 106920={
-	name="Province0692"
+	name="Sièala"
 	culture="soninke"
 	religion="norse_pagan"
 }
@@ -3354,12 +3354,12 @@
 	religion="west_african_pagan"
 }
 106940={
-	name="de Province0694"
+	name="Raxeth"
 	culture="castillan"
 	religion="jain"
 }
 106950={
-	name="de Province0695"
+	name="Racava"
 	culture="frankish"
 	religion="bon"
 }
@@ -3374,7 +3374,7 @@
 	religion="sunni"
 }
 106980={
-	name="de Province0698"
+	name="Derani"
 	culture="visigothic"
 	religion="jain"
 }
@@ -3384,17 +3384,17 @@
 	religion="catholic"
 }
 107000={
-	name="de Province0700"
+	name="Taidadl"
 	culture="frankish"
 	religion="bon"
 }
 107010={
-	name="de Province0701"
+	name="Rudira"
 	culture="catalan"
 	religion="bon"
 }
 107020={
-	name="de Province0702"
+	name="Dunimon"
 	culture="visigothic"
 	religion="jain"
 }
@@ -3404,12 +3404,12 @@
 	religion="sunni"
 }
 107040={
-	name="de Province0704"
+	name="Qelim"
 	culture="frankish"
 	religion="shiite"
 }
 107050={
-	name="de Province0705"
+	name="Nonn"
 	culture="catalan"
 	religion="bon"
 }
@@ -3419,12 +3419,12 @@
 	religion="shiite"
 }
 107070={
-	name="de Province0707"
+	name="Binh"
 	culture="castillan"
 	religion="jain"
 }
 107080={
-	name="de Province0708"
+	name="Abakimon"
 	culture="frankish"
 	religion="bon"
 }
@@ -3439,7 +3439,7 @@
 	religion="jain"
 }
 107110={
-	name="de Province0711"
+	name="Badelen"
 	culture="frankish"
 	religion="zun_pagan"
 }
@@ -3464,7 +3464,7 @@
 	religion="catholic"
 }
 107160={
-	name="de Province0716"
+	name="Astenzo"
 	culture="frankish"
 	religion="bon"
 }
@@ -3474,7 +3474,7 @@
 	religion="sunni"
 }
 107180={
-	name="de Province0718"
+	name="Sanomas"
 	culture="castillan"
 	religion="jain"
 }
@@ -3484,7 +3484,7 @@
 	religion="sunni"
 }
 107200={
-	name="de Province0720"
+	name="Kalgi"
 	culture="catalan"
 	religion="bon"
 }
@@ -3509,7 +3509,7 @@
 	religion="sunni"
 }
 107250={
-	name="de Province0725"
+	name="Nipelen"
 	culture="visigothic"
 	religion="jain"
 }
@@ -3519,7 +3519,7 @@
 	religion="shiite"
 }
 107270={
-	name="de Province0727"
+	name="Kenzo"
 	culture="catalan"
 	religion="bon"
 }
@@ -3544,12 +3544,12 @@
 	religion="shiite"
 }
 107320={
-	name="de Province0732"
+	name="Wabet"
 	culture="catalan"
 	religion="bon"
 }
 107330={
-	name="de Province0733"
+	name="Degielo"
 	culture="catalan"
 	religion="catholic"
 }
@@ -3579,12 +3579,12 @@
 	religion="shiite"
 }
 107390={
-	name="de Province0739"
+	name="Wadone"
 	culture="frankish"
 	religion="bon"
 }
 107400={
-	name="de Province0740"
+	name="Tettu"
 	culture="visigothic"
 	religion="jain"
 }
@@ -3594,7 +3594,7 @@
 	religion="jain"
 }
 107420={
-	name="de Province0742"
+	name="Soraola"
 	culture="catalan"
 	religion="catholic"
 }
@@ -3619,7 +3619,7 @@
 	religion="shiite"
 }
 107470={
-	name="de Province0747"
+	name="Tuliu"
 	culture="visigothic"
 	religion="jain"
 }
@@ -3639,7 +3639,7 @@
 	religion="jain"
 }
 107510={
-	name="de Province0751"
+	name="Kiakin"
 	culture="catalan"
 	religion="catholic"
 }
@@ -3649,7 +3649,7 @@
 	religion="sunni"
 }
 107530={
-	name="de Province0753"
+	name="Wakin"
 	culture="frankish"
 	religion="bon"
 }
@@ -3664,22 +3664,22 @@
 	religion="catholic"
 }
 107560={
-	name="de Province0756"
+	name="Wamyal"
 	culture="catalan"
 	religion="catholic"
 }
 107570={
-	name="de Province0757"
+	name="Lameayge"
 	culture="visigothic"
 	religion="jain"
 }
 107580={
-	name="de Province0758"
+	name="Tatiye"
 	culture="catalan"
 	religion="catholic"
 }
 107590={
-	name="de Province0759"
+	name="Emegua"
 	culture="visigothic"
 	religion="shiite"
 }
@@ -3694,7 +3694,7 @@
 	religion="jewish"
 }
 107620={
-	name="de Province0762"
+	name="Kamafa"
 	culture="catalan"
 	religion="catholic"
 }
@@ -3704,7 +3704,7 @@
 	religion="shiite"
 }
 107640={
-	name="de Province0764"
+	name="Nelaige"
 	culture="visigothic"
 	religion="jain"
 }
@@ -3714,7 +3714,7 @@
 	religion="jain"
 }
 107670={
-	name="de Province0767"
+	name="Sadolad"
 	culture="frankish"
 	religion="bon"
 }
@@ -3724,22 +3724,22 @@
 	religion="shiite"
 }
 107690={
-	name="de Province0769"
+	name="Duderi"
 	culture="visigothic"
 	religion="shiite"
 }
 107700={
-	name="de Province0770"
+	name="Tialad"
 	culture="visigothic"
 	religion="jain"
 }
 107710={
-	name="de Province0771"
+	name="Bariye"
 	culture="catalan"
 	religion="bon"
 }
 107720={
-	name="od Province0772"
+	name="Nadalih"
 	culture="croatian"
 	religion="hindu"
 }
@@ -3754,7 +3754,7 @@
 	religion="jewish"
 }
 107750={
-	name="de Province0775"
+	name="Tasakin"
 	culture="visigothic"
 	religion="shiite"
 }
@@ -3769,7 +3769,7 @@
 	religion="catholic"
 }
 107790={
-	name="od Province0779"
+	name="Egloussa"
 	culture="croatian"
 	religion="jewish"
 }
@@ -3779,22 +3779,22 @@
 	religion="hindu"
 }
 107810={
-	name="od Province0781"
+	name="Lialih"
 	culture="croatian"
 	religion="sunni"
 }
 107820={
-	name="de Province0782"
+	name="Kecua"
 	culture="catalan"
 	religion="zun_pagan"
 }
 107830={
-	name="de Province0783"
+	name="Seciye"
 	culture="catalan"
 	religion="zun_pagan"
 }
 107840={
-	name="de Province0784"
+	name="Eglaham"
 	culture="catalan"
 	religion="zun_pagan"
 }
@@ -3809,7 +3809,7 @@
 	religion="jewish"
 }
 107880={
-	name="de Province0788"
+	name="Laduliu"
 	culture="visigothic"
 	religion="jain"
 }
@@ -3819,27 +3819,27 @@
 	religion="hindu"
 }
 107900={
-	name="de Province0790"
+	name="Budua"
 	culture="visigothic"
 	religion="jain"
 }
 107910={
-	name="od Province0791"
+	name="Ryal"
 	culture="croatian"
 	religion="hindu"
 }
 107920={
-	name="de Province0792"
+	name="Selying"
 	culture="visigothic"
 	religion="shiite"
 }
 107930={
-	name="of Province0793"
+	name="Agliye"
 	culture="crimean_gothic"
 	religion="jain"
 }
 107940={
-	name="de Province0794"
+	name="Qaaqyal"
 	culture="catalan"
 	religion="bon"
 }
@@ -3874,7 +3874,7 @@
 	religion="hindu"
 }
 108010={
-	name="von Province0801"
+	name="Atatua"
 	culture="frisian"
 	religion="hindu"
 }
@@ -3889,7 +3889,7 @@
 	religion="hindu"
 }
 108040={
-	name="de Province0804"
+	name="Eneceri"
 	culture="catalan"
 	religion="zun_pagan"
 }
@@ -3904,17 +3904,17 @@
 	religion="hindu"
 }
 108070={
-	name="von Province0807"
+	name="Namakin"
 	culture="frisian"
 	religion="jain"
 }
 108080={
-	name="de Province0808"
+	name="Tianas"
 	culture="visigothic"
 	religion="shiite"
 }
 108090={
-	name="von Province0809"
+	name="Negenas"
 	culture="frisian"
 	religion="jain"
 }
@@ -3929,17 +3929,17 @@
 	religion="catholic"
 }
 108120={
-	name="von Province0812"
+	name="Radiye"
 	culture="frisian"
 	religion="hindu"
 }
 108130={
-	name="von Province0813"
+	name="Sudiel"
 	culture="frisian"
 	religion="hindu"
 }
 108140={
-	name="von Province0814"
+	name="Nolad"
 	culture="frisian"
 	religion="hindu"
 }
@@ -3949,12 +3949,12 @@
 	religion="hindu"
 }
 108160={
-	name="de Province0816"
+	name="Wegolad"
 	culture="castillan"
 	religion="catholic"
 }
 108170={
-	name="de Province0817"
+	name="Agleayge"
 	culture="castillan"
 	religion="catholic"
 }
@@ -3974,32 +3974,32 @@
 	religion="hindu"
 }
 108210={
-	name="von Province0821"
+	name="Ramafa"
 	culture="frisian"
 	religion="hindu"
 }
 108220={
-	name="de Province0822"
+	name="Qatiel"
 	culture="visigothic"
 	religion="hindu"
 }
 108230={
-	name="de Province0823"
+	name="Tasolad"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108240={
-	name="de Province0824"
+	name="Sudiye"
 	culture="visigothic"
 	religion="hindu"
 }
 108250={
-	name="von Province0825"
+	name="Ramolad"
 	culture="frisian"
 	religion="hindu"
 }
 108260={
-	name="von Province0826"
+	name="Wecakin"
 	culture="frisian"
 	religion="hindu"
 }
@@ -4014,7 +4014,7 @@
 	religion="catholic"
 }
 108290={
-	name="de Province0829"
+	name="Amiel"
 	culture="castillan"
 	religion="catholic"
 }
@@ -4024,17 +4024,17 @@
 	religion="hindu"
 }
 108310={
-	name="von Province0831"
+	name="Darua"
 	culture="frisian"
 	religion="hindu"
 }
 108320={
-	name="von Province0832"
+	name="Aradiel"
 	culture="frisian"
 	religion="hindu"
 }
 108330={
-	name="de Province0833"
+	name="Tasaham"
 	culture="castillan"
 	religion="zun_pagan"
 }
@@ -4049,7 +4049,7 @@
 	religion="hindu"
 }
 108360={
-	name="von Province0836"
+	name="Adudyal"
 	culture="frisian"
 	religion="hindu"
 }
@@ -4069,7 +4069,7 @@
 	religion="hindu"
 }
 108400={
-	name="de Province0840"
+	name="Eradiel"
 	culture="visigothic"
 	religion="hindu"
 }
@@ -4089,37 +4089,37 @@
 	religion="hindu"
 }
 108440={
-	name="von Province0844"
+	name="Raintun"
 	culture="frisian"
 	religion="hindu"
 }
 108450={
-	name="von Province0845"
+	name="Ragar"
 	culture="frisian"
 	religion="zun_pagan"
 }
 108460={
-	name="von Province0846"
+	name="Sunaaz"
 	culture="frisian"
 	religion="hindu"
 }
 108470={
-	name="de Province0847"
+	name="Bodega"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108480={
-	name="de Province0848"
+	name="Rosuro"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108490={
-	name="de Province0849"
+	name="Tegeda"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108500={
-	name="de Province0850"
+	name="Boyauro"
 	culture="castillan"
 	religion="catholic"
 }
@@ -4129,7 +4129,7 @@
 	religion="hindu"
 }
 108520={
-	name="von Province0852"
+	name="Nilar"
 	culture="frisian"
 	religion="hindu"
 }
@@ -4139,32 +4139,32 @@
 	religion="hindu"
 }
 108540={
-	name="von Province0854"
+	name="Kageri"
 	culture="frisian"
 	religion="zun_pagan"
 }
 108550={
-	name="de Province0855"
+	name="Kamalta"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108560={
-	name="of Province0856"
+	name="Egodalta"
 	culture="old_saxon"
 	religion="hindu"
 }
 108570={
-	name="von Province0857"
+	name="Reitn"
 	culture="frisian"
 	religion="hindu"
 }
 108580={
-	name="de Province0858"
+	name="Teitn"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108590={
-	name="de Province0859"
+	name="Dagalta"
 	culture="castillan"
 	religion="catholic"
 }
@@ -4174,7 +4174,7 @@
 	religion="hindu"
 }
 108610={
-	name="of Province0861"
+	name="Rilyana"
 	culture="old_saxon"
 	religion="hindu"
 }
@@ -4194,7 +4194,7 @@
 	religion="hindu"
 }
 108650={
-	name="von Province0865"
+	name="Naaqyana"
 	culture="frisian"
 	religion="hindu"
 }
@@ -4214,7 +4214,7 @@
 	religion="hindu"
 }
 108690={
-	name="de Province0869"
+	name="Tohega"
 	culture="castillan"
 	religion="catholic"
 }
@@ -4224,22 +4224,22 @@
 	religion="hindu"
 }
 108710={
-	name="de Province0871"
+	name="Eqalo"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108720={
-	name="of Province0872"
+	name="Sainaaz"
 	culture="old_saxon"
 	religion="hindu"
 }
 108730={
-	name="von Province0873"
+	name="Neiar"
 	culture="frisian"
 	religion="hindu"
 }
 108740={
-	name="von Province0874"
+	name="Baineri"
 	culture="frisian"
 	religion="zun_pagan"
 }
@@ -4249,17 +4249,17 @@
 	religion="sunni"
 }
 108760={
-	name="von Province0876"
+	name="Woharia"
 	culture="frisian"
 	religion="hindu"
 }
 108770={
-	name="of Province0877"
+	name="Wagar"
 	culture="old_saxon"
 	religion="hindu"
 }
 108780={
-	name="de Province0878"
+	name="Amosuro"
 	culture="castillan"
 	religion="zun_pagan"
 }
@@ -4269,17 +4269,17 @@
 	religion="hindu"
 }
 108800={
-	name="of Province0880"
+	name="Kyokar"
 	culture="old_saxon"
 	religion="hindu"
 }
 108810={
-	name="de Province0881"
+	name="Legyana"
 	culture="castillan"
 	religion="zun_pagan"
 }
 108820={
-	name="de Province0882"
+	name="Kegalo"
 	culture="castillan"
 	religion="catholic"
 }
@@ -4289,7 +4289,7 @@
 	religion="sunni"
 }
 108840={
-	name="of Province0884"
+	name="Rilega"
 	culture="old_saxon"
 	religion="hindu"
 }
@@ -4304,7 +4304,7 @@
 	religion="sunni"
 }
 108870={
-	name="of Province0887"
+	name="Egoduro"
 	culture="old_saxon"
 	religion="hindu"
 }
@@ -4319,7 +4319,7 @@
 	religion="hindu"
 }
 108900={
-	name="of Province0890"
+	name="Lilalo"
 	culture="old_saxon"
 	religion="hindu"
 }
@@ -4329,7 +4329,7 @@
 	religion="sunni"
 }
 108920={
-	name="of Province0892"
+	name="Sohar"
 	culture="saxon"
 	religion="hindu"
 }
@@ -4339,7 +4339,7 @@
 	religion="sunni"
 }
 108940={
-	name="of Province0894"
+	name="Soseri"
 	culture="saxon"
 	religion="sunni"
 }
@@ -4349,12 +4349,12 @@
 	religion="sunni"
 }
 108960={
-	name="of Province0896"
+	name="Emaclav"
 	culture="old_saxon"
 	religion="nestorian"
 }
 108970={
-	name="de Province0897"
+	name="Saaqar"
 	culture="frankish"
 	religion="catholic"
 }
@@ -4364,7 +4364,7 @@
 	religion="sunni"
 }
 108990={
-	name="of Province0899"
+	name="Qoyaeda"
 	culture="old_saxon"
 	religion="hindu"
 }
@@ -4374,17 +4374,17 @@
 	religion="sunni"
 }
 109010={
-	name="of Province0901"
+	name="Emegaaz"
 	culture="old_saxon"
 	religion="hindu"
 }
 109020={
-	name="de Province0902"
+	name="Kohalo"
 	culture="frankish"
 	religion="catholic"
 }
 109030={
-	name="de Province0903"
+	name="Lilar"
 	culture="frankish"
 	religion="zun_pagan"
 }
@@ -4394,22 +4394,22 @@
 	religion="sunni"
 }
 109050={
-	name="de Province0905"
+	name="Koyaega"
 	culture="castillan"
 	religion="zun_pagan"
 }
 109060={
-	name="of Province0906"
+	name="Emeda"
 	culture="old_saxon"
 	religion="hindu"
 }
 109070={
-	name="of Province0907"
+	name="Nacega"
 	culture="old_saxon"
 	religion="nestorian"
 }
 109080={
-	name="of Province0908"
+	name="Lainalo"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -4419,22 +4419,22 @@
 	religion="sunni"
 }
 109100={
-	name="de Province0910"
+	name="Samyana"
 	culture="castillan"
 	religion="catholic"
 }
 109110={
-	name="of Province0911"
+	name="Ajacyana"
 	culture="saxon"
 	religion="miaphysite"
 }
 109120={
-	name="de Province0912"
+	name="Wegaria"
 	culture="castillan"
 	religion="zun_pagan"
 }
 109130={
-	name="of Province0913"
+	name="Loyaega"
 	culture="old_saxon"
 	religion="nestorian"
 }
@@ -4449,22 +4449,22 @@
 	religion="sunni"
 }
 109160={
-	name="of Province0916"
+	name="Rodaaz"
 	culture="old_saxon"
 	religion="bon"
 }
 109180={
-	name="of Province0918"
+	name="Sohalo"
 	culture="old_saxon"
 	religion="bon"
 }
 109190={
-	name="of Province0919"
+	name="Syokaaz"
 	culture="saxon"
 	religion="sunni"
 }
 109200={
-	name="of Province0920"
+	name="Qaind"
 	culture="saxon"
 	religion="miaphysite"
 }
@@ -4474,17 +4474,17 @@
 	religion="sunni"
 }
 109220={
-	name="of Province0922"
+	name="Bosega"
 	culture="saxon"
 	religion="miaphysite"
 }
 109230={
-	name="de Province0923"
+	name="Seit"
 	culture="frankish"
 	religion="zun_pagan"
 }
 109240={
-	name="de Province0924"
+	name="Lent"
 	culture="castillan"
 	religion="catholic"
 }
@@ -4494,7 +4494,7 @@
 	religion="sunni"
 }
 109260={
-	name="von Province0926"
+	name="Satulam"
 	culture="frisian"
 	religion="nestorian"
 }
@@ -4504,17 +4504,17 @@
 	religion="sunni"
 }
 109280={
-	name="of Province0928"
+	name="Lenattan"
 	culture="saxon"
 	religion="miaphysite"
 }
 109290={
-	name="de Province0929"
+	name="Balala"
 	culture="frankish"
 	religion="zun_pagan"
 }
 109300={
-	name="of Province0930"
+	name="Kotalp"
 	culture="old_saxon"
 	religion="nestorian"
 }
@@ -4534,22 +4534,22 @@
 	religion="sunni"
 }
 109340={
-	name="of Province0934"
+	name="Ratavi"
 	culture="old_saxon"
 	religion="miaphysite"
 }
 109350={
-	name="of Province0935"
+	name="Tyedar"
 	culture="saxon"
 	religion="miaphysite"
 }
 109360={
-	name="von Province0936"
+	name="Dalulam"
 	culture="frisian"
 	religion="miaphysite"
 }
 109370={
-	name="von Province0937"
+	name="Eriel"
 	culture="frisian"
 	religion="nestorian"
 }
@@ -4559,22 +4559,22 @@
 	religion="sunni"
 }
 109400={
-	name="of Province0940"
+	name="Nalavi"
 	culture="old_saxon"
 	religion="bon"
 }
 109410={
-	name="of Province0941"
+	name="Aketui"
 	culture="saxon"
 	religion="miaphysite"
 }
 109420={
-	name="of Province0942"
+	name="Tomelen"
 	culture="saxon"
 	religion="miaphysite"
 }
 109430={
-	name="de Province0943"
+	name="Naja"
 	culture="frankish"
 	religion="zun_pagan"
 }
@@ -4589,7 +4589,7 @@
 	religion="buddhist"
 }
 109470={
-	name="de Province0947"
+	name="Amahaul"
 	culture="frankish"
 	religion="zun_pagan"
 }
@@ -4599,12 +4599,12 @@
 	religion="buddhist"
 }
 109490={
-	name="of Province0949"
+	name="Qalku"
 	culture="saxon"
 	religion="miaphysite"
 }
 109500={
-	name="de Province0950"
+	name="Akelalku"
 	culture="castillan"
 	religion="catholic"
 }
@@ -4614,7 +4614,7 @@
 	religion="sunni"
 }
 109520={
-	name="of Province0952"
+	name="Taxivka"
 	culture="old_saxon"
 	religion="miaphysite"
 }
@@ -4624,12 +4624,12 @@
 	religion="buddhist"
 }
 109540={
-	name="von Province0954"
+	name="Arîirek"
 	culture="frisian"
 	religion="miaphysite"
 }
 109560={
-	name="of Province0956"
+	name="Kaxivka"
 	culture="saxon"
 	religion="nestorian"
 }
@@ -4644,7 +4644,7 @@
 	religion="buddhist"
 }
 109600={
-	name="de Province0960"
+	name="Saxirek"
 	culture="frankish"
 	religion="catholic"
 }
@@ -4654,17 +4654,17 @@
 	religion="miaphysite"
 }
 109620={
-	name="von Province0962"
+	name="Balku"
 	culture="frisian"
 	religion="nestorian"
 }
 109630={
-	name="de Province0963"
+	name="Wanoyan"
 	culture="frankish"
 	religion="zun_pagan"
 }
 109640={
-	name="of Province0964"
+	name="Wilalku"
 	culture="saxon"
 	religion="miaphysite"
 }
@@ -4674,22 +4674,22 @@
 	religion="sunni"
 }
 109660={
-	name="de Province0966"
+	name="Daleva"
 	culture="castillan"
 	religion="zun_pagan"
 }
 109670={
-	name="Province0967"
+	name="Laheva"
 	culture="bodpa"
 	religion="sunni"
 }
 109680={
-	name="of Province0968"
+	name="Erîabahu"
 	culture="saxon"
 	religion="miaphysite"
 }
 109690={
-	name="Province0969"
+	name="Roroka"
 	culture="bodpa"
 	religion="buddhist"
 }
@@ -4704,57 +4704,57 @@
 	religion="bon"
 }
 109720={
-	name="de Province0972"
+	name="Anêasiy"
 	culture="castillan"
 	religion="catholic"
 }
 109730={
-	name="Province0973"
+	name="Lumivka"
 	culture="bodpa"
 	religion="sunni"
 }
 109740={
-	name="of Province0974"
+	name="Balalku"
 	culture="old_saxon"
 	religion="bon"
 }
 109750={
-	name="de Province0975"
+	name="Kaxilvia"
 	culture="frankish"
 	religion="catholic"
 }
 109760={
-	name="Province0976"
+	name="Nasasiy"
 	culture="bodpa"
 	religion="sunni"
 }
 109770={
-	name="von Province0977"
+	name="Rumoka"
 	culture="frisian"
 	religion="nestorian"
 }
 109780={
-	name="Province0978"
+	name="Qumilvia"
 	culture="bodpa"
 	religion="buddhist"
 }
 109790={
-	name="de Province0979"
+	name="Tasilay"
 	culture="castillan"
 	religion="catholic"
 }
 109800={
-	name="of Province0980"
+	name="Tanoka"
 	culture="saxon"
 	religion="miaphysite"
 }
 109810={
-	name="de Province0981"
+	name="Elileter"
 	culture="frankish"
 	religion="zun_pagan"
 }
 109820={
-	name="Province0982"
+	name="Taxoka"
 	culture="bodpa"
 	religion="sunni"
 }
@@ -4764,7 +4764,7 @@
 	religion="nestorian"
 }
 109840={
-	name="Province0984"
+	name="Sumoyan"
 	culture="bodpa"
 	religion="sunni"
 }
@@ -4774,12 +4774,12 @@
 	religion="nestorian"
 }
 109860={
-	name="de Province0986"
+	name="Baxeter"
 	culture="frankish"
 	religion="zun_pagan"
 }
 109870={
-	name="Province0987"
+	name="Silvia"
 	culture="bodpa"
 	religion="sunni"
 }
@@ -4789,22 +4789,22 @@
 	religion="sunni"
 }
 109900={
-	name="Province0990"
+	name="Qohirek"
 	culture="bodpa"
 	religion="buddhist"
 }
 109910={
-	name="of Province0991"
+	name="Sumilay"
 	culture="saxon"
 	religion="miaphysite"
 }
 109920={
-	name="of Province0992"
+	name="Tasalku"
 	culture="old_saxon"
 	religion="bon"
 }
 109930={
-	name="de Province0993"
+	name="Delilay"
 	culture="castillan"
 	religion="zun_pagan"
 }
@@ -4814,12 +4814,12 @@
 	religion="miaphysite"
 }
 109950={
-	name="de Province0995"
+	name="Dohirek"
 	culture="castillan"
 	religion="zun_pagan"
 }
 109960={
-	name="de Province0996"
+	name="Buzniq"
 	culture="frankish"
 	religion="catholic"
 }
@@ -4829,62 +4829,62 @@
 	religion="sunni"
 }
 109980={
-	name="Province0998"
+	name="Tumivka"
 	culture="bodpa"
 	religion="buddhist"
 }
 109990={
-	name="Province0999"
+	name="Rohenna"
 	culture="bodpa"
 	religion="sunni"
 }
 110000={
-	name="of Province1000"
+	name="Selni"
 	culture="old_saxon"
 	religion="bon"
 }
 110010={
-	name="Province1001"
+	name="Belni"
 	culture="zhangzhung"
 	religion="sunni"
 }
 110020={
-	name="of Province1002"
+	name="Rubamze"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110030={
-	name="Province1003"
+	name="Qorasu"
 	culture="bodpa"
 	religion="buddhist"
 }
 110040={
-	name="of Province1004"
+	name="Rugaola"
 	culture="saxon"
 	religion="miaphysite"
 }
 110050={
-	name="Province1005"
+	name="Datad"
 	culture="bodpa"
 	religion="hindu"
 }
 110060={
-	name="de Province1006"
+	name="Telatad"
 	culture="frankish"
 	religion="zun_pagan"
 }
 110070={
-	name="de Province1007"
+	name="Nelasin"
 	culture="frankish"
 	religion="catholic"
 }
 110080={
-	name="de Province1008"
+	name="Wyaosasu"
 	culture="frankish"
 	religion="zun_pagan"
 }
 110090={
-	name="de Province1009"
+	name="Kugath"
 	culture="castillan"
 	religion="zun_pagan"
 }
@@ -4894,17 +4894,17 @@
 	religion="nestorian"
 }
 110110={
-	name="of Province1011"
+	name="Watad"
 	culture="saxon"
 	religion="miaphysite"
 }
 110120={
-	name="of Province1012"
+	name="Taxyfn"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110130={
-	name="of Province1013"
+	name="Akamath"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -4914,62 +4914,62 @@
 	religion="zun_pagan"
 }
 110150={
-	name="Province1015"
+	name="Toumasu"
 	culture="zhangzhung"
 	religion="buddhist"
 }
 110160={
-	name="Province1016"
+	name="Akyfn"
 	culture="zhangzhung"
 	religion="buddhist"
 }
 110170={
-	name="Province1017"
+	name="Qyasayla"
 	culture="zhangzhung"
 	religion="sunni"
 }
 110180={
-	name="Province1018"
+	name="Eporasia"
 	culture="bodpa"
 	religion="sunni"
 }
 110190={
-	name="de Province1019"
+	name="Taola"
 	culture="frankish"
 	religion="zun_pagan"
 }
 110200={
-	name="of Province1020"
+	name="Epasinus"
 	culture="old_saxon"
 	religion="bon"
 }
 110210={
-	name="Province1021"
+	name="Beald"
 	culture="bodpa"
 	religion="hindu"
 }
 110220={
-	name="of Province1022"
+	name="Takaiti"
 	culture="saxon"
 	religion="miaphysite"
 }
 110230={
-	name="de Province1023"
+	name="Aferaola"
 	culture="castillan"
 	religion="zun_pagan"
 }
 110240={
-	name="of Province1024"
+	name="Raxugh"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110250={
-	name="Province1025"
+	name="Lamasia"
 	culture="zhangzhung"
 	religion="sunni"
 }
 110260={
-	name="of Province1026"
+	name="Axasia"
 	culture="saxon"
 	religion="miaphysite"
 }
@@ -4979,27 +4979,27 @@
 	religion="sunni"
 }
 110280={
-	name="de Province1028"
+	name="Kasath"
 	culture="frankish"
 	religion="zun_pagan"
 }
 110290={
-	name="of Province1029"
+	name="Bakatad"
 	culture="old_saxon"
 	religion="bon"
 }
 110300={
-	name="de Province1030"
+	name="Teranna"
 	culture="frankish"
 	religion="catholic"
 }
 110310={
-	name="Province1031"
+	name="Sugh"
 	culture="zhangzhung"
 	religion="buddhist"
 }
 110320={
-	name="Province1032"
+	name="Qatad"
 	culture="bodpa"
 	religion="sunni"
 }
@@ -5009,52 +5009,52 @@
 	religion="zun_pagan"
 }
 110340={
-	name="Province1034"
+	name="Nyfn"
 	culture="zhangzhung"
 	religion="sunni"
 }
 110350={
-	name="of Province1035"
+	name="Rayla"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110360={
-	name="of Province1036"
+	name="Ruginus"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110370={
-	name="of Province1037"
+	name="Waxayla"
 	culture="old_saxon"
 	religion="bon"
 }
 110380={
-	name="Province1038"
+	name="Koranna"
 	culture="tangut"
 	religion="catholic"
 }
 110390={
-	name="of Province1039"
+	name="Kamasin"
 	culture="saxon"
 	religion="nestorian"
 }
 110400={
-	name="de Province1040"
+	name="Katad"
 	culture="castillan"
 	religion="zun_pagan"
 }
 110410={
-	name="Province1041"
+	name="Waseald"
 	culture="zhangzhung"
 	religion="buddhist"
 }
 110420={
-	name="of Province1042"
+	name="Rorasia"
 	culture="old_saxon"
 	religion="bon"
 }
 110430={
-	name="Province1043"
+	name="Bath"
 	culture="zhangzhung"
 	religion="sunni"
 }
@@ -5064,17 +5064,17 @@
 	religion="nestorian"
 }
 110450={
-	name="Province1045"
+	name="Kidda"
 	culture="bodpa"
 	religion="hindu"
 }
 110460={
-	name="of Province1046"
+	name="Teald"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110470={
-	name="of Province1047"
+	name="Qaxayla"
 	culture="saxon"
 	religion="nestorian"
 }
@@ -5089,17 +5089,17 @@
 	religion="zun_pagan"
 }
 110500={
-	name="Province1050"
+	name="Byfn"
 	culture="zhangzhung"
 	religion="buddhist"
 }
 110510={
-	name="of Province1051"
+	name="Nyasugh"
 	culture="old_saxon"
 	religion="bon"
 }
 110520={
-	name="de Province1052"
+	name="Kyai"
 	culture="frankish"
 	religion="catholic"
 }
@@ -5109,17 +5109,17 @@
 	religion="nestorian"
 }
 110540={
-	name="de Province1054"
+	name="Tarasia"
 	culture="frankish"
 	religion="catholic"
 }
 110550={
-	name="of Province1055"
+	name="Axayla"
 	culture="saxon"
 	religion="nestorian"
 }
 110560={
-	name="Province1056"
+	name="Esus"
 	culture="zhangzhung"
 	religion="sunni"
 }
@@ -5129,17 +5129,17 @@
 	religion="zun_pagan"
 }
 110580={
-	name="of Province1058"
+	name="Wameald"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110590={
-	name="Province1059"
+	name="Saura"
 	culture="tangut"
 	religion="catholic"
 }
 110600={
-	name="Province1060"
+	name="Nakayla"
 	culture="tangut"
 	religion="buddhist"
 }
@@ -5149,17 +5149,17 @@
 	religion="nestorian"
 }
 110620={
-	name="Province1062"
+	name="Leleald"
 	culture="tangut"
 	religion="catholic"
 }
 110630={
-	name="of Province1063"
+	name="Sarinus"
 	culture="saxon"
 	religion="nestorian"
 }
 110640={
-	name="Province1064"
+	name="Wyaosath"
 	culture="nepali"
 	religion="sunni"
 }
@@ -5169,12 +5169,12 @@
 	religion="sunni"
 }
 110660={
-	name="von Province1066"
+	name="Norayla"
 	culture="frisian"
 	religion="bon"
 }
 110670={
-	name="of Province1067"
+	name="Nakath"
 	culture="old_saxon"
 	religion="nestorian"
 }
@@ -5184,32 +5184,32 @@
 	religion="bon"
 }
 110690={
-	name="Province1069"
+	name="Naraiti"
 	culture="tangut"
 	religion="catholic"
 }
 110700={
-	name="Province1070"
+	name="Qelus"
 	culture="nepali"
 	religion="sunni"
 }
 110710={
-	name="de Province1071"
+	name="Tugasu"
 	culture="frankish"
 	religion="catholic"
 }
 110720={
-	name="Province1072"
+	name="Keraiti"
 	culture="zhangzhung"
 	religion="buddhist"
 }
 110730={
-	name="of Province1073"
+	name="Soumasu"
 	culture="old_saxon"
 	religion="bon"
 }
 110740={
-	name="Province1074"
+	name="Qamasia"
 	culture="tangut"
 	religion="catholic"
 }
@@ -5229,27 +5229,27 @@
 	religion="zun_pagan"
 }
 110780={
-	name="Province1078"
+	name="Bakerfn"
 	culture="zhangzhung"
 	religion="sunni"
 }
 110790={
-	name="of Province1079"
+	name="Daxabha"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110800={
-	name="Province1080"
+	name="Rumani"
 	culture="tangut"
 	religion="catholic"
 }
 110810={
-	name="of Province1081"
+	name="Ejimiam"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110820={
-	name="Province1082"
+	name="Telaiti"
 	culture="tangut"
 	religion="buddhist"
 }
@@ -5259,7 +5259,7 @@
 	religion="nestorian"
 }
 110840={
-	name="of Province1084"
+	name="Ranew"
 	culture="saxon"
 	religion="bon"
 }
@@ -5269,12 +5269,12 @@
 	religion="sunni"
 }
 110860={
-	name="de Province1086"
+	name="Epeleo"
 	culture="frankish"
 	religion="catholic"
 }
 110870={
-	name="Province1087"
+	name="Dekaraja"
 	culture="tangut"
 	religion="catholic"
 }
@@ -5284,17 +5284,17 @@
 	religion="bon"
 }
 110890={
-	name="Province1089"
+	name="Wapabha"
 	culture="zhangzhung"
 	religion="catholic"
 }
 110900={
-	name="Province1090"
+	name="Nozani"
 	culture="nepali"
 	religion="sunni"
 }
 110910={
-	name="of Province1091"
+	name="Kiakija"
 	culture="old_saxon"
 	religion="nestorian"
 }
@@ -5304,27 +5304,27 @@
 	religion="catholic"
 }
 110930={
-	name="Province1093"
+	name="Ekoziam"
 	culture="nepali"
 	religion="sunni"
 }
 110940={
-	name="Province1094"
+	name="Simew"
 	culture="tangut"
 	religion="catholic"
 }
 110950={
-	name="of Province1095"
+	name="Rivija"
 	culture="old_saxon"
 	religion="nestorian"
 }
 110960={
-	name="of Province1096"
+	name="Epelija"
 	culture="old_saxon"
 	religion="bon"
 }
 110970={
-	name="von Province1097"
+	name="Delabha"
 	culture="frisian"
 	religion="nestorian"
 }
@@ -5339,7 +5339,7 @@
 	religion="nestorian"
 }
 111000={
-	name="Province1100"
+	name="Lagava"
 	culture="tangut"
 	religion="buddhist"
 }
@@ -5349,12 +5349,12 @@
 	religion="sunni"
 }
 111020={
-	name="Province1102"
+	name="Anaguna"
 	culture="tangut"
 	religion="catholic"
 }
 111030={
-	name="Province1103"
+	name="Nolam"
 	culture="tangut"
 	religion="catholic"
 }
@@ -5364,47 +5364,47 @@
 	religion="nestorian"
 }
 111050={
-	name="of Province1105"
+	name="Qalenr"
 	culture="old_saxon"
 	religion="bon"
 }
 111060={
-	name="Province1106"
+	name="Ekalaiti"
 	culture="tangut"
 	religion="buddhist"
 }
 111070={
-	name="of Province1107"
+	name="Akalarma"
 	culture="old_saxon"
 	religion="bon"
 }
 111080={
-	name="Province1108"
+	name="Nolarma"
 	culture="nepali"
 	religion="sunni"
 }
 111090={
-	name="of Province1109"
+	name="Ebhadra"
 	culture="old_saxon"
 	religion="bon"
 }
 111100={
-	name="Province1110"
+	name="Tamadra"
 	culture="nepali"
 	religion="catholic"
 }
 111110={
-	name="Province1111"
+	name="Daghu"
 	culture="tangut"
 	religion="catholic"
 }
 111120={
-	name="of Province1112"
+	name="Loladra"
 	culture="old_saxon"
 	religion="bon"
 }
 111130={
-	name="Province1113"
+	name="Tolallo"
 	culture="zhangzhung"
 	religion="catholic"
 }
@@ -5424,7 +5424,7 @@
 	religion="zun_pagan"
 }
 111170={
-	name="of Province1117"
+	name="Lanitus"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -5434,12 +5434,12 @@
 	religion="catholic"
 }
 111190={
-	name="Province1119"
+	name="Teseh"
 	culture="han"
 	religion="buddhist"
 }
 111200={
-	name="von Province1120"
+	name="Qotus"
 	culture="frisian"
 	religion="nestorian"
 }
@@ -5449,27 +5449,27 @@
 	religion="sunni"
 }
 111220={
-	name="of Province1122"
+	name="Agolam"
 	culture="old_saxon"
 	religion="bon"
 }
 111230={
-	name="Province1123"
+	name="Kadank"
 	culture="zhangzhung"
 	religion="catholic"
 }
 111240={
-	name="Province1124"
+	name="Kalallo"
 	culture="tangut"
 	religion="catholic"
 }
 111250={
-	name="Province1125"
+	name="Ramam"
 	culture="tangut"
 	religion="catholic"
 }
 111260={
-	name="von Province1126"
+	name="Lolam"
 	culture="frisian"
 	religion="nestorian"
 }
@@ -5484,22 +5484,22 @@
 	religion="nestorian"
 }
 111290={
-	name="Province1129"
+	name="Bešank"
 	culture="nepali"
 	religion="catholic"
 }
 111300={
-	name="Province1130"
+	name="Lelarma"
 	culture="tangut"
 	religion="catholic"
 }
 111310={
-	name="of Province1131"
+	name="Dalank"
 	culture="old_saxon"
 	religion="bon"
 }
 111320={
-	name="Province1132"
+	name="Raxadra"
 	culture="han"
 	religion="buddhist"
 }
@@ -5509,12 +5509,12 @@
 	religion="zun_pagan"
 }
 111340={
-	name="Province1134"
+	name="Soleh"
 	culture="nepali"
 	religion="sunni"
 }
 111350={
-	name="of Province1135"
+	name="Enarma"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -5534,17 +5534,17 @@
 	religion="taoist"
 }
 111390={
-	name="von Province1139"
+	name="Kalatsi"
 	culture="frisian"
 	religion="nestorian"
 }
 111400={
-	name="Province1140"
+	name="Wesam"
 	culture="nepali"
 	religion="catholic"
 }
 111410={
-	name="Province1141"
+	name="Egoleh"
 	culture="nepali"
 	religion="catholic"
 }
@@ -5554,42 +5554,42 @@
 	religion="taoist"
 }
 111430={
-	name="of Province1143"
+	name="Kolarma"
 	culture="old_saxon"
 	religion="bon"
 }
 111440={
-	name="Province1144"
+	name="Rallo"
 	culture="tangut"
 	religion="catholic"
 }
 111450={
-	name="von Province1145"
+	name="Tesuna"
 	culture="frisian"
 	religion="nestorian"
 }
 111460={
-	name="of Province1146"
+	name="Sešaria"
 	culture="old_saxon"
 	religion="bon"
 }
 111470={
-	name="Province1147"
+	name="Kolitus"
 	culture="tangut"
 	religion="catholic"
 }
 111480={
-	name="Province1148"
+	name="Tešudan"
 	culture="sumpa"
 	religion="catholic"
 }
 111490={
-	name="Province1149"
+	name="Wešank"
 	culture="han"
 	religion="buddhist"
 }
 111500={
-	name="von Province1150"
+	name="Lamudan"
 	culture="frisian"
 	religion="bon"
 }
@@ -5599,12 +5599,12 @@
 	religion="taoist"
 }
 111520={
-	name="of Province1152"
+	name="Budan"
 	culture="old_saxon"
 	religion="bon"
 }
 111530={
-	name="Province1153"
+	name="Solank"
 	culture="nepali"
 	religion="catholic"
 }
@@ -5614,7 +5614,7 @@
 	religion="catholic"
 }
 111550={
-	name="Province1155"
+	name="Agresank"
 	culture="tangut"
 	religion="buddhist"
 }
@@ -5624,22 +5624,22 @@
 	religion="zun_pagan"
 }
 111570={
-	name="Province1157"
+	name="Wadadra"
 	culture="han"
 	religion="buddhist"
 }
 111580={
-	name="of Province1158"
+	name="Dalenr"
 	culture="old_saxon"
 	religion="bon"
 }
 111590={
-	name="Province1159"
+	name="Ramadra"
 	culture="nepali"
 	religion="catholic"
 }
 111600={
-	name="Province1160"
+	name="Nalaghu"
 	culture="nepali"
 	religion="taoist"
 }
@@ -5649,12 +5649,12 @@
 	religion="taoist"
 }
 111620={
-	name="von Province1162"
+	name="Woleh"
 	culture="frisian"
 	religion="bon"
 }
 111630={
-	name="of Province1163"
+	name="Talitus"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -5669,12 +5669,12 @@
 	religion="nestorian"
 }
 111670={
-	name="Province1167"
+	name="Deladra"
 	culture="nepali"
 	religion="taoist"
 }
 111680={
-	name="Province1168"
+	name="Rolaghu"
 	culture="sumpa"
 	religion="catholic"
 }
@@ -5684,12 +5684,12 @@
 	religion="taoist"
 }
 111700={
-	name="von Province1170"
+	name="Wadra"
 	culture="frisian"
 	religion="bon"
 }
 111710={
-	name="Province1171"
+	name="Qadadra"
 	culture="nepali"
 	religion="catholic"
 }
@@ -5699,27 +5699,27 @@
 	religion="taoist"
 }
 111730={
-	name="Province1173"
+	name="Nešuna"
 	culture="nepali"
 	religion="catholic"
 }
 111740={
-	name="Province1174"
+	name="Egradra"
 	culture="tangut"
 	religion="buddhist"
 }
 111750={
-	name="of Province1175"
+	name="Kalitus"
 	culture="old_saxon"
 	religion="bon"
 }
 111760={
-	name="Province1176"
+	name="Doga"
 	culture="han"
 	religion="buddhist"
 }
 111770={
-	name="of Province1177"
+	name="Qapa"
 	culture="old_saxon"
 	religion="taoist"
 }
@@ -5729,12 +5729,12 @@
 	religion="catholic"
 }
 111790={
-	name="Province1179"
+	name="Solaih"
 	culture="han"
 	religion="buddhist"
 }
 111800={
-	name="Province1180"
+	name="Lanoet"
 	culture="sumpa"
 	religion="catholic"
 }
@@ -5764,17 +5764,17 @@
 	religion="catholic"
 }
 111860={
-	name="Province1186"
+	name="Tazn"
 	culture="nepali"
 	religion="catholic"
 }
 111870={
-	name="Province1187"
+	name="Tuheida"
 	culture="nepali"
 	religion="taoist"
 }
 111880={
-	name="of Province1188"
+	name="Birau"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -5789,12 +5789,12 @@
 	religion="zun_pagan"
 }
 111910={
-	name="Province1191"
+	name="Roukimi"
 	culture="sumpa"
 	religion="catholic"
 }
 111920={
-	name="Province1192"
+	name="Dataih"
 	culture="nepali"
 	religion="catholic"
 }
@@ -5809,7 +5809,7 @@
 	religion="taoist"
 }
 111950={
-	name="Province1195"
+	name="Qeledro"
 	culture="nepali"
 	religion="taoist"
 }
@@ -5819,22 +5819,22 @@
 	religion="nestorian"
 }
 111970={
-	name="of Province1197"
+	name="Rokoid"
 	culture="old_saxon"
 	religion="bon"
 }
 111980={
-	name="Province1198"
+	name="Rorla"
 	culture="sumpa"
 	religion="catholic"
 }
 111990={
-	name="of Province1199"
+	name="Nicl"
 	culture="old_saxon"
 	religion="bon"
 }
 112000={
-	name="Province1200"
+	name="Diad"
 	culture="nepali"
 	religion="catholic"
 }
@@ -5844,7 +5844,7 @@
 	religion="taoist"
 }
 112020={
-	name="Province1202"
+	name="Tabui"
 	culture="han"
 	religion="buddhist"
 }
@@ -5859,7 +5859,7 @@
 	religion="taoist"
 }
 112050={
-	name="Province1205"
+	name="Semguina"
 	culture="tangut"
 	religion="buddhist"
 }
@@ -5874,7 +5874,7 @@
 	religion="nestorian"
 }
 112080={
-	name="of Province1208"
+	name="Kugeda"
 	culture="old_saxon"
 	religion="taoist"
 }
@@ -5884,17 +5884,17 @@
 	religion="bon"
 }
 112100={
-	name="Province1210"
+	name="Wazuina"
 	culture="nepali"
 	religion="catholic"
 }
 112110={
-	name="Province1211"
+	name="Nenda"
 	culture="nepali"
 	religion="catholic"
 }
 112120={
-	name="Province1212"
+	name="Kazuina"
 	culture="nepali"
 	religion="taoist"
 }
@@ -5904,7 +5904,7 @@
 	religion="taoist"
 }
 112140={
-	name="of Province1214"
+	name="Tikeza"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -5914,7 +5914,7 @@
 	religion="zun_pagan"
 }
 112160={
-	name="of Province1216"
+	name="Wobent"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -5924,17 +5924,17 @@
 	religion="catholic"
 }
 112180={
-	name="Province1218"
+	name="Nugoila"
 	culture="tangut"
 	religion="catholic"
 }
 112190={
-	name="Province1219"
+	name="Kinder"
 	culture="nepali"
 	religion="catholic"
 }
 112200={
-	name="Province1220"
+	name="Nera"
 	culture="nepali"
 	religion="taoist"
 }
@@ -5944,12 +5944,12 @@
 	religion="bon"
 }
 112220={
-	name="of Province1222"
+	name="Avals"
 	culture="old_saxon"
 	religion="taoist"
 }
 112230={
-	name="Province1223"
+	name="Ahjalib"
 	culture="sumpa"
 	religion="catholic"
 }
@@ -5969,12 +5969,12 @@
 	religion="nestorian"
 }
 112270={
-	name="Province1227"
+	name="Enita"
 	culture="tangut"
 	religion="catholic"
 }
 112280={
-	name="Province1228"
+	name="Etoras"
 	culture="han"
 	religion="buddhist"
 }
@@ -5984,7 +5984,7 @@
 	religion="taoist"
 }
 112300={
-	name="of Province1230"
+	name="Noja"
 	culture="old_saxon"
 	religion="taoist"
 }
@@ -5999,12 +5999,12 @@
 	religion="catholic"
 }
 112330={
-	name="Province1233"
+	name="Wubui"
 	culture="han"
 	religion="buddhist"
 }
 112340={
-	name="Province1234"
+	name="Kessre"
 	culture="nepali"
 	religion="catholic"
 }
@@ -6019,7 +6019,7 @@
 	religion="nestorian"
 }
 112370={
-	name="of Province1237"
+	name="Bubaria"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -6034,17 +6034,17 @@
 	religion="catholic"
 }
 112400={
-	name="Province1240"
+	name="Ascn"
 	culture="nepali"
 	religion="catholic"
 }
 112410={
-	name="of Province1241"
+	name="Rolaman"
 	culture="old_saxon"
 	religion="bon"
 }
 112420={
-	name="Province1242"
+	name="Avlasr"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6064,17 +6064,17 @@
 	religion="catholic"
 }
 112460={
-	name="Province1246"
+	name="Anomyuns"
 	culture="sumpa"
 	religion="catholic"
 }
 112470={
-	name="Province1247"
+	name="Natawa"
 	culture="nepali"
 	religion="taoist"
 }
 112480={
-	name="Province1248"
+	name="Lakui"
 	culture="sumpa"
 	religion="catholic"
 }
@@ -6084,7 +6084,7 @@
 	religion="bon"
 }
 112500={
-	name="Province1250"
+	name="Rakd"
 	culture="tangut"
 	religion="catholic"
 }
@@ -6094,7 +6094,7 @@
 	religion="taoist"
 }
 112520={
-	name="of Province1252"
+	name="Tosine"
 	culture="old_saxon"
 	religion="taoist"
 }
@@ -6129,12 +6129,12 @@
 	religion="catholic"
 }
 112590={
-	name="Province1259"
+	name="Ahililia"
 	culture="tangut"
 	religion="taoist"
 }
 112600={
-	name="Province1260"
+	name="Kinr"
 	culture="sumpa"
 	religion="catholic"
 }
@@ -6144,12 +6144,12 @@
 	religion="bon"
 }
 112620={
-	name="of Province1262"
+	name="Divaura"
 	culture="old_saxon"
 	religion="taoist"
 }
 112630={
-	name="Province1263"
+	name="Riliz"
 	culture="han"
 	religion="buddhist"
 }
@@ -6164,12 +6164,12 @@
 	religion="catholic"
 }
 112660={
-	name="Province1266"
+	name="Lirasius"
 	culture="tangut"
 	religion="taoist"
 }
 112670={
-	name="of Province1267"
+	name="Tibalter"
 	culture="old_saxon"
 	religion="bon"
 }
@@ -6179,7 +6179,7 @@
 	religion="taoist"
 }
 112690={
-	name="Province1269"
+	name="Kadau"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6189,12 +6189,12 @@
 	religion="nestorian"
 }
 112710={
-	name="Province1271"
+	name="Adka"
 	culture="sumpa"
 	religion="taoist"
 }
 112720={
-	name="Province1272"
+	name="Edraha"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6229,7 +6229,7 @@
 	religion="catholic"
 }
 112790={
-	name="Province1279"
+	name="Sagemma"
 	culture="sumpa"
 	religion="taoist"
 }
@@ -6249,7 +6249,7 @@
 	religion="catholic"
 }
 112830={
-	name="Province1283"
+	name="Sudemma"
 	culture="tangut"
 	religion="taoist"
 }
@@ -6259,7 +6259,7 @@
 	religion="bon"
 }
 112850={
-	name="Province1285"
+	name="Didaila"
 	culture="sumpa"
 	religion="taoist"
 }
@@ -6274,7 +6274,7 @@
 	religion="taoist"
 }
 112880={
-	name="Province1288"
+	name="Bemma"
 	culture="han"
 	religion="buddhist"
 }
@@ -6299,7 +6299,7 @@
 	religion="zun_pagan"
 }
 112930={
-	name="Province1293"
+	name="Nidaros"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6314,12 +6314,12 @@
 	religion="taoist"
 }
 112960={
-	name="Province1296"
+	name="Tiesupus"
 	culture="sumpa"
 	religion="taoist"
 }
 112970={
-	name="Province1297"
+	name="Akenoran"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6329,7 +6329,7 @@
 	religion="taoist"
 }
 112990={
-	name="Province1299"
+	name="Reloran"
 	culture="sumpa"
 	religion="taoist"
 }
@@ -6354,7 +6354,7 @@
 	religion="catholic"
 }
 113040={
-	name="Province1304"
+	name="Kuyaas"
 	culture="han"
 	religion="buddhist"
 }
@@ -6399,7 +6399,7 @@
 	religion="taoist"
 }
 113130={
-	name="Province1313"
+	name="Tupatra"
 	culture="sumpa"
 	religion="taoist"
 }
@@ -6419,17 +6419,17 @@
 	religion="taoist"
 }
 113170={
-	name="Province1317"
+	name="Selouz"
 	culture="sumpa"
 	religion="taoist"
 }
 113180={
-	name="Province1318"
+	name="Tinaham"
 	culture="sumpa"
 	religion="taoist"
 }
 113190={
-	name="Province1319"
+	name="Anomeh"
 	culture="sumpa"
 	religion="taoist"
 }
@@ -6439,7 +6439,7 @@
 	religion="taoist"
 }
 113210={
-	name="Province1321"
+	name="Qinayn"
 	culture="han"
 	religion="taoist"
 }
@@ -6459,7 +6459,7 @@
 	religion="catholic"
 }
 113250={
-	name="Province1325"
+	name="Nelusa"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6469,7 +6469,7 @@
 	religion="taoist"
 }
 113280={
-	name="Province1328"
+	name="Naratra"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6489,52 +6489,52 @@
 	religion="taoist"
 }
 113320={
-	name="de Province1332"
+	name="Wudatra"
 	culture="frankish"
 	religion="zun_pagan"
 }
 113330={
-	name="Province1333"
+	name="Radomeh"
 	culture="nepali"
 	religion="taoist"
 }
 113340={
-	name="Province1334"
+	name="Kenatra"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113350={
-	name="Province1335"
+	name="Qinaham"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113360={
-	name="Province1336"
+	name="Kodaros"
 	culture="sumpa"
 	religion="taoist"
 }
 113370={
-	name="Province1337"
+	name="Todyu"
 	culture="sumpa"
 	religion="taoist"
 }
 113380={
-	name="Province1338"
+	name="Wascal"
 	culture="sumpa"
 	religion="taoist"
 }
 113390={
-	name="Province1339"
+	name="Sorafiz"
 	culture="sumpa"
 	religion="taoist"
 }
 113400={
-	name="de Province1340"
+	name="Nurafiz"
 	culture="frankish"
 	religion="zun_pagan"
 }
 113410={
-	name="Province1341"
+	name="Wupaham"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -6549,12 +6549,12 @@
 	religion="taoist"
 }
 113440={
-	name="Province1344"
+	name="Nenayn"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113450={
-	name="Province1345"
+	name="Serayn"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6564,12 +6564,12 @@
 	religion="catholic"
 }
 113480={
-	name="Province1348"
+	name="Qenizam"
 	culture="nepali"
 	religion="taoist"
 }
 113490={
-	name="Province1349"
+	name="Evasouz"
 	culture="nepali"
 	religion="taoist"
 }
@@ -6579,17 +6579,17 @@
 	religion="taoist"
 }
 113520={
-	name="Province1352"
+	name="Kerayn"
 	culture="han"
 	religion="taoist"
 }
 113530={
-	name="Province1353"
+	name="Ragayn"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113540={
-	name="Province1354"
+	name="Enabir"
 	culture="han"
 	religion="buddhist"
 }
@@ -6604,7 +6604,7 @@
 	religion="zun_pagan"
 }
 113570={
-	name="Province1357"
+	name="Binayn"
 	culture="sumpa"
 	religion="taoist"
 }
@@ -6614,72 +6614,72 @@
 	religion="taoist"
 }
 113590={
-	name="Province1359"
+	name="Bodadad"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113600={
-	name="Province1360"
+	name="Tadaila"
 	culture="han"
 	religion="taoist"
 }
 113610={
-	name="Province1361"
+	name="Ajurafiz"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113620={
-	name="Province1362"
+	name="Todadad"
 	culture="sumpa"
 	religion="taoist"
 }
 113630={
-	name="de Province1363"
+	name="Ladad"
 	culture="frankish"
 	religion="zun_pagan"
 }
 113640={
-	name="Province1364"
+	name="Ebarayn"
 	culture="sumpa"
 	religion="buddhist"
 }
 113650={
-	name="Province1365"
+	name="Qasaham"
 	culture="sumpa"
 	religion="buddhist"
 }
 113660={
-	name="Province1366"
+	name="Tagizam"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113680={
-	name="Province1368"
+	name="Eragaham"
 	culture="nepali"
 	religion="taoist"
 }
 113690={
-	name="Province1369"
+	name="Wohanaz"
 	culture="nepali"
 	religion="taoist"
 }
 113700={
-	name="Province1370"
+	name="Belaros"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113710={
-	name="Province1371"
+	name="Roraham"
 	culture="han"
 	religion="buddhist"
 }
 113720={
-	name="Province1372"
+	name="Qupabir"
 	culture="han"
 	religion="buddhist"
 }
 113730={
-	name="Province1373"
+	name="Ajohafiz"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -6689,7 +6689,7 @@
 	religion="buddhist"
 }
 113750={
-	name="Province1375"
+	name="Delayn"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -6699,47 +6699,47 @@
 	religion="baltic_pagan"
 }
 113780={
-	name="Province1378"
+	name="Boraila"
 	culture="han"
 	religion="taoist"
 }
 113790={
-	name="Province1379"
+	name="Kuromeh"
 	culture="sumpa"
 	religion="buddhist"
 }
 113800={
-	name="Province1380"
+	name="Linouz"
 	culture="han"
 	religion="taoist"
 }
 113810={
-	name="Province1381"
+	name="Deladad"
 	culture="nepali"
 	religion="buddhist"
 }
 113830={
-	name="Province1383"
+	name="Ruraros"
 	culture="nepali"
 	religion="buddhist"
 }
 113840={
-	name="Province1384"
+	name="Teladad"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 113850={
-	name="Province1385"
+	name="Qaratra"
 	culture="sumpa"
 	religion="buddhist"
 }
 113860={
-	name="Province1386"
+	name="Kagyu"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 113870={
-	name="Province1387"
+	name="Azt"
 	culture="han"
 	religion="buddhist"
 }
@@ -6754,12 +6754,12 @@
 	religion="taoist"
 }
 113900={
-	name="de Province1390"
+	name="Rohxi"
 	culture="frankish"
 	religion="zun_pagan"
 }
 113910={
-	name="Province1391"
+	name="Lascal"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -6774,12 +6774,12 @@
 	religion="taoist"
 }
 113940={
-	name="Province1394"
+	name="Kareuves"
 	culture="nepali"
 	religion="buddhist"
 }
 113950={
-	name="de Province1395"
+	name="Tanugno"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -6789,22 +6789,22 @@
 	religion="taoist"
 }
 113970={
-	name="Province1397"
+	name="Tant"
 	culture="han"
 	religion="buddhist"
 }
 113980={
-	name="Province1398"
+	name="Ragugno"
 	culture="sumpa"
 	religion="buddhist"
 }
 113990={
-	name="Province1399"
+	name="Darund"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 114000={
-	name="Province1400"
+	name="Tasude"
 	culture="nepali"
 	religion="buddhist"
 }
@@ -6819,7 +6819,7 @@
 	religion="baltic_pagan"
 }
 114040={
-	name="Province1404"
+	name="Taraslan"
 	culture="nepali"
 	religion="buddhist"
 }
@@ -6829,17 +6829,17 @@
 	religion="baltic_pagan"
 }
 114060={
-	name="Province1406"
+	name="Kanuke"
 	culture="han"
 	religion="buddhist"
 }
 114070={
-	name="Province1407"
+	name="Qasolf"
 	culture="uncultured_swine"
 	religion="taoist"
 }
 114080={
-	name="Province1408"
+	name="Qulund"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -6849,7 +6849,7 @@
 	religion="baltic_pagan"
 }
 114100={
-	name="Province1410"
+	name="Anettin"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -6859,12 +6859,12 @@
 	religion="taoist"
 }
 114120={
-	name="Province1412"
+	name="Atüalik"
 	culture="sumpa"
 	religion="buddhist"
 }
 114130={
-	name="Province1413"
+	name="Sanugno"
 	culture="nepali"
 	religion="buddhist"
 }
@@ -6874,7 +6874,7 @@
 	religion="taoist"
 }
 114150={
-	name="de Province1415"
+	name="Ralaf"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -6884,12 +6884,12 @@
 	religion="buddhist"
 }
 114170={
-	name="Province1417"
+	name="Quke"
 	culture="nepali"
 	religion="buddhist"
 }
 114180={
-	name="de Province1418"
+	name="Kagadan"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -6899,17 +6899,17 @@
 	religion="baltic_pagan"
 }
 114200={
-	name="Province1420"
+	name="Radan"
 	culture="nepali"
 	religion="buddhist"
 }
 114210={
-	name="Province1421"
+	name="Koyalaf"
 	culture="han"
 	religion="buddhist"
 }
 114220={
-	name="de Province1422"
+	name="Tascal"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -6919,17 +6919,17 @@
 	religion="taoist"
 }
 114240={
-	name="de Province1424"
+	name="Qasund"
 	culture="frankish"
 	religion="nestorian"
 }
 114250={
-	name="de Province1425"
+	name="Taruke"
 	culture="frankish"
 	religion="nestorian"
 }
 114260={
-	name="Province1426"
+	name="Kotugno"
 	culture="sumpa"
 	religion="buddhist"
 }
@@ -6944,7 +6944,7 @@
 	religion="buddhist"
 }
 114290={
-	name="Province1429"
+	name="Dadan"
 	culture="han"
 	religion="buddhist"
 }
@@ -6954,7 +6954,7 @@
 	religion="baltic_pagan"
 }
 114310={
-	name="Province1431"
+	name="Kagalaf"
 	culture="sumpa"
 	religion="buddhist"
 }
@@ -6964,7 +6964,7 @@
 	religion="taoist"
 }
 114330={
-	name="Province1433"
+	name="Suqaslan"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -6974,27 +6974,27 @@
 	religion="buddhist"
 }
 114350={
-	name="Province1435"
+	name="Totardus"
 	culture="sumpa"
 	religion="buddhist"
 }
 114360={
-	name="Province1436"
+	name="Barettin"
 	culture="han"
 	religion="buddhist"
 }
 114370={
-	name="de Province1437"
+	name="Qalik"
 	culture="frankish"
 	religion="nestorian"
 }
 114380={
-	name="Province1438"
+	name="Neuves"
 	culture="nepali"
 	religion="buddhist"
 }
 114390={
-	name="de Province1439"
+	name="Tuqettin"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -7004,7 +7004,7 @@
 	religion="baltic_pagan"
 }
 114410={
-	name="de Province1441"
+	name="Lugno"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -7019,7 +7019,7 @@
 	religion="baltic_pagan"
 }
 114440={
-	name="Province1444"
+	name="Lolf"
 	culture="nepali"
 	religion="buddhist"
 }
@@ -7029,17 +7029,17 @@
 	religion="buddhist"
 }
 114460={
-	name="Province1446"
+	name="Totascal"
 	culture="sumpa"
 	religion="buddhist"
 }
 114470={
-	name="de Province1447"
+	name="Analaf"
 	culture="frankish"
 	religion="nestorian"
 }
 114480={
-	name="Province1448"
+	name="Naneuves"
 	culture="uncultured_swine"
 	religion="taoist"
 }
@@ -7049,17 +7049,17 @@
 	religion="baltic_pagan"
 }
 114500={
-	name="Province1450"
+	name="Nagugno"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 114510={
-	name="de Province1451"
+	name="Eörude"
 	culture="frankish"
 	religion="nestorian"
 }
 114520={
-	name="de Province1452"
+	name="Kuqolf"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -7074,27 +7074,27 @@
 	religion="nestorian"
 }
 114550={
-	name="de Province1455"
+	name="Rund"
 	culture="frankish"
 	religion="nestorian"
 }
 114560={
-	name="Province1456"
+	name="Ruqeuves"
 	culture="han"
 	religion="buddhist"
 }
 114570={
-	name="Province1457"
+	name="Qavn"
 	culture="nepali"
 	religion="buddhist"
 }
 114580={
-	name="Province1458"
+	name="Ly"
 	culture="nepali"
 	religion="buddhist"
 }
 114590={
-	name="de Province1459"
+	name="Tol"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -7114,7 +7114,7 @@
 	religion="nestorian"
 }
 114630={
-	name="Province1463"
+	name="Qadï"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7129,22 +7129,22 @@
 	religion="nestorian"
 }
 114660={
-	name="Province1466"
+	name="Lilegen"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 114670={
-	name="Province1467"
+	name="Totiraja"
 	culture="han"
 	religion="buddhist"
 }
 114680={
-	name="Province1468"
+	name="Wutalka"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 114690={
-	name="Province1469"
+	name="Rilegin"
 	culture="nepali"
 	religion="buddhist"
 }
@@ -7159,7 +7159,7 @@
 	religion="nestorian"
 }
 114720={
-	name="Province1472"
+	name="Egutadï"
 	culture="nepali"
 	religion="buddhist"
 }
@@ -7184,7 +7184,7 @@
 	religion="buddhist"
 }
 114770={
-	name="Province1477"
+	name="Qidura"
 	culture="han"
 	religion="buddhist"
 }
@@ -7214,7 +7214,7 @@
 	religion="baltic_pagan"
 }
 114830={
-	name="de Province1483"
+	name="Kilegen"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -7224,17 +7224,17 @@
 	religion="tengri_pagan"
 }
 114850={
-	name="de Province1485"
+	name="Laamolk"
 	culture="frankish"
 	religion="nestorian"
 }
 114860={
-	name="Province1486"
+	name="Bawara"
 	culture="nepali"
 	religion="buddhist"
 }
 114870={
-	name="de Province1487"
+	name="Werude"
 	culture="frankish"
 	religion="nestorian"
 }
@@ -7244,7 +7244,7 @@
 	religion="nestorian"
 }
 114890={
-	name="Province1489"
+	name="Besega"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7274,7 +7274,7 @@
 	religion="tengri_pagan"
 }
 114960={
-	name="Province1496"
+	name="Aveselen"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7284,7 +7284,7 @@
 	religion="nestorian"
 }
 114980={
-	name="Province1498"
+	name="Etomusha"
 	culture="nepali"
 	religion="buddhist"
 }
@@ -7314,12 +7314,12 @@
 	religion="nestorian"
 }
 115050={
-	name="Province1505"
+	name="Tenuslan"
 	culture="nepali"
 	religion="buddhist"
 }
 115060={
-	name="Province1506"
+	name="Tohude"
 	culture="han"
 	religion="buddhist"
 }
@@ -7334,12 +7334,12 @@
 	religion="tengri_pagan"
 }
 115090={
-	name="Province1509"
+	name="Qalusha"
 	culture="han"
 	religion="buddhist"
 }
 115100={
-	name="Province1510"
+	name="Sisude"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7354,17 +7354,17 @@
 	religion="nestorian"
 }
 115130={
-	name="de Province1513"
+	name="Daluvje"
 	culture="frankish"
 	religion="nestorian"
 }
 115140={
-	name="Province1514"
+	name="Ralara"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 115150={
-	name="Province1515"
+	name="Nanude"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7419,7 +7419,7 @@
 	religion="buddhist"
 }
 115270={
-	name="Province1527"
+	name="Kohega"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7434,7 +7434,7 @@
 	religion="nestorian"
 }
 115300={
-	name="Province1530"
+	name="Awanenes"
 	culture="han"
 	religion="buddhist"
 }
@@ -7444,12 +7444,12 @@
 	religion="nestorian"
 }
 115320={
-	name="Province1532"
+	name="Esusude"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 115330={
-	name="Province1533"
+	name="Elalarya"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7469,12 +7469,12 @@
 	religion="tengri_pagan"
 }
 115370={
-	name="de Province1537"
+	name="Ederuvje"
 	culture="frankish"
 	religion="nestorian"
 }
 115380={
-	name="Province1538"
+	name="Amecarya"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7514,17 +7514,17 @@
 	religion="buddhist"
 }
 115460={
-	name="Province1546"
+	name="Anunuvje"
 	culture="han"
 	religion="buddhist"
 }
 115470={
-	name="Province1547"
+	name="Laamelen"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 115480={
-	name="Province1548"
+	name="Nomega"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7539,7 +7539,7 @@
 	religion="nestorian"
 }
 115510={
-	name="Province1551"
+	name="Ranuvje"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7549,7 +7549,7 @@
 	religion="buddhist"
 }
 115530={
-	name="Province1553"
+	name="Risega"
 	culture="han"
 	religion="buddhist"
 }
@@ -7574,12 +7574,12 @@
 	religion="tengri_pagan"
 }
 115580={
-	name="Province1558"
+	name="Renega"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 115590={
-	name="Province1559"
+	name="Aderega"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7609,12 +7609,12 @@
 	religion="tengri_pagan"
 }
 115650={
-	name="Province1565"
+	name="Neneslav"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
 115660={
-	name="Province1566"
+	name="Nisarya"
 	culture="han"
 	religion="buddhist"
 }
@@ -7624,7 +7624,7 @@
 	religion="nestorian"
 }
 115680={
-	name="Province1568"
+	name="Baamana"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7644,7 +7644,7 @@
 	religion="tengri_pagan"
 }
 115720={
-	name="Province1572"
+	name="Kesolk"
 	culture="han"
 	religion="buddhist"
 }
@@ -7674,12 +7674,12 @@
 	religion="tengri_pagan"
 }
 115780={
-	name="Province1578"
+	name="Alalega"
 	culture="han"
 	religion="buddhist"
 }
 115790={
-	name="Province1579"
+	name="Quset"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7694,7 +7694,7 @@
 	religion="tengri_pagan"
 }
 115820={
-	name="Province1582"
+	name="Alalana"
 	culture="uncultured_swine"
 	religion="tengri_pagan"
 }
@@ -7724,7 +7724,7 @@
 	religion="tengri_pagan"
 }
 115880={
-	name="Province1588"
+	name="Kanet"
 	culture="uncultured_swine"
 	religion="buddhist"
 }
@@ -7779,7 +7779,7 @@
 	religion="tengri_pagan"
 }
 116010={
-	name="of Province1601"
+	name="Tunozia"
 	culture="crimean_gothic"
 	religion="tengri_pagan"
 }
