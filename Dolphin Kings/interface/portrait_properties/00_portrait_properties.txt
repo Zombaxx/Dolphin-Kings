@@ -5123,6 +5123,8 @@
 		factor = 100
 		hide_layers = { 1 = { } }
 		hide_layers = { 2 = { } }
+		hide_layers = { 4 = { } }
+		hide_layers = { 12 = { } }
 		hide_layers = { 14 = { } }
 		hide_layers = { 15 = { } }
 		hide_layers = { 21 = { } }
@@ -5144,6 +5146,15 @@
 		factor = 100
 		hide_layers = { 1 = { } }
 		hide_layers = { 2 = { } }
+		hide_layers = { 4 = { } }
+		hide_layers = { 12 = { } }
+		hide_layers = { 14 = { } }
+		hide_layers = { 15 = { } }
+		hide_layers = { 21 = { } }
+		hide_layers = { 22 = { } }
+		hide_layers = { 24 = { } }
+		hide_layers = { 29 = { } }
+		hide_layers = { 35 = { } }
 		modifier = {
 			factor = 0
 			NOT = { 
