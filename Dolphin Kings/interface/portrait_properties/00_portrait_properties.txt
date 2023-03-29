@@ -611,624 +611,67 @@
 # p1 hair  --- WARNING! Property 1 MUST be Hair, otherwise the hair hiding helmets wont work ---
 1 = {
 	0 = { # Completely bald
-		factor = 1
-		modifier = {
-			factor = 0.1
-			is_female = no
-			NOT = {
-				age = 50
-			}
-		}
-		modifier = {
-			factor = 0.1
-			is_female = yes
-		}
-		
-		# Does not suit African females of a Western Culture
-		modifier = {
-			factor = 0
-			is_female = yes
-			graphical_culture = westafricangfx
-			NOT = { culture = manden }
-			NOT = { culture = ethiopian }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		modifier = {
-			factor = 100
-			is_devout_chinese_buddhist_trigger = yes
-		}
-		modifier = {
-			factor = 0
-			follows_filial_piety_trigger = yes
-		}
+		factor = 1000 #Dolphins should not have hair
 	}
 
 	1 = { # Black Adder
-		factor = 1
-		
-		# Does not suit African females of a Western Culture
-		modifier = {
-			factor = 0
-			is_female = yes
-			graphical_culture = westafricangfx
-			NOT = { culture = manden }
-			NOT = { culture = ethiopian }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
+		factor = 0
 	}
 	
 	2 = { # Page
-		factor = 1
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = count
-			}
-			graphical_culture = westernslavicgfx
-			OR = {
-				culture = pommeranian
-				culture = bohemian
-				culture = polish
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			graphical_culture = croat_southslavicgfx
-			culture = croatian
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			OR = {
-				graphical_culture = serb_southslavicgfx
-				graphical_culture = magyargfx
-			}
-			OR = {
-				culture = serbian
-				culture = bulgarian
-				culture = romanian
-				culture = hungarian
-			}
-		}
+		factor = 0
 	}
 
 	3 = { # Synth
-		factor = 1
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
+		factor = 0
 	}
 
 	4 = { # Long Straight
-		factor = 1
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = count
-			}
-			graphical_culture = westernslavicgfx
-			OR = {
-				culture = pommeranian
-				culture = bohemian
-				culture = polish
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			graphical_culture = croat_southslavicgfx
-			culture = croatian
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			OR = {
-				graphical_culture = serb_southslavicgfx
-				graphical_culture = magyargfx
-			}
-			OR = {
-				culture = serbian
-				culture = bulgarian
-				culture = romanian
-				culture = hungarian
-			}
-		}
+		factor = 0
 	}
 
 	5 = { # Long Curly
-		factor = 1
-		
-		# Does not suit African females of a Western Culture
-		modifier = {
-			factor = 0
-			is_female = yes
-			graphical_culture = westafricangfx
-			NOT = { culture = manden }
-			NOT = { culture = ethiopian }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = count
-			}
-			graphical_culture = westernslavicgfx
-			OR = {
-				culture = pommeranian
-				culture = bohemian
-				culture = polish
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			graphical_culture = croat_southslavicgfx
-			culture = croatian
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			OR = {
-				graphical_culture = serb_southslavicgfx
-				graphical_culture = magyargfx
-			}
-			OR = {
-				culture = serbian
-				culture = bulgarian
-				culture = romanian
-				culture = hungarian
-			}
-		}
+		factor = 0
 	}
 
 	6 = {  # Tonsure
-		factor = 1
-		modifier = {
-			factor = 0
-			is_female = no
-			higher_real_tier_than = unlanded
-		}
-		modifier = {
-			factor = 0
-			is_female = no
-			NOT = { religion_group = christian }
-		}
-		modifier = {
-			factor = 0
-			is_female = no
-			NOT = { trait = detached_priest }
-			NOT = { trait = martial_cleric }
-			NOT = { trait = scholarly_theologian }
-			NOT = { trait = mastermind_theologian }
-			NOT = { has_job_title = job_spiritual }
-		}
-
-		modifier = {
-			factor = 50
-			is_female = no
-		}
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		
-		# Does not suit African females of a Western Culture
-		modifier = {
-			factor = 0
-			is_female = yes
-			graphical_culture = westafricangfx
-			NOT = { culture = manden }
-			NOT = { culture = ethiopian }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
+		factor = 0
 	}
 	
 	7 = {  # Short
-		factor = 1
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		
-		# Does not suit African females of a Western Culture
-		modifier = {
-			factor = 0
-			is_female = yes
-			graphical_culture = westafricangfx
-			NOT = { culture = manden }
-			NOT = { culture = ethiopian }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
+		factor = 0
 	}
 	
 	8 = { # Short Curly
-		factor = 1
+		factor = 0
 	}
 	
 	9 = {  # Short Uncouth
-		factor = 1
-		modifier = {
-			factor = 5
-			religion_group = pagan_group
-		}
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		modifier = {
-			factor = 0
-			is_female = yes
-			follows_filial_piety_trigger = yes
-		}
+		factor = 0
 	}
 	
 	10 = {  # Long Uncouth
-		factor = 1
-		
-		modifier = {
-			factor = 5
-			religion_group = pagan_group
-		}
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		modifier = {
-			factor = 0
-			follows_filial_piety_trigger = yes
-		}
-		modifier = {
-			factor = 0
-			is_female = yes
-			follows_filial_piety_trigger = yes
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = count
-			}
-			graphical_culture = westernslavicgfx
-			OR = {
-				culture = pommeranian
-				culture = bohemian
-				culture = polish
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			graphical_culture = croat_southslavicgfx
-			culture = croatian
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			OR = {
-				graphical_culture = serb_southslavicgfx
-				graphical_culture = magyargfx
-			}
-			OR = {
-				culture = serbian
-				culture = bulgarian
-				culture = romanian
-				culture = hungarian
-			}
-		}
+		factor = 0
 	}
 	
 	11 = { # Balding
-		factor = 1
-		modifier = {
-			factor = 0.1
-			is_female = no
-			NOT = {
-				age = 50
-			}
-		}
-		modifier = {
-			factor = 0
-			is_female = yes
-			follows_filial_piety_trigger = yes
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = count
-			}
-			graphical_culture = westernslavicgfx
-			OR = {
-				culture = pommeranian
-				culture = bohemian
-				culture = polish
-			}
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			graphical_culture = croat_southslavicgfx
-			culture = croatian
-		}
-		modifier = { 
-			factor = 0
-			is_female = yes
-			OR = {
-				is_married = yes
-				higher_tier_than = duke
-			}
-			OR = {
-				graphical_culture = serb_southslavicgfx
-				graphical_culture = magyargfx
-			}
-			OR = {
-				culture = serbian
-				culture = bulgarian
-				culture = romanian
-				culture = hungarian
-			}
-		}
+		factor = 0
 	}
 	
 	12 = { # Marine
-		factor = 1
-		
-		# Does not suit Western females with African style headgear
-		modifier = {
-			factor = 0
-			is_female = yes
-			OR = {
-				culture = manden
-				culture = ethiopian
-			}
-			NOT = { graphical_culture = westafricangfx }
-			NOT = { graphical_culture = muslimgfx }
-			OR = {
-				higher_real_tier_than = count
-				spouse = { higher_real_tier_than = count }
-				has_minor_title = title_prince
-			}
-		}
-		modifier = {
-			factor = 0
-			follows_filial_piety_trigger = yes
-		}
-		modifier = {
-			factor = 0
-			is_female = yes
-			follows_filial_piety_trigger = yes
-		}
-		modifier = {
-			factor = 2
-			filial_piety_maiden_trigger = yes
-		}
+		factor = 0
 	}
 	
 	13 = { # Mohawk
-		factor = 1
-		modifier = {
-			factor = 0
-			follows_filial_piety_trigger = yes
-		}
-		modifier = {
-			factor = 0
-			is_female = yes
-			follows_filial_piety_trigger = yes
-		}
-		modifier = {
-			factor = 2
-			filial_piety_maiden_trigger = yes
-		}
-		modifier = {
-			factor = 0
-			graphical_culture = chinesegfx
-			OR = {
-				is_married = yes
-				is_ruler = yes
-			}
-		}
+		factor = 0
 	}
 	
 	14 = { # Mohawk
-		factor = 1
-		modifier = {
-			factor = 0
-			follows_filial_piety_trigger = yes
-		}
-		modifier = {
-			factor = 0
-			is_female = yes
-			follows_filial_piety_trigger = yes
-		}
-		modifier = {
-			factor = 2
-			filial_piety_maiden_trigger = yes
-		}
-		modifier = {
-			factor = 0
-			graphical_culture = chinesegfx
-			OR = {
-				is_married = yes
-				is_ruler = yes
-			}
-		}
+		factor = 0
 	}
 	
 	15 = { # Mohawk
-		factor = 1
-		modifier = {
-			factor = 0
-			graphical_culture = chinesegfx
-			OR = {
-				is_married = yes
-				is_ruler = yes
-			}
-		}
+		factor = 0
 	}
 }
 
@@ -1773,135 +1216,49 @@
 # p4 beard
 4 = {
 	0 = {
-		factor = 1
-		modifier = {
-			factor = 0
-			religion_group = muslim
-			NOT = { graphical_culture = muslimgfx }
-		}
-		modifier = {
-			factor = 30
-			OR = {
-				culture = greek
-				culture = italian
-				culture = roman
-			}
-			OR = {
-				religion_group = christian
-				religion = hellenic_pagan
-				religion = hellenic_pagan_reformed
-			}
-		#	OR = {
-		#		graphical_culture = southerngfx
-		#		graphical_culture = byzantinegfx
-		#	}
-		}
-		modifier = {
-			factor = 15
-			religion_group = christian
-			culture_group = iberian
-			OR = {
-				graphical_culture = southerngfx
-				graphical_culture = byzantinegfx
-			}
-		}
-		modifier = {
-			factor = 100
-			is_devout_chinese_buddhist_trigger = yes
-		}
-		modifier = {
-			factor = 100 #No longer bearded Ottavian.
-			character = 145290
-		}
-		modifier = { # frankish men less likely to wear beards after the 12th century, in stages 
-			factor = 5
-			year = 1100
-		}
-		modifier = { # frankish men less likely to wear beards after the 12th century, in stages 
-			factor = 15
-			year = 1150
-		}
-		modifier = { # frankish men less likely to wear beards after the 12th century, in stages 
-			factor = 30
-			year = 1200
-		}
+		factor = 1000 #Dolphins should not have beards
 	}
 	1 = {
-		factor = 1
+		factor = 0
 	}
 	2 = {
-		factor = 1
+		factor = 0
 	}
 	3 = {
-		factor = 1
+		factor = 0
 	}
 	4 = {
-		factor = 1
+		factor = 0
 	}
 	5 = {
-		factor = 1
+		factor = 0
 	}
 	6 = {
-		factor = 1
+		factor = 0
 	}
 	7 = {
-		factor = 1
+		factor = 0
 	}
 	8 = {
-		factor = 1
+		factor = 0
 	}
 	9 = {
-		factor = 1
-		modifier = {
-			factor = 5
-			religion_group = christian
-			culture_group = iberian
-			OR = {
-				graphical_culture = southerngfx
-				graphical_culture = byzantinegfx
-			}
-		}
+		factor = 0
 	}
 	10 = {
-		factor = 1
-		modifier = {
-			factor = 0
-			religion_group = muslim
-			NOT = { graphical_culture = muslimgfx }
-		}
-		modifier = {
-			factor = 20
-			religion_group = christian
-			culture_group = iberian
-			OR = {
-				graphical_culture = southerngfx
-				graphical_culture = byzantinegfx
-			}
-		}
-		modifier = {
-			factor = 60
-			religion_group = christian
-			OR = {
-				culture = greek
-				culture = italian
-			}
-			OR = {
-				graphical_culture = southerngfx
-				graphical_culture = byzantinegfx
-			}
-		}
+		factor = 0
 	}
 	11 = {
-		factor = 1
+		factor = 0
 	}
 	12 = {
-		factor = 1
+		factor = 0
 	}
 	13 = {
-		factor = 1
+		factor = 0
 	}
 	14 = {
-		factor = 1
+		factor = 0
 	}
 }
 
@@ -5760,7 +5117,7 @@
   	}
 }
 
-#p30 Demon Child (fantasy only)
+#p30 Dolphin (used in Vanilla for Demon Child (fantasy only))
 30 = {
 	0 = { # blank
 		factor = 100
@@ -6195,180 +5552,64 @@
 #p33 frankish Culture Underlayer and Hair - Female
 33 = {
 	0 = { # Blank
-		factor = 100
-		trigger = {
-			OR = {
-				has_game_started = no
-				is_in_society = yes
-				is_theocracy = yes
-				is_merchant_republic = yes
-				has_job_title = job_spiritual
-				french_overlayer_special_crown_trigger = yes
-				NOR = {
-					#has_portrait_property = { layer = 5 index = 0 }
-					#has_portrait_property = { layer = 5 index = 1 }
-					#has_portrait_property = { layer = 5 index = 2 }
-					#has_portrait_property = { layer = 5 index = 3 }
-					#has_portrait_property = { layer = 5 index = 4 }
-					#has_portrait_property = { layer = 5 index = 10 }
-					french_queen_underlayer_trigger = yes
-					french_duchess_overlayer_trigger = yes
-					french_countess_overlayer_trigger = yes
-				}
-			}
-		}
+		factor = 1000
 	}
 	1 = { # Empress / Queen Pre-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	2 = { # Empress / Queen Pre-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	3 = { # Empress / Queen Pre-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	4 = { # Empress / Queen Pre-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	5 = { # Empress / Queen Post-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 	6 = { # Empress / Queen Post-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 	7 = { # Empress / Queen Post-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 	8 = { # Empress / Queen Post-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_queen_underlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 	9 = { # Duchess Early
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_duchess_overlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	10 = { # Duchess Early
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_duchess_overlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	11 = {  # Duchess Early
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_duchess_overlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	12 = { # Duchess Early
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_duchess_overlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	13 = { # Duchess Post-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_duchess_overlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 	14 = { # Duchess Post-1180
-		factor = 1
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_duchess_overlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 	15 = { # Countess Early
-		factor = 100
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_countess_overlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	16 = { # Countess Early
-		factor = 100
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_countess_overlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	17 = { # Countess Early
-		factor = 100
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_countess_overlayer_trigger = yes
-			NOT = { year = 1180 }
-		}
+		factor = 0
 	}
 	18 = { # Countess Post-1180
-		factor = 100
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_countess_overlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 	19 = { # Countess Post-1180
-		factor = 100
-		hide_layers = { 1 = { } }
-		trigger = {
-			french_countess_overlayer_trigger = yes
-			year = 1180
-		}
+		factor = 0
 	}
 }
 
