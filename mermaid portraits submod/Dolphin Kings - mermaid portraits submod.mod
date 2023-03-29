@@ -1,6 +1,6 @@
-name="Dolphin Kings"
-path="mod/Dolphin Kings"
-user_dir = "Dolphin Kings"
+name="Dolphin Kings - Mermaid Portraits submod"
+path="mod/mermaid portraits submod"
+#user_dir = "Dolphin Kings"
 
 replace_path = "history/characters"
 replace_path = "history/offmap_powers"
