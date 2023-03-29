@@ -5121,6 +5121,8 @@
 30 = {
 	0 = { # blank
 		factor = 100
+		hide_layers = { 1 = { } }
+		hide_layers = { 2 = { } }
 		modifier = {
 			factor = 0
 			has_character_modifier = demon_horns
@@ -5132,7 +5134,9 @@
  	}
 
 	1 = { 
-		factor = 100 
+		factor = 100
+		hide_layers = { 1 = { } }
+		hide_layers = { 2 = { } }
 		modifier = {
 			factor = 0
 			NOT = { 
