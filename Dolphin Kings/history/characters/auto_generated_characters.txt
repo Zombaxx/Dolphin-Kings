@@ -48244,7 +48244,7 @@
 	name = "Ascaric"
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	trait = midas_touched
 	stewardship = 10
 	trait = architect
@@ -48261,7 +48261,7 @@
 	name = "Theoric"
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103470
 	680.1.1={
 		birth="680.1.1"
@@ -48274,7 +48274,7 @@
 	name = "Badegisel"
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103471
 	719.1.1={
 		birth="719.1.1"
@@ -48290,7 +48290,7 @@
 	name = "Hildoin"
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103471
 	724.1.1={
 		birth="724.1.1"
@@ -48303,7 +48303,7 @@
 	name = "Chlothsinda"
 	female = yes
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	724.1.1={
 		birth="724.1.1"
 		effect={ dynasty = father_bastard }
@@ -48316,10 +48316,10 @@
 	}
 }
 103475 = {
-	name = "Sunno"
+	name = "Dolphinius"
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103472
 	mother = 103474
 	746.1.1={
@@ -48333,7 +48333,7 @@
 	name = "Rathar"
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103472
 	mother = 103474
 	749.1.1={
@@ -48348,7 +48348,7 @@
 	female = yes
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103472
 	mother = 103474
 	752.1.1={
@@ -48362,7 +48362,7 @@
 	name = "Aldedramn"
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103473
 	745.1.1={
 		birth="745.1.1"
@@ -48376,7 +48376,7 @@
 	female = yes
 	dynasty = 103470
 	culture = "old_frankish"
-	religion = "miaphysite"
+	religion = "catholic"
 	father = 103473
 	746.1.1={
 		birth="746.1.1"
