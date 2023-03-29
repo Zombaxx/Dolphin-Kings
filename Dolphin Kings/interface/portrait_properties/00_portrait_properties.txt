@@ -5134,12 +5134,8 @@
 		hide_layers = { 35 = { } }
 		modifier = {
 			factor = 0
-			has_character_modifier = demon_horns
-			has_game_rule = {
-   				name = supernatural_events
-				value = unrestricted
-   			}
- 		}
+			is_female = no
+		}
  	}
 
 	1 = { 
@@ -5157,18 +5153,7 @@
 		hide_layers = { 35 = { } }
 		modifier = {
 			factor = 0
-			NOT = { 
-				has_game_rule = {
-   					name = supernatural_events
-					value = unrestricted
-   				}
-			}
-		}
-		modifier = {
-			factor = 0
-			NOT = {
-				has_character_modifier = demon_horns
-   			}
+			is_female = yes
 		}
   	}
 }
