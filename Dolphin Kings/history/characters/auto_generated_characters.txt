@@ -33517,6 +33517,7 @@
 	trait = quick
 	trait = gregarious
 	trait = socializer
+	trait = sayyid
 	649.1.1={
 		birth="649.1.1"
 	}
@@ -33530,6 +33531,7 @@
 	culture = "bedouin_arabic"
 	religion = "sunni"
 	father = 102440
+	trait = sayyid
 	686.1.1={
 		birth="686.1.1"
 	}
@@ -33543,6 +33545,7 @@
 	culture = "bedouin_arabic"
 	religion = "sunni"
 	father = 102441
+	trait = sayyid
 	720.1.1={
 		birth="720.1.1"
 	}
@@ -33559,6 +33562,7 @@
 	culture = "bedouin_arabic"
 	religion = "sunni"
 	father = 102441
+	trait = sayyid
 	724.1.1={
 		birth="724.1.1"
 	}
@@ -33571,6 +33575,7 @@
 	female = yes
 	culture = "bedouin_arabic"
 	religion = "sunni"
+	trait = sayyid
 	715.1.1={
 		birth="715.1.1"
 		effect={ dynasty = father_bastard }
@@ -33589,6 +33594,7 @@
 	religion = "sunni"
 	father = 102442
 	mother = 102444
+	trait = sayyid
 	741.1.1={
 		birth="741.1.1"
 	}
@@ -33603,6 +33609,7 @@
 	religion = "sunni"
 	father = 102442
 	mother = 102444
+	trait = sayyid
 	744.1.1={
 		birth="744.1.1"
 	}
@@ -33615,6 +33622,7 @@
 	dynasty = 102440
 	culture = "bedouin_arabic"
 	religion = "sunni"
+	trait = sayyid
 	father = 102442
 	mother = 102444
 	747.1.1={
@@ -33631,6 +33639,7 @@
 	culture = "bedouin_arabic"
 	religion = "sunni"
 	father = 102443
+	trait = sayyid
 	745.1.1={
 		birth="745.1.1"
 	}
@@ -33644,6 +33653,7 @@
 	culture = "bedouin_arabic"
 	religion = "sunni"
 	father = 102443
+	trait = sayyid
 	749.1.1={
 		birth="749.1.1"
 	}
