@@ -8,7 +8,7 @@ bm_wp = {
 	custom_start = yes				## Choosing "Custom Start" will open this bookmark
 
 	selectable_character = {
-		id = 103475 #
+		id = 103475 #Dolphinius of the English Channel
 		age = 15
 		name = ERA_CHAR_NAME_103475
 		title = c_province0003
@@ -22,4 +22,68 @@ bm_wp = {
 			dynasty=100780
 		}
 	}
-}
+	selectable_character = {
+		id = 113325 #Seaworld
+		age = 36
+		name = ERA_CHAR_NAME_113325
+		title = c_province0003
+		title_name = c_province0003	
+		dlc = "The Old Gods"			
+		character = {
+			dna = fxqqqmocxyn
+			properties = v0ge0k
+			religion="zun_pagan"
+			culture="frankish"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 104565 #Aegean Sea
+		age = 39
+		name = ERA_CHAR_NAME_104565
+		title = c_province0003
+		title_name = c_province0003		
+		dlc = "Holy Fury"
+		character = {
+			dna = zdbcqutwhsx
+			properties = c00j0j
+			religion="hellenic_pagan"
+			culture="greek"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 113385 #South China Sea
+		age = 29
+		name = ERA_CHAR_NAME_113385
+		title = c_province0003
+		title_name = c_province0003		
+		dlc = "Jade Dragon"
+		character = {
+			dna = ajzajnyoeml
+			properties = m00e0d
+			religion="taoist"
+			culture="sumpa"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 100165 #Caribbean
+		age = 31
+		name = ERA_CHAR_NAME_100165
+		title = c_province0003
+		title_name = c_province0003		
+		dlc = "Sunset Invasion"
+		character = {
+			dna = bebzuzskzrz
+			properties = a0000c
+			religion="aztec"
+			culture="catalan"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+} 

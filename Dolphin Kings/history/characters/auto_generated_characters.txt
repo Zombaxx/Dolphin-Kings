@@ -189555,10 +189555,11 @@
 	}
 }
 113325 = {
-	name = "Adrien"
+	name = "Aquaexander"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
+	trait = skilled_tactician	
 	father = 113322
 	mother = 113324
 	733.1.1={
