@@ -64160,7 +64160,7 @@
 	}
 }
 104560 = {
-	name = "Leontios"
+	name = "Aquaexander"
 	dynasty = 104560
 	culture = "greek"
 	religion = "hellenic_pagan"
@@ -64177,7 +64177,7 @@
 	}
 }
 104561 = {
-	name = "Petros"
+	name = "Aquaexander"
 	dynasty = 104560
 	culture = "greek"
 	religion = "hellenic_pagan"
@@ -64190,7 +64190,7 @@
 	}
 }
 104562 = {
-	name = "Polykarpos"
+	name = "Aquaexander"
 	dynasty = 104560
 	culture = "greek"
 	religion = "hellenic_pagan"
@@ -64235,12 +64235,13 @@
 	}
 }
 104565 = {
-	name = "Theodotos"
+	name = "Aquaexander"
 	dynasty = 104560
 	culture = "greek"
 	religion = "hellenic_pagan"
 	father = 104562
 	mother = 104564
+	trait = skilled_tactician	
 	730.1.1={
 		birth="730.1.1"
 	}
@@ -82175,7 +82176,7 @@
 	}
 }
 105834 = {
-	name = "Beatriu"
+	name = "Tinker"
 	female = yes
 	culture = "catalan"
 	religion = "zun_pagan"
@@ -82219,7 +82220,7 @@
 	}
 }
 105837 = {
-	name = "Gueraua"
+	name = "Sasha"
 	female = yes
 	dynasty = 105830
 	culture = "catalan"
@@ -82234,7 +82235,7 @@
 	}
 }
 105838 = {
-	name = "Gueraua"
+	name = "Tasha"
 	female = yes
 	dynasty = 105830
 	culture = "catalan"
@@ -189479,7 +189480,7 @@
 	}
 }
 113320 = {
-	name = "François"
+	name = "Seajay"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189497,7 +189498,7 @@
 	}
 }
 113321 = {
-	name = "Aymar"
+	name = "Rascal"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189510,7 +189511,7 @@
 	}
 }
 113322 = {
-	name = "Nicolas"
+	name = "Sparrow"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189526,7 +189527,7 @@
 	}
 }
 113323 = {
-	name = "Ebbon"
+	name = "Dexter"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189539,7 +189540,7 @@
 	}
 }
 113324 = {
-	name = "Ildégarde"
+	name = "Jenever"
 	female = yes
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189555,7 +189556,7 @@
 	}
 }
 113325 = {
-	name = "Aquaexander"
+	name = "Seajay"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189570,7 +189571,7 @@
 	}
 }
 113326 = {
-	name = "Gaucelin"
+	name = "Griffith"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189584,7 +189585,7 @@
 	}
 }
 113327 = {
-	name = "Eglantine"
+	name = "Naia"
 	female = yes
 	dynasty = 113320
 	culture = "frankish"
@@ -189599,7 +189600,7 @@
 	}
 }
 113328 = {
-	name = "Jacques"
+	name = "Alpha"
 	dynasty = 113320
 	culture = "frankish"
 	religion = "zun_pagan"
@@ -189612,7 +189613,7 @@
 	}
 }
 113329 = {
-	name = "Mathilde"
+	name = "Calla"
 	female = yes
 	dynasty = 113320
 	culture = "frankish"
