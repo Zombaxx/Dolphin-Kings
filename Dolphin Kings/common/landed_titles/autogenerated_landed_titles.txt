@@ -87,7 +87,14 @@ e_empire0001 = {
 				color={ 223 162 34 }
 				color2={ 255 255 255 }
 				
+				holy_site = cathar
+				holy_site = lollard
+				holy_site = waldensian
+				holy_site = monophysite
 				holy_site = aztec
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = miaphysite
 				
 				b_barony0001` = {
 				dynasty_title_names = no
@@ -286,6 +293,8 @@ e_empire0037 = {
 				color={ 209 118 27 }
 				color2={ 255 255 255 }
 				
+				holy_site = nestorian
+				holy_site = messalian
 				holy_site = aztec
 				
 				b_barony0009` = {
@@ -468,8 +477,12 @@ e_empire0037 = {
 				color={ 214 123 212 }
 				color2={ 255 255 255 }
 				
+				holy_site = nestorian
+				holy_site = messalian
 				
-				b_barony0017` = { }
+				b_barony0017` = {
+				dynasty_title_names = no
+				}
 				b_barony0017a = { }
 				b_barony0017b = { }
 				b_barony0017c = { }
@@ -1099,6 +1112,8 @@ e_empire0037 = {
 				color={ 200 169 33 }
 				color2={ 255 255 255 }
 				
+				holy_site = nestorian
+				holy_site = messalian
 				holy_site = aztec
 				
 				b_barony0031` = {
@@ -1183,8 +1198,12 @@ e_empire0063 = {
 				color={ 66 175 185 }
 				color2={ 255 255 255 }
 				
+				holy_site = nestorian
+				holy_site = messalian
 				
-				b_barony0042` = { }
+				b_barony0042` = {
+				dynasty_title_names = no
+				}
 				b_barony0042a = { }
 				b_barony0042b = { }
 				b_barony0042c = { }
@@ -1347,8 +1366,12 @@ e_empire0063 = {
 				color={ 84 191 185 }
 				color2={ 255 255 255 }
 				
+				holy_site = nestorian
+				holy_site = messalian
 				
-				b_barony0081` = { }
+				b_barony0081` = {
+				dynasty_title_names = no
+				}
 				b_barony0081a = { }
 				b_barony0081b = { }
 				b_barony0081c = { }
@@ -1361,8 +1384,11 @@ e_empire0063 = {
 				color={ 119 188 213 }
 				color2={ 255 255 255 }
 				
+				holy_site = norse_pagan
 				
-				b_barony0063` = { }
+				b_barony0063` = {
+				dynasty_title_names = no
+				}
 				b_barony0063a = { }
 				b_barony0063b = { }
 				b_barony0063c = { }
@@ -1458,6 +1484,9 @@ e_empire0087 = {
 				color={ 217 133 16 }
 				color2={ 255 255 255 }
 				
+				holy_site = zoroastrian
+				holy_site = khurmazta
+				holy_site = mazdaki
 				holy_site = aztec
 				
 				b_barony0089` = {
@@ -1505,8 +1534,11 @@ e_empire0087 = {
 				color={ 139 99 72 }
 				color2={ 255 255 255 }
 				
+				holy_site = finnish_pagan
 				
-				b_barony0090` = { }
+				b_barony0090` = {
+				dynasty_title_names = no
+				}
 				b_barony0090a = { }
 				b_barony0090b = { }
 				b_barony0090c = { }
@@ -1914,8 +1946,11 @@ e_empire0102 = {
 				color={ 176 75 189 }
 				color2={ 255 255 255 }
 				
+				holy_site = finnish_pagan
 				
-				b_barony0080` = { }
+				b_barony0080` = {
+				dynasty_title_names = no
+				}
 				b_barony0080a = { }
 				b_barony0080b = { }
 				b_barony0080c = { }
@@ -2056,8 +2091,11 @@ e_empire0102 = {
 				color={ 194 149 52 }
 				color2={ 255 255 255 }
 				
+				holy_site = norse_pagan
 				
-				b_barony0118` = { }
+				b_barony0118` = {
+				dynasty_title_names = no
+				}
 				b_barony0118a = { }
 				b_barony0118b = { }
 				b_barony0118c = { }
@@ -2191,8 +2229,11 @@ e_empire0102 = {
 				color={ 106 145 196 }
 				color2={ 255 255 255 }
 				
+				holy_site = finnish_pagan
 				
-				b_barony0144` = { }
+				b_barony0144` = {
+				dynasty_title_names = no
+				}
 				b_barony0144a = { }
 				b_barony0144b = { }
 				b_barony0144c = { }
@@ -3941,8 +3982,13 @@ e_empire0210 = {
 				color={ 163 88 158 }
 				color2={ 255 255 255 }
 				
+				holy_site = zoroastrian
+				holy_site = khurmazta
+				holy_site = mazdaki
 				
-				b_barony0352` = { }
+				b_barony0352` = {
+				dynasty_title_names = no
+				}
 				b_barony0352a = { }
 				b_barony0352b = { }
 				b_barony0352c = { }
@@ -4111,8 +4157,17 @@ e_empire0210 = {
 				color={ 160 130 53 }
 				color2={ 255 255 255 }
 				
+				holy_site = cathar
+				holy_site = lollard
+				holy_site = waldensian
+				holy_site = monophysite
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = miaphysite
 				
-				b_barony0182` = { }
+				b_barony0182` = {
+				dynasty_title_names = no
+				}
 				b_barony0182a = { }
 				b_barony0182b = { }
 				b_barony0182c = { }
@@ -4395,8 +4450,11 @@ e_empire0213 = {
 				color={ 77 172 117 }
 				color2={ 255 255 255 }
 				
+				holy_site = finnish_pagan
 				
-				b_barony0169` = { }
+				b_barony0169` = {
+				dynasty_title_names = no
+				}
 				b_barony0169a = { }
 				b_barony0169b = { }
 				b_barony0169c = { }
@@ -4523,8 +4581,11 @@ e_empire0213 = {
 				color={ 75 156 190 }
 				color2={ 255 255 255 }
 				
+				holy_site = finnish_pagan
 				
-				b_barony0277` = { }
+				b_barony0277` = {
+				dynasty_title_names = no
+				}
 				b_barony0277a = { }
 				b_barony0277b = { }
 				b_barony0277c = { }
@@ -4728,8 +4789,11 @@ e_empire0213 = {
 				color={ 98 214 138 }
 				color2={ 255 255 255 }
 				
+				holy_site = norse_pagan
 				
-				b_barony0311` = { }
+				b_barony0311` = {
+				dynasty_title_names = no
+				}
 				b_barony0311a = { }
 				b_barony0311b = { }
 				b_barony0311c = { }
@@ -5424,8 +5488,11 @@ e_empire0367 = {
 				color={ 148 178 113 }
 				color2={ 255 255 255 }
 				
+				holy_site = slavic_pagan
 				
-				b_barony0317` = { }
+				b_barony0317` = {
+				dynasty_title_names = no
+				}
 				b_barony0317a = { }
 				b_barony0317b = { }
 				b_barony0317c = { }
@@ -6080,8 +6147,13 @@ e_empire0377 = {
 				color={ 151 120 33 }
 				color2={ 255 255 255 }
 				
+				holy_site = karaite
+				holy_site = samaritan
+				holy_site = jewish
 				
-				b_barony0349` = { }
+				b_barony0349` = {
+				dynasty_title_names = no
+				}
 				b_barony0349a = { }
 				b_barony0349b = { }
 				b_barony0349c = { }
@@ -6469,8 +6541,14 @@ e_empire0377 = {
 				color={ 205 124 207 }
 				color2={ 255 255 255 }
 				
+				holy_site = zoroastrian
+				holy_site = khurmazta
+				holy_site = mazdaki
+				holy_site = west_african_pagan
 				
-				b_barony0430` = { }
+				b_barony0430` = {
+				dynasty_title_names = no
+				}
 				b_barony0430a = { }
 				b_barony0430b = { }
 				b_barony0430c = { }
@@ -6706,8 +6784,11 @@ e_empire0393 = {
 				color={ 100 135 48 }
 				color2={ 255 255 255 }
 				
+				holy_site = west_african_pagan
 				
-				b_barony0259` = { }
+				b_barony0259` = {
+				dynasty_title_names = no
+				}
 				b_barony0259a = { }
 				b_barony0259b = { }
 				b_barony0259c = { }
@@ -6978,8 +7059,11 @@ e_empire0393 = {
 				color={ 89 80 158 }
 				color2={ 255 255 255 }
 				
+				holy_site = hellenic_pagan
 				
-				b_barony0347` = { }
+				b_barony0347` = {
+				dynasty_title_names = no
+				}
 				b_barony0347a = { }
 				b_barony0347b = { }
 				b_barony0347c = { }
@@ -7071,8 +7155,11 @@ e_empire0393 = {
 				color={ 216 183 25 }
 				color2={ 255 255 255 }
 				
+				holy_site = hellenic_pagan
 				
-				b_barony0338` = { }
+				b_barony0338` = {
+				dynasty_title_names = no
+				}
 				b_barony0338a = { }
 				b_barony0338b = { }
 				b_barony0338c = { }
@@ -7155,8 +7242,23 @@ e_empire0393 = {
 				color={ 221 202 70 }
 				color2={ 255 255 255 }
 				
+				holy_site = cathar
+				holy_site = lollard
+				holy_site = waldensian
+				holy_site = bogomilist
+				holy_site = monophysite
+				holy_site = monothelite
+				holy_site = paulician
+				holy_site = orthodox
+				holy_site = norse_pagan
+				holy_site = hellenic_pagan
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = miaphysite
 				
-				b_barony0406` = { }
+				b_barony0406` = {
+				dynasty_title_names = no
+				}
 				b_barony0406a = { }
 				b_barony0406b = { }
 				b_barony0406c = { }
@@ -7282,8 +7384,11 @@ e_empire0407 = {
 				color={ 89 134 213 }
 				color2={ 255 255 255 }
 				
+				holy_site = slavic_pagan
 				
-				b_barony0441` = { }
+				b_barony0441` = {
+				dynasty_title_names = no
+				}
 				b_barony0441a = { }
 				b_barony0441b = { }
 				b_barony0441c = { }
@@ -7296,8 +7401,11 @@ e_empire0407 = {
 				color={ 102 106 155 }
 				color2={ 255 255 255 }
 				
+				holy_site = norse_pagan
 				
-				b_barony0407` = { }
+				b_barony0407` = {
+				dynasty_title_names = no
+				}
 				b_barony0407a = { }
 				b_barony0407b = { }
 				b_barony0407c = { }
@@ -7549,8 +7657,11 @@ e_empire0465 = {
 				color={ 89 105 219 }
 				color2={ 255 255 255 }
 				
+				holy_site = slavic_pagan
 				
-				b_barony0486` = { }
+				b_barony0486` = {
+				dynasty_title_names = no
+				}
 				b_barony0486a = { }
 				b_barony0486b = { }
 				b_barony0486c = { }
@@ -7726,8 +7837,15 @@ e_empire0465 = {
 				color={ 146 171 74 }
 				color2={ 255 255 255 }
 				
+				holy_site = slavic_pagan
+				holy_site = bogomilist
+				holy_site = monothelite
+				holy_site = paulician
+				holy_site = orthodox
 				
-				b_barony0449` = { }
+				b_barony0449` = {
+				dynasty_title_names = no
+				}
 				b_barony0449a = { }
 				b_barony0449b = { }
 				b_barony0449c = { }
@@ -7824,8 +7942,14 @@ e_empire0465 = {
 				color={ 93 150 56 }
 				color2={ 255 255 255 }
 				
+				holy_site = bogomilist
+				holy_site = monothelite
+				holy_site = paulician
+				holy_site = orthodox
 				
-				b_barony0518` = { }
+				b_barony0518` = {
+				dynasty_title_names = no
+				}
 				b_barony0518a = { }
 				b_barony0518b = { }
 				b_barony0518c = { }
@@ -8370,8 +8494,14 @@ e_empire0489 = {
 				color={ 103 120 56 }
 				color2={ 255 255 255 }
 				
+				holy_site = zoroastrian
+				holy_site = khurmazta
+				holy_site = mazdaki
+				holy_site = west_african_pagan
 				
-				b_barony0551` = { }
+				b_barony0551` = {
+				dynasty_title_names = no
+				}
 				b_barony0551a = { }
 				b_barony0551b = { }
 				b_barony0551c = { }
@@ -8826,8 +8956,11 @@ e_empire0506 = {
 				color={ 160 76 185 }
 				color2={ 255 255 255 }
 				
+				holy_site = hellenic_pagan
 				
-				b_barony0499` = { }
+				b_barony0499` = {
+				dynasty_title_names = no
+				}
 				b_barony0499a = { }
 				b_barony0499b = { }
 				b_barony0499c = { }
@@ -8854,8 +8987,11 @@ e_empire0506 = {
 				color={ 157 79 201 }
 				color2={ 255 255 255 }
 				
+				holy_site = hellenic_pagan
 				
-				b_barony0473` = { }
+				b_barony0473` = {
+				dynasty_title_names = no
+				}
 				b_barony0473a = { }
 				b_barony0473b = { }
 				b_barony0473c = { }
@@ -8884,8 +9020,28 @@ e_empire0506 = {
 				color={ 31 157 81 }
 				color2={ 255 255 255 }
 				
+				holy_site = cathar
+				holy_site = lollard
+				holy_site = waldensian
+				holy_site = bogomilist
+				holy_site = monophysite
+				holy_site = monothelite
+				holy_site = paulician
+				holy_site = kharijite
+				holy_site = zikri
+				holy_site = karaite
+				holy_site = samaritan
+				holy_site = jewish
+				holy_site = orthodox
+				holy_site = sunni
+				holy_site = yazidi
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = miaphysite
 				
-				b_barony0532` = { }
+				b_barony0532` = {
+				dynasty_title_names = no
+				}
 				b_barony0532a = { }
 				b_barony0532b = { }
 				b_barony0532c = { }
@@ -8928,8 +9084,15 @@ e_empire0506 = {
 				color={ 184 149 132 }
 				color2={ 255 255 255 }
 				
+				holy_site = slavic_pagan
+				holy_site = bogomilist
+				holy_site = monothelite
+				holy_site = paulician
+				holy_site = orthodox
 				
-				b_barony0511` = { }
+				b_barony0511` = {
+				dynasty_title_names = no
+				}
 				b_barony0511a = { }
 				b_barony0511b = { }
 				b_barony0511c = { }
@@ -9674,8 +9837,14 @@ e_empire0552 = {
 				color={ 175 116 157 }
 				color2={ 255 255 255 }
 				
+				holy_site = zoroastrian
+				holy_site = khurmazta
+				holy_site = mazdaki
+				holy_site = west_african_pagan
 				
-				b_barony0462` = { }
+				b_barony0462` = {
+				dynasty_title_names = no
+				}
 				b_barony0462a = { }
 				b_barony0462b = { }
 				b_barony0462c = { }
@@ -10184,8 +10353,18 @@ e_empire0562 = {
 				color={ 40 173 46 }
 				color2={ 255 255 255 }
 				
+				holy_site = shiite
+				holy_site = kharijite
+				holy_site = qarmatian
+				holy_site = zikri
+				holy_site = hurufi
+				holy_site = druze
+				holy_site = sunni
+				holy_site = yazidi
 				
-				b_barony0562` = { }
+				b_barony0562` = {
+				dynasty_title_names = no
+				}
 				b_barony0562a = { }
 				b_barony0562b = { }
 				b_barony0562c = { }
@@ -11515,8 +11694,11 @@ e_empire0576 = {
 				color={ 226 212 23 }
 				color2={ 255 255 255 }
 				
+				holy_site = jain
 				
-				b_barony0658` = { }
+				b_barony0658` = {
+				dynasty_title_names = no
+				}
 				b_barony0658a = { }
 				b_barony0658b = { }
 				b_barony0658c = { }
@@ -11769,8 +11951,13 @@ e_empire0576 = {
 				color={ 119 88 61 }
 				color2={ 255 255 255 }
 				
+				holy_site = karaite
+				holy_site = samaritan
+				holy_site = jewish
 				
-				b_barony0635` = { }
+				b_barony0635` = {
+				dynasty_title_names = no
+				}
 				b_barony0635a = { }
 				b_barony0635b = { }
 				b_barony0635c = { }
@@ -11839,8 +12026,11 @@ e_empire0576 = {
 				color={ 77 84 45 }
 				color2={ 255 255 255 }
 				
+				holy_site = jain
 				
-				b_barony0692` = { }
+				b_barony0692` = {
+				dynasty_title_names = no
+				}
 				b_barony0692a = { }
 				b_barony0692b = { }
 				b_barony0692c = { }
@@ -12234,8 +12424,18 @@ e_empire0621 = {
 				color={ 159 174 132 }
 				color2={ 255 255 255 }
 				
+				holy_site = shiite
+				holy_site = kharijite
+				holy_site = qarmatian
+				holy_site = zikri
+				holy_site = hurufi
+				holy_site = druze
+				holy_site = sunni
+				holy_site = yazidi
 				
-				b_barony0743` = { }
+				b_barony0743` = {
+				dynasty_title_names = no
+				}
 				b_barony0743a = { }
 				b_barony0743b = { }
 				b_barony0743c = { }
@@ -12269,8 +12469,14 @@ e_empire0621 = {
 				color={ 177 193 83 }
 				color2={ 255 255 255 }
 				
+				holy_site = shiite
+				holy_site = qarmatian
+				holy_site = hurufi
+				holy_site = druze
 				
-				b_barony0649` = { }
+				b_barony0649` = {
+				dynasty_title_names = no
+				}
 				b_barony0649a = { }
 				b_barony0649b = { }
 				b_barony0649c = { }
@@ -12604,8 +12810,18 @@ e_empire0688 = {
 				color={ 25 155 73 }
 				color2={ 255 255 255 }
 				
+				holy_site = shiite
+				holy_site = qarmatian
+				holy_site = hurufi
+				holy_site = druze
+				holy_site = karaite
+				holy_site = samaritan
+				holy_site = jewish
+				holy_site = west_african_pagan
 				
-				b_barony0752` = { }
+				b_barony0752` = {
+				dynasty_title_names = no
+				}
 				b_barony0752a = { }
 				b_barony0752b = { }
 				b_barony0752c = { }
@@ -13810,8 +14026,11 @@ e_empire0753 = {
 				color={ 208 177 48 }
 				color2={ 255 255 255 }
 				
+				holy_site = zun_pagan
 				
-				b_barony0912` = { }
+				b_barony0912` = {
+				dynasty_title_names = no
+				}
 				b_barony0912a = { }
 				b_barony0912b = { }
 				b_barony0912c = { }
@@ -14008,8 +14227,11 @@ e_empire0753 = {
 				color={ 221 218 54 }
 				color2={ 255 255 255 }
 				
+				holy_site = zun_pagan
 				
-				b_barony0945` = { }
+				b_barony0945` = {
+				dynasty_title_names = no
+				}
 				b_barony0945a = { }
 				b_barony0945b = { }
 				b_barony0945c = { }
@@ -14975,8 +15197,11 @@ e_empire0753 = {
 				color={ 208 136 35 }
 				color2={ 255 255 255 }
 				
+				holy_site = zun_pagan
 				
-				b_barony1265` = { }
+				b_barony1265` = {
+				dynasty_title_names = no
+				}
 				b_barony1265a = { }
 				b_barony1265b = { }
 				b_barony1265c = { }
@@ -15024,8 +15249,11 @@ e_empire0753 = {
 				color={ 224 103 28 }
 				color2={ 255 255 255 }
 				
+				holy_site = zun_pagan
 				
-				b_barony1294` = { }
+				b_barony1294` = {
+				dynasty_title_names = no
+				}
 				b_barony1294a = { }
 				b_barony1294b = { }
 				b_barony1294c = { }
@@ -15366,8 +15594,13 @@ e_empire0815 = {
 				color={ 154 175 95 }
 				color2={ 255 255 255 }
 				
+				holy_site = karaite
+				holy_site = samaritan
+				holy_site = jewish
 				
-				b_barony0786` = { }
+				b_barony0786` = {
+				dynasty_title_names = no
+				}
 				b_barony0786a = { }
 				b_barony0786b = { }
 				b_barony0786c = { }
@@ -15473,8 +15706,11 @@ e_empire0815 = {
 				color={ 108 55 95 }
 				color2={ 255 255 255 }
 				
+				holy_site = hindu
 				
-				b_barony0777` = { }
+				b_barony0777` = {
+				dynasty_title_names = no
+				}
 				b_barony0777a = { }
 				b_barony0777b = { }
 				b_barony0777c = { }
@@ -15531,8 +15767,19 @@ e_empire0815 = {
 				color={ 235 176 93 }
 				color2={ 255 255 255 }
 				
+				holy_site = hindu
+				holy_site = shiite
+				holy_site = kharijite
+				holy_site = qarmatian
+				holy_site = zikri
+				holy_site = hurufi
+				holy_site = druze
+				holy_site = sunni
+				holy_site = yazidi
 				
-				b_barony0818` = { }
+				b_barony0818` = {
+				dynasty_title_names = no
+				}
 				b_barony0818a = { }
 				b_barony0818b = { }
 				b_barony0818c = { }
@@ -15710,8 +15957,11 @@ e_empire0820 = {
 				color={ 199 109 40 }
 				color2={ 255 255 255 }
 				
+				holy_site = jain
 				
-				b_barony0766` = { }
+				b_barony0766` = {
+				dynasty_title_names = no
+				}
 				b_barony0766a = { }
 				b_barony0766b = { }
 				b_barony0766c = { }
@@ -16061,8 +16311,11 @@ e_empire0820 = {
 				color={ 158 107 40 }
 				color2={ 255 255 255 }
 				
+				holy_site = jain
 				
-				b_barony0759` = { }
+				b_barony0759` = {
+				dynasty_title_names = no
+				}
 				b_barony0759a = { }
 				b_barony0759b = { }
 				b_barony0759c = { }
@@ -16576,8 +16829,11 @@ e_empire0820 = {
 				color={ 224 135 8 }
 				color2={ 255 255 255 }
 				
+				holy_site = jain
 				
-				b_barony0789` = { }
+				b_barony0789` = {
+				dynasty_title_names = no
+				}
 				b_barony0789a = { }
 				b_barony0789b = { }
 				b_barony0789c = { }
@@ -17251,8 +17507,11 @@ e_empire0955 = {
 				color={ 102 62 34 }
 				color2={ 255 255 255 }
 				
+				holy_site = bon
 				
-				b_barony0918` = { }
+				b_barony0918` = {
+				dynasty_title_names = no
+				}
 				b_barony0918a = { }
 				b_barony0918b = { }
 				b_barony0918c = { }
@@ -17523,8 +17782,11 @@ e_empire0976 = {
 				color={ 221 98 30 }
 				color2={ 255 255 255 }
 				
+				holy_site = hindu
 				
-				b_barony1005` = { }
+				b_barony1005` = {
+				dynasty_title_names = no
+				}
 				b_barony1005a = { }
 				b_barony1005b = { }
 				b_barony1005c = { }
@@ -17621,8 +17883,14 @@ e_empire0976 = {
 				color={ 221 51 52 }
 				color2={ 255 255 255 }
 				
+				holy_site = kharijite
+				holy_site = zikri
+				holy_site = sunni
+				holy_site = yazidi
 				
-				b_barony0976` = { }
+				b_barony0976` = {
+				dynasty_title_names = no
+				}
 				b_barony0976a = { }
 				b_barony0976b = { }
 				b_barony0976c = { }
@@ -17674,8 +17942,12 @@ e_empire0982 = {
 				color={ 114 54 27 }
 				color2={ 255 255 255 }
 				
+				holy_site = hindu
+				holy_site = buddhist
 				
-				b_barony0851` = { }
+				b_barony0851` = {
+				dynasty_title_names = no
+				}
 				b_barony0851a = { }
 				b_barony0851b = { }
 				b_barony0851c = { }
@@ -18676,8 +18948,12 @@ e_empire0982 = {
 				color={ 249 45 45 }
 				color2={ 255 255 255 }
 				
+				holy_site = buddhist
+				holy_site = bon
 				
-				b_barony0990` = { }
+				b_barony0990` = {
+				dynasty_title_names = no
+				}
 				b_barony0990a = { }
 				b_barony0990b = { }
 				b_barony0990c = { }
@@ -18746,8 +19022,12 @@ e_empire0982 = {
 				color={ 197 85 53 }
 				color2={ 255 255 255 }
 				
+				holy_site = hindu
+				holy_site = buddhist
 				
-				b_barony0967` = { }
+				b_barony0967` = {
+				dynasty_title_names = no
+				}
 				b_barony0967a = { }
 				b_barony0967b = { }
 				b_barony0967c = { }
@@ -19409,8 +19689,11 @@ e_empire0994 = {
 				color={ 206 195 180 }
 				color2={ 255 255 255 }
 				
+				holy_site = bon
 				
-				b_barony1076` = { }
+				b_barony1076` = {
+				dynasty_title_names = no
+				}
 				b_barony1076a = { }
 				b_barony1076b = { }
 				b_barony1076c = { }
@@ -19974,8 +20257,11 @@ e_empire1036 = {
 				color={ 188 211 143 }
 				color2={ 255 255 255 }
 				
+				holy_site = bon
 				
-				b_barony1053` = { }
+				b_barony1053` = {
+				dynasty_title_names = no
+				}
 				b_barony1053a = { }
 				b_barony1053b = { }
 				b_barony1053c = { }
@@ -20378,8 +20664,11 @@ e_empire1138 = {
 				color={ 216 154 50 }
 				color2={ 255 255 255 }
 				
+				holy_site = taoist
 				
-				b_barony1243` = { }
+				b_barony1243` = {
+				dynasty_title_names = no
+				}
 				b_barony1243a = { }
 				b_barony1243b = { }
 				b_barony1243c = { }
@@ -21659,8 +21948,17 @@ e_empire1171 = {
 				color={ 201 79 31 }
 				color2={ 255 255 255 }
 				
+				holy_site = cathar
+				holy_site = lollard
+				holy_site = waldensian
+				holy_site = monophysite
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = miaphysite
 				
-				b_barony1165` = { }
+				b_barony1165` = {
+				dynasty_title_names = no
+				}
 				b_barony1165a = { }
 				b_barony1165b = { }
 				b_barony1165c = { }
@@ -22036,8 +22334,11 @@ e_empire1171 = {
 				color={ 197 42 66 }
 				color2={ 255 255 255 }
 				
+				holy_site = taoist
 				
-				b_barony1321` = { }
+				b_barony1321` = {
+				dynasty_title_names = no
+				}
 				b_barony1321a = { }
 				b_barony1321b = { }
 				b_barony1321c = { }
@@ -22743,8 +23044,11 @@ e_empire1261 = {
 				color={ 239 109 30 }
 				color2={ 255 255 255 }
 				
+				holy_site = bon
 				
-				b_barony1253` = { }
+				b_barony1253` = {
+				dynasty_title_names = no
+				}
 				b_barony1253a = { }
 				b_barony1253b = { }
 				b_barony1253c = { }
@@ -24540,7 +24844,7 @@ e_empire1414 = {
 		
 		capital = 1468
 		
-		culture = uncultured_swine
+		culture = jurchen
 		
 		d_duchy1450 = {
 			color={ 94 168 119 }
@@ -24601,8 +24905,11 @@ e_empire1414 = {
 				color={ 145 156 77 }
 				color2={ 255 255 255 }
 				
+				holy_site = tengri_pagan
 				
-				b_barony1491` = { }
+				b_barony1491` = {
+				dynasty_title_names = no
+				}
 				b_barony1491a = { }
 				b_barony1491b = { }
 				b_barony1491c = { }
@@ -24901,7 +25208,7 @@ e_empire1414 = {
 		
 		capital = 1559
 		
-		culture = uncultured_swine
+		culture = jurchen
 		
 		d_duchy1510 = {
 			color={ 131 176 124 }
@@ -25071,7 +25378,7 @@ e_empire1414 = {
 		
 		capital = 1582
 		
-		culture = uncultured_swine
+		culture = jurchen
 		
 		d_duchy1582 = {
 			color={ 106 140 120 }
@@ -25357,7 +25664,7 @@ e_empire1444 = {
 		
 		capital = 1386
 		
-		culture = uncultured_swine
+		culture = jurchen
 		
 		d_duchy1353 = {
 			color={ 133 145 70 }
@@ -25786,8 +26093,11 @@ e_empire1444 = {
 				color={ 164 44 31 }
 				color2={ 255 255 255 }
 				
+				holy_site = taoist
 				
-				b_barony1336` = { }
+				b_barony1336` = {
+				dynasty_title_names = no
+				}
 				b_barony1336a = { }
 				b_barony1336b = { }
 				b_barony1336c = { }
@@ -26003,8 +26313,12 @@ e_empire1444 = {
 				color={ 175 91 39 }
 				color2={ 255 255 255 }
 				
+				holy_site = buddhist
+				holy_site = taoist
 				
-				b_barony1446` = { }
+				b_barony1446` = {
+				dynasty_title_names = no
+				}
 				b_barony1446a = { }
 				b_barony1446b = { }
 				b_barony1446c = { }
@@ -26138,6 +26452,7 @@ e_empire1444 = {
 				color={ 186 95 37 }
 				color2={ 255 255 255 }
 				
+				holy_site = tengri_pagan
 				holy_site = baltic_pagan
 				
 				b_barony1505` = {
@@ -26331,6 +26646,7 @@ e_empire1482 = {
 				color={ 200 183 81 }
 				color2={ 255 255 255 }
 				
+				holy_site = tengri_pagan
 				holy_site = baltic_pagan
 				
 				b_barony1388` = {
@@ -27089,8 +27405,11 @@ e_empire1497 = {
 				color={ 168 195 90 }
 				color2={ 255 255 255 }
 				
+				holy_site = zun_pagan
 				
-				b_barony1483` = { }
+				b_barony1483` = {
+				dynasty_title_names = no
+				}
 				b_barony1483a = { }
 				b_barony1483b = { }
 				b_barony1483c = { }
@@ -27416,6 +27735,7 @@ e_empire1497 = {
 				color={ 139 105 213 }
 				color2={ 255 255 255 }
 				
+				holy_site = tengri_pagan
 				holy_site = baltic_pagan
 				
 				b_barony1599` = {
@@ -28148,8 +28468,11 @@ e_empire1597 = {
 				color={ 186 182 66 }
 				color2={ 255 255 255 }
 				
+				holy_site = tengri_pagan
 				
-				b_barony1593` = { }
+				b_barony1593` = {
+				dynasty_title_names = no
+				}
 				b_barony1593a = { }
 				b_barony1593b = { }
 				b_barony1593c = { }
@@ -28310,7 +28633,7 @@ e_empire1602 = {
 		
 		capital = 1588
 		
-		culture = uncultured_swine
+		culture = jurchen
 		
 		d_duchy1588 = {
 			color={ 95 123 90 }
@@ -28394,8 +28717,12 @@ e_empire1602 = {
 				color={ 126 102 224 }
 				color2={ 255 255 255 }
 				
+				holy_site = buddhist
+				holy_site = taoist
 				
-				b_barony1603` = { }
+				b_barony1603` = {
+				dynasty_title_names = no
+				}
 				b_barony1603a = { }
 				b_barony1603b = { }
 				b_barony1603c = { }
