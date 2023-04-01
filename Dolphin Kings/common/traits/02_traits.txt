@@ -7227,15 +7227,17 @@ zodiac_pisces = {
 			has_religion_feature = religion_astrology
 		}
 	}
-	diplomacy = -1
+	intrigue = -1
 	dynasty_opinion = 10
+	monthly_character_piety = 0.1
+	church_opinion = 5
 
 	random = no	
-	opposite_opinion = -5
-	same_opinion = 10
+	opposite_opinion = 5
+	same_opinion = 20
 
-	ai_greed = -40
-	ai_ambition = -20
+	ai_greed = 10
+	ai_ambition = 20
 	ai_honor = 40
 }
 
