@@ -23,22 +23,6 @@ bm_wp = {
 		}
 	}
 	selectable_character = {
-		id = 113325 #Seaworld
-		age = 36
-		name = ERA_CHAR_NAME_113325
-		title = c_province0003
-		title_name = c_province0003	
-		dlc = "The Old Gods"			
-		character = {
-			dna = fxqqqmocxyn
-			properties = v0ge0k
-			religion="zun_pagan"
-			culture="frankish"
-			government = feudal_government
-			dynasty=100780
-		}
-	}
-	selectable_character = {
 		id = 104565 #Aegean Sea
 		age = 39
 		name = ERA_CHAR_NAME_104565
@@ -50,6 +34,22 @@ bm_wp = {
 			properties = c00j0j
 			religion="hellenic_pagan"
 			culture="greek"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 113325 #Seaworld
+		age = 36
+		name = ERA_CHAR_NAME_113325
+		title = c_province0003
+		title_name = c_province0003	
+		dlc = "The Old Gods"			
+		character = {
+			dna = fxqqqmocxyn
+			properties = v0ge0k
+			religion="zun_pagan"
+			culture="frankish"
 			government = feudal_government
 			dynasty=100780
 		}
