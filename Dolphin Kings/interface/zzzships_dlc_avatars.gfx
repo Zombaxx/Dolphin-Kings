@@ -3,18 +3,18 @@ objectTypes = {
 	pdxmesh = {
 		name = "muslimgfx_GALLEYS"
 		file = "gfx\models\cruiser.mesh"
-		scale = 2.0f	
+		scale = 0.5f	
 		}
 		
 	pdxmesh = {
 		name = "indiangfx_GALLEYS"
 		file = "gfx\models\cruiser.mesh"
-		scale = 2.0f		
+		scale = 0.5f		
 		}	
 		
 	pdxmesh = {
 		name = "mesoamericangfx_GALLEYS"
 		file = "gfx\models\cruiser.mesh"
-		scale = 2.0f	
+		scale = 0.5f	
 	}
 }
