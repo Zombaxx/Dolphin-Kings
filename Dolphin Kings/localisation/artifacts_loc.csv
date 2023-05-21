@@ -8,3 +8,85 @@ mech_sword_2_desc;A large, deadly mechanical weapon forged from ancient steel an
 EVTDESCsuit_events.14;While leading your army through [Root.Location.GetName], your foragers come across a mysterious object. Glowing, yet at the same time rusted, it took several men to lift. On further inspection, you realize it is an ancient weapon.;;;x
 EVTAsuit_events.14;I'll take that!;;;x
 EVTBsuit_events.14;Sell the scrap;;;x
+
+dk_chain;Chain of a Sovereign;;;x
+dk_chain_desc;A metal, curious chain encrusted with diamonds. It is engraved in late humanic "PRE".;;;x 
+dk_beachball;Rainbow Pufferfish;;;x
+dk_beachball_desc;A synthetic pufferfish that when inflated floats in an amusing manner.;;;x 
+dk_seaweed;Seawig;;;x
+dk_seaweed_desc;A clod of seaweed that is marvelous.;;;x 
+sponge;Seawig;;;x
+sponge_desc;A sponge of notable quality..;;;x 
+dk_flipper;Derson Raindisk;;;x
+dk_flipper_desc;A rainbow disc that must have fell from the mists of heaven. It has a naked dolphin, suggesting it came from prehistory.;;;x 
+orca_cd;Orcan Raindisk;;;x
+orca_cd_desc;A rainbow disc that must have fell from the mists of heaven. It has a naked orca, suggesting it came from prehistory.;;;x 
+dk_helmet;Dersonal Helmet;;;x
+dk_helmet_desc;A cage like helmet that must have been used by warriors.;;;x 
+
+
+EVTDESCdk_artifact_events.01;A speckle in the ultrasonic mist of [Root.Location.GetName], interests a group of youngers. They pick up a scrap dolphin - a dumbfounding artifact made from geaming diamonds. On the back mysterious enscriptions have been molded inwards.;;;x
+EVTAdk_artifact_events.01;Its mine!;;;x
+EVTBdk_artifact_events.01;Submit it to further study;;;x
+EVTCdk_artifact_events.01;Cursed Dolphin ...;;;x
+EVTDESCdk_artifact_events.02;Your archivists conclude it belonged to a great river-dolphin King of Pre who lorded over humans and crocodiles in the Nile estuary. Maybe near the human city of Memphis.;;;x
+EVTAdk_artifact_events.02;Ancient times!;;;x
+EVTDESCdk_artifact_events.03;Your archivists conclude that belonged to River Dolphin King Adolphus who lived in the Northern sea estuary and participated in many wars. PRE standing for Porpoise Regal Empire.;;;x
+EVTAdk_artifact_events.03;We will eat some fermented cod in his honor;;;x
+EVTDESCdk_artifact_events.04;Your archivists conclude that it belonged to a young Dolphin king who was involved in a feud with a Great White named Yogurty. He one day could not shake off the shark and was deeply missed.;;;x
+EVTAdk_artifact_events.04;Nature is cruel.;;;x
+EVTDESCdk_artifact_events.05;Your archivists suggest it belonged to the Western Underwater kingdom. The 16th dynasty collapsed due to overdrinking and lack of rabbit livers to absorb the excess. This trinket in your treasury should smoothern your house's image.;;;x
+EVTAdk_artifact_events.05;An inspiration!;;;x
+EVTBdk_artifact_events.05;We should stock the larder with liver pate...;;;x
+EVTDESCdk_artifact_events.06;Your archivists have lost the chain. They were researching its composition and dropped it into an oceanic vent.;;;x
+EVTAdk_artifact_events.06;Oh cuttlefish!;;;x
+EVTBdk_artifact_events.06;Go get it!;;;x
+
+EVTDESCdk_artifact_events.07;This was a spot in the upper reaches, spot by a kelp farmer, a box blotting out the sun - and it wasn't a boxfish. On prying it released an pufferfish of unexplainable material.;;;x
+EVTAdk_artifact_events.07;Blow it up!;;;x
+EVTBdk_artifact_events.07;Tear it to shreds;;;x
+EVTDESCdk_artifact_events.08;________ wants to bounce the rainbow pufferfish together!;;;x
+EVTAdk_artifact_events.08;Let's go!;;;x
+EVTBdk_artifact_events.08;I must decline;;;x
+EVTDESCdk_artifact_events.09;Regular games played with the rainbow pufferfish has improved bonds between [target_played_beachball.GetTitledName] and [target_played_beachball.GetTitledName].;;;x
+EVTAdk_artifact_events.09;The memories are the treasure.;;;x
+EVTDESCdk_artifact_events.10;Befluttered - a search party has discovered a strain of seaweed on the [Root.Location.GetName] seabed that produces high quality fibers. It was discovered by accident as it suctions deeply on skin, leaving scars ... but wearing could be a new fashion.;;;x
+EVTAdk_artifact_events.10;Give me the prototype!;;;x
+EVTBdk_artifact_events.10;Industrious enterprise!;;;x
+EVTCdk_artifact_events.10;Don't let their noodly appendages near myself.;;;x
+EVTDESCdk_artifact_events.11;On removing the seaweed one evening a clumsy retainer let its foamy mane slap your eye which let to "discoloring" and what you insist is scarring. A tense moment.;;;x
+EVTAdk_artifact_events.11;Dismiss your retainer.;;;x
+EVTBdk_artifact_events.11;A new look!;;;x
+EVTCdk_artifact_events.11;Execute your retainer.;;;x
+EVTDESCdk_artifact_events.12;You have noticed that the seaweed occasionally stations itself directly on your blowhole. You paid it no mind, until one day on exhaling you blasted it into the ether, nobody knows where it went and you are left upset at the loss of your article.;;;x
+EVTAdk_artifact_events.12;Oh Cuttlefish!;;;x
+EVTDESCdk_artifact_events.13;One day, while rollicking you feel a instinctual dread when a splurge of seaweed falls on your head. Against the odds it feels most comfortable and your retinue have confessed it looks most becoming on their [Root.GetTitledName].;;;x
+EVTAdk_artifact_events.13;Thank [Root.Religion.GetHighGodName];;;x
+EVTBdk_artifact_events.13;Definately not!;;;x
+
+EVTDESCdk_artifact_events.14;A sponge is found! Cast by a humpbacked dolphin it used to be a formidable digging option by our ancestors. Nowdays it has considerable revevance for the religions of the [Root.Religion.GetScriptureName].;;;x
+EVTAdk_artifact_events.14;Thank [Root.Religion.GetHighGodName].;;;x
+EVTBdk_artifact_events.14;I'd rather use it to clean the sandcastle.;;;x
+
+
+EVTDESCdk_artifact_events.15;A little seaweed scrubber has found a curious rainbow circle beaming radient colors. Your leading scientists speculate its shades offer messages from [Root.Religion.GetRandomGodName]. On its flip side, a dolphin is illustrated with an oddly tortured expression jumps from the water.;;;x
+EVTAdk_artifact_events.15;It radiates strength.;;;x
+EVTBdk_artifact_events.15;Unpackage it.;;;x
+EVTCdk_artifact_events.15;It could make a fine plaything!;;;x
+
+EVTDESCdk_artifact_events.16;A disk of illuminating colors has been recovered from mythical orca feeding grounds. Your leading antiquarians trace each color with a psalm of  _______. On its flip side, a savage Orca illustrated with tortured expression jumps from the water.;;;x
+EVTAdk_artifact_events.16;It radiates strength.;;;x
+EVTBdk_artifact_events.16;Unpackage it.;;;x
+EVTCdk_artifact_events.16;It could make a fine plaything!;;;x
+
+EVTDESCdk_artifact_events.17;A disk of illuminating colors has been recovered from mythical orca feeding grounds. Your leading antiquarians trace each color with a psalm of  _______. On its flip side, a savage Orca illustrated with tortured expression jumps from the water.;;;x
+EVTAdk_artifact_events.17;It radiates strength.;;;x
+EVTBdk_artifact_events.17;Unpackage it.;;;x
+EVTCdk_artifact_events.17;It could make a fine plaything!;;;x
+
+EVTDESCdk_artifact_events.18;Upon unpacking the uncanny orca shrivels into darkness. The Disk remains!;;;x
+EVTAdk_artifact_events.18;Thank [Root.Religion.GetHighGodName].;;;x
+
+EVTDESCdk_artifact_events.19;A fisher aspying a delicious coral miner fish was stunned when they grouped together to toss a helmet of unknown craftmenship. On the sides of the visor is a picture of an unclothed dolphin;;;x
+EVTAdk_artifact_events.19; A trophy.;;;x
+EVTBdk_artifact_events.19;I dont need this supersitutious item.;;;x
