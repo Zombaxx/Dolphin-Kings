@@ -1,0 +1,425 @@
+namespace = dka
+character_event = {
+id = dka.1
+desc = "EVTDESCdk_artifact_events.01"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	mean_time_to_happen = {
+		months = 70
+	}
+	trigger = {
+		OR = {
+			tier = DUKE
+			tier = KING
+			tier = EMPEROR
+			ai = no
+		}
+		NOT = { has_character_flag = artifact_obtained }
+	}
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.01
+	random_list = {
+                    25 = { character_event = { id = dka.2 }}
+					25 = { character_event = { id = dka.3 }}
+					25 = { character_event = { id = dka.4 }}
+					25 = { character_event = { id = dka.5 }}
+	
+	}
+	}
+	option = {
+		name = EVTBdk_artifact_events.01
+			random_list = {
+                    25 = { character_event = id = dka.6 }
+					25 = { economy_techpoints = 50 }
+					25 = { economy_techpoints = 100 }
+					25 = { economy_techpoints = 150 }
+	
+	}
+
+
+	}
+		option = {
+		name = EVTCdk_artifact_events.01
+		add_trait = proud
+		piety = 20
+	}
+
+}
+
+character_event = {
+id = dka.2
+desc = "EVTDESCdk_artifact_events.02"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.02
+	artifact_obtained = dk_chain
+}
+}
+
+character_event = {
+id = dka.3
+desc = "EVTDESCdk_artifact_events.03"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.03
+	artifact_obtained = dk_chain
+	health = 0.10
+}
+}
+
+character_event = {
+id = dka.4
+desc = "EVTDESCdk_artifact_events.04"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.04
+		artifact_obtained = dk_chain
+}
+}
+
+character_event = {
+id = dka.5
+desc = "EVTDESCdk_artifact_events.05"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.05
+		artifact_obtained = dk_chain
+		piety = 10
+}
+	option = {
+		name = EVTBdk_artifact_events.05
+		artifact_obtained = dk_chain
+		random_list = { 
+		80 = { }
+		10 = { add_trait = gluttonous }
+		10 = { health = 0.10 }
+		}
+}
+}
+
+character_event = {
+id = dka.6
+desc = "EVTDESCdk_artifact_events.06"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.06
+		
+		piety = 10
+}
+	option = {
+		name = EVTBdk_artifact_events.06
+		trigger = { trait = cruel } 
+		artifact_obtained = dk_chain
+		random_list = { 
+		33 = { }
+		33 = { artifact_obtained = dk_chain }
+		34 = { random_voter = { limit = { ai = yes } add_trait = scarred } }
+		}
+}
+}
+
+#pufferfish
+
+character_event = {
+id = dka.7
+desc = "EVTDESCdk_artifact_events.07"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	mean_time_to_happen = {
+		months = 70
+	}
+	trigger = {
+		OR = {
+			tier = DUKE
+			tier = KING
+			tier = EMPEROR
+			ai = no
+		}
+		NOT = { has_character_flag = artifact_obtained }
+	}
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.07
+		random_dynasty_member = { limit = { is_ill = no } } character_event = { id = dka.8 }  
+	}
+	option = {
+		name = EVTBdk_artifact_events.07
+	}	
+}
+
+#semi bounce event
+character_event = {
+id = dka.8
+desc = "EVTDESCdk_artifact_events.8"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	option = {
+		name = EVTAdk_artifact_events.08
+		FROM = {  character_event = { id = dka.9 days = 14 random = 60 }  } 
+}
+	option = {
+		name = EVTBdk_artifact_events.08
+		trigger = { opinion = {
+    who = ROOT
+    value >= 25
+} }
+}
+}
+
+character_event = {
+id = dka.9
+desc = "EVTDESCdk_artifact_events.09"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	option = {
+		name = EVTAdk_artifact_events.09
+		opinion = {
+    name = opinion_amused
+    who = ROOT
+    years = 5
+    multiplier = 2
+}
+		reverse_opinion = {
+    name = opinion_amused
+    who = ROOT
+    years = 5
+    multiplier = 2
+}
+}
+}
+
+character_event = {
+id = dka.10
+desc = "EVTDESCdk_artifact_events.10"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	mean_time_to_happen = {
+		months = 70
+	}
+	trigger = {
+		OR = {
+			tier = DUKE
+			tier = KING
+			tier = EMPEROR
+			ai = no
+		}
+		NOT = { has_character_flag = artifact_obtained }
+	}
+	immediate = {
+		set_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.10
+	artifact_obtained = dk_seaweed
+				random_list = {
+                    20 = { character_event = { id = dka.11 days = 300 random = 600 } }
+					20 = { character_event = { id = dka.12 days = 300 random = 600 } }
+					60 = {  }
+	
+		}
+	}
+	
+	option = {
+		name = EVTBdk_artifact_events.10
+			random_list = {
+                    25 = { gold = 20 }
+					25 = { stewardship = 1 }
+					25 = { random_demesne_province = { create_tradepost } }
+					25 = { gold = 10 }
+	
+		}
+	}
+		option = {
+		name = EVTCdk_artifact_events.10
+		piety = 10
+	}
+
+}
+
+character_event = {
+id = dka.11
+desc = "EVTDESCdk_artifact_events.11"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	mean_time_to_happen = {
+		months = 70
+	}
+	trigger = {
+		OR = {
+			tier = DUKE
+			tier = KING
+			tier = EMPEROR
+			ai = no
+		}
+		NOT = { has_character_flag = artifact_obtained }
+	}
+	option = {
+		name = EVTAdk_artifact_events.11
+	prestige = -10
+	trait = scarred
+	}
+	option = {
+		name = EVTBdk_artifact_events.11
+			random_list = {
+                    50 = { prestige = 20 }
+					50 = { prestige = -20 }
+	
+		}
+		trait = scarred
+	}
+		option = {
+		name = EVTCdk_artifact_events.11
+		piety = -10
+		trait = scarred
+		add_trait = cruel
+	}
+
+}
+
+character_event = {
+id = dka.12
+desc = "EVTDESCdk_artifact_events.12"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	mean_time_to_happen = {
+		months = 70
+	}
+	trigger = {
+		OR = {
+			tier = DUKE
+			tier = KING
+			tier = EMPEROR
+			ai = no
+		}
+		NOT = { has_character_flag = artifact_obtained }
+	}
+	immediate = {
+		clr_character_flag = artifact_obtained
+	}
+	option = {
+		name = EVTAdk_artifact_events.12
+	random_character = { character_event = { id = dka.12 } }
+	}
+}
+
+#seaweed fired into the ocean
+character_event = {
+id = dka.13
+desc = "EVTDESCdk_artifact_events.13"
+picture = GFX_rival_rulers_cm
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	option = {
+		name = EVTAdk_artifact_events.13
+		transfer_artifact = {
+    from = PREV
+    to = ROOT
+}
+}
+	option = {
+		name = EVTBdk_artifact_events.13
+random_character = { character_event = { id = dka.13 } }
+}
+}
