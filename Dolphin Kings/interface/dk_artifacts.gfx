@@ -1,0 +1,22 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_dk_chain"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\dk_chain.dds"
+	}
+	spriteType = {
+		name = "GFX_dk_flipper"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\dk_flipper.dds"
+	}
+	spriteType = {
+		name = "GFX_dk_helmet"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\dk_helmet.dds"
+	}
+	spriteType = {
+		name = "GFX_dk_seaweed"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\dk_seaweed.dds"
+	}
+		spriteType = {
+		name = "GFX_dk_beachball"
+		texturefile = "gfx\\interface\\inventory\\artifacts\\dk_beachball.dds"
+	}
+}
