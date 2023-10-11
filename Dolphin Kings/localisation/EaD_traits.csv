@@ -1,0 +1,27 @@
+#Traits
+elf;Turtle;;;;;;;;;;;;;x
+elf_desc;Reptiles with a bony or cartilaginous shell that shields them from predators. They possess strong, webbed feet for swimming in aquatic environments and a keen ability to retract their head and limbs for protection.;;;;;;;;;;;;;x
+dark_elf;Octopus;;;;;;;;;;;;;x
+dark_elf_desc;Soft-bodied mollusks with eight long, flexible arms covered in suckers. They are known for their intelligence, camouflage capabilities, and ability to squeeze through small openings.;;;;;;;;;;;;;x
+fantasy_dwarf;Orca;;;;;;;;;;;;;x
+fantasy_dwarf_desc;Marine mammals with a streamlined shape and dorsal fin. They are known for their intelligence, complex social structures, and remarkable hunting strategies, often working in groups to capture prey.;;;;;;;;;;;;;x
+dark_dwarf;Shark;;;;;;;;;;;;;x
+dark_dwarf_desc;Streamlined, cartilaginous fish with a distinct dorsal fin and rows of sharp teeth. They are skilled predators, possessing acute senses, especially their ability to detect electrical fields emitted by prey.;;;;;;;;;;;;;x
+cat_folk;Catfish;;;;;;;;;;;;;x
+cat_folk_desc;Elongated fish with whisker-like barbels around their mouths and often smooth, scaleless bodies. They are adept bottom-dwellers, using their barbels to sense their environment and detect food hidden in the substrate.;;;;;;;;;;;;;x
+orc;Manatee;;;;;;;;;;;;;x
+orc_desc;aquatic mammals with a round body, paddle-like flippers, and a flattened tail. They are gentle herbivores, primarily grazing on seagrasses, and have the ability to remain submerged for up to 20 minutes before surfacing for air.;;;;;;;;;;;;;x
+dwarven_leader;Reef Warrior;;;;;;;;;;;;;x
+sympathy_otherworlden;Sympathy for Sea Creature Religions;;;;;;;;;;;;;x
+sympathy_otherworlden_desc;This character, though not a member of any of the Sea Creature religions, understand many of their faiths and sympathises with them.;;;;;;;;;;;;;x
+#Complimetnt and insults
+INSULT_WITCH;witch;;;;;;;;;;;;;x
+INSULT_KNIFE_EARED;creature;;;;;;;;;;;;;x
+COMPLIMENT_BEAUTIFUL;beautiful;;;;;;;;;;;;;x
+COMPLIMENT_HANDSOME;handsome;;;;;;;;;;;;;x
+INSULT_STONE_EATER;coral eater;;;;;;;;;;;;;x
+INSULT_STUNTED;stunted;;;;;;;;;;;;;x
+INSULT_BEAST;beast;;;;;;;;;;;;;x
+INSULT_HAIRY;scaley;;;;;;;;;;;;;x
+COMPLIMENT_ELEGANT;elegant;;;;;;;;;;;;;x
+INSULT_GREENSKIN;greyskin;;;;;;;;;;;;;x

@@ -1984,7 +1984,6 @@ cancer = {
 	female_insult_adj = INSULT_WITHERING
 	child_insult_adj = INSULT_WITHERING
 	
-	opposites = full_cybernetic_conversion
 }
 
 immortal = {
@@ -7227,17 +7226,15 @@ zodiac_pisces = {
 			has_religion_feature = religion_astrology
 		}
 	}
-	intrigue = -1
+	diplomacy = -1
 	dynasty_opinion = 10
-	monthly_character_piety = 0.1
-	church_opinion = 5
 
 	random = no	
-	opposite_opinion = 5
-	same_opinion = 20
+	opposite_opinion = -5
+	same_opinion = 10
 
-	ai_greed = 10
-	ai_ambition = 20
+	ai_greed = -40
+	ai_ambition = -20
 	ai_honor = 40
 }
 

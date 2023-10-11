@@ -108,8 +108,9 @@ province_event = {
 				create_random_soldier = {
 					dynasty = 1035000 # Acatl
 					random_traits = yes
-					culture = han
-					religion = taoist
+					culture=han 
+					religion=taoist
+
 				}
 				new_character = {
 					e_mexikha = {

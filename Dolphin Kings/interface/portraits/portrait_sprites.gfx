@@ -1692,7 +1692,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_character_possessed"
 		texturefile = "gfx\\characters\\shared\\character_possessed.dds"
-		noOfFrames = 2
+		noOfFrames = 3
 		norefcount = yes
 		can_be_lowres = yes
 	}

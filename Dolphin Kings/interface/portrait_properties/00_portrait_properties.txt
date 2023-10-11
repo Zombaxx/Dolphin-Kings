@@ -5119,7 +5119,7 @@
 
 #p30 Dolphin (used in Vanilla for Demon Child (fantasy only))
 30 = {
-	0 = { # blank
+	0 = { #
 		factor = 100
 		hide_layers = { 1 = { } }
 		hide_layers = { 2 = { } }
@@ -5135,6 +5135,16 @@
 		modifier = {
 			factor = 0
 			is_female = no
+		}
+		modifier = {
+			OR = {
+				trait = elf
+				trait = dark_elf
+				trait = fantasy_dwarf
+				trait = dark_dwarf
+				trait = cat_folk
+				trait = orc
+			}
 		}
  	}
 
@@ -5155,7 +5165,41 @@
 			factor = 0
 			is_female = yes
 		}
+		modifier = {
+			factor = 0
+			OR = {
+				trait = elf
+				trait = dark_elf
+				trait = fantasy_dwarf
+				trait = dark_dwarf
+				trait = cat_folk
+				trait = orc
+			}
+		}
   	}
+	2 = { #
+		factor = 100
+		#hide_layers = { 1 = { } }
+		#hide_layers = { 2 = { } }
+		#hide_layers = { 4 = { } }
+		#hide_layers = { 12 = { } }
+		#hide_layers = { 14 = { } }
+		#hide_layers = { 15 = { } }
+		#hide_layers = { 21 = { } }
+		#hide_layers = { 22 = { } }
+		#hide_layers = { 24 = { } }
+		#hide_layers = { 29 = { } }
+		#hide_layers = { 35 = { } }
+		modifier = {
+			factor = 0
+			NOT = { trait = elf }
+			NOT = { trait = dark_elf }
+			NOT = { trait = fantasy_dwarf }
+			NOT = { trait = dark_dwarf }
+			NOT = { trait = cat_folk }
+			NOT = { trait = orc }
+		}
+	}
 }
 
 #p31 frankish Culture Overlayer - Male
