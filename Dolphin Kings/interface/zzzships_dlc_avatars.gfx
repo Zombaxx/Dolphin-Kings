@@ -2,19 +2,28 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "muslimgfx_GALLEYS"
-		file = "gfx\models\cruiser.mesh"
-		scale = 0.5f	
+		file = "gfx\models\whale.mesh"	
+		animation = { id = "attack"		type = "whale_attack_animation" }
+		animation = { id = "idle"		type = "whale_idle_animation" }
+		animation = { id = "move"		type = "whale_moving_animation" }
+		scale = 2.0f	
 		}
 		
 	pdxmesh = {
 		name = "indiangfx_GALLEYS"
-		file = "gfx\models\cruiser.mesh"
-		scale = 0.5f		
+		file = "gfx\models\whale.mesh"	
+		animation = { id = "attack"		type = "whale_attack_animation" }
+		animation = { id = "idle"		type = "whale_idle_animation" }
+		animation = { id = "move"		type = "whale_moving_animation" }
+		scale = 2.0f			
 		}	
 		
 	pdxmesh = {
 		name = "mesoamericangfx_GALLEYS"
-		file = "gfx\models\cruiser.mesh"
-		scale = 0.5f	
+		file = "gfx\models\whale.mesh"	
+		animation = { id = "attack"		type = "whale_attack_animation" }
+		animation = { id = "idle"		type = "whale_idle_animation" }
+		animation = { id = "move"		type = "whale_moving_animation" }
+		scale = 2.0f		
 	}
 }

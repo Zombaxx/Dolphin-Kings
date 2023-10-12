@@ -1,0 +1,27 @@
+prepend = "gfx/models"
+
+animation = {
+	name = "dolphin_attack_animation"
+	file = "dolphin_attack.anim"
+}
+animation = {
+	name = "dolphin_moving_animation"
+	file = "dolphin_moving.anim"
+}
+animation = {
+	name = "dolphin_idle_animation"
+	file = "dolphin_idle.anim"
+}
+animation = {
+	name = "whale_attack_animation"
+	file = "whale_attack.anim"
+}
+animation = {
+	name = "whale_moving_animation"
+	file = "whale_moving.anim"
+}
+animation = {
+	name = "whale_idle_animation"
+	file = "whale_idle.anim"
+}
+
