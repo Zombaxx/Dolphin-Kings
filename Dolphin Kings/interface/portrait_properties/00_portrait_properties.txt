@@ -5137,6 +5137,7 @@
 			is_female = no
 		}
 		modifier = {
+			factor = 0
 			OR = {
 				trait = elf
 				trait = dark_elf
