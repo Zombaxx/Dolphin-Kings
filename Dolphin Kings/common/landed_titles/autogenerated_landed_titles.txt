@@ -95,7 +95,6 @@ e_empire0001 = {
 				holy_site = aztec_reformed
 				holy_site = catholic
 				holy_site = fraticelli
-				holy_site = miaphysite
 				
 				b_barony0001` = {
 				dynasty_title_names = no
@@ -2591,6 +2590,7 @@ e_empire0157 = {
 				color={ 182 198 86 }
 				color2={ 255 255 255 }
 				
+				holy_site = miaphysite
 				
 				b_barony0094` = { }
 				b_barony0094a = { }
@@ -4173,7 +4173,6 @@ e_empire0210 = {
 				holy_site = monophysite
 				holy_site = catholic
 				holy_site = fraticelli
-				holy_site = miaphysite
 				
 				b_barony0182` = {
 				dynasty_title_names = no
@@ -5283,6 +5282,7 @@ e_empire0367 = {
 				color={ 156 207 77 }
 				color2={ 255 255 255 }
 				
+				holy_site = miaphysite
 				
 				b_barony0202` = { }
 				b_barony0202a = { }
@@ -7274,7 +7274,6 @@ e_empire0393 = {
 				holy_site = hellenic_pagan_reformed
 				holy_site = catholic
 				holy_site = fraticelli
-				holy_site = miaphysite
 				
 				b_barony0406` = {
 				dynasty_title_names = no
@@ -19325,6 +19324,7 @@ e_empire0988 = {
 				color={ 191 69 98 }
 				color2={ 255 255 255 }
 				
+				holy_site = miaphysite
 				
 				b_barony0988` = { }
 				b_barony0988a = { }
